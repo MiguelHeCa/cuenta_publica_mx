@@ -7,4 +7,4 @@ Si bien los datos que suben son accesibles y ya están (en su mayor parte) sufic
 
 Transparencia presupuestaria publica la información necesaria para entender la cuenta pública en el [catálogo presupuestario](https://www.transparenciapresupuestaria.gob.mx/work/models/PTP/DatosAbiertos/Metadatos/catalogos_presupuestarios.xlsx) y en el [Diccionario Avance Financiero](https://www.transparenciapresupuestaria.gob.mx/work/models/PTP/DatosAbiertos/Metadatos/Metadatos_Avance_Financiero.xlsx). 
 
-Aunque se agradece que es pública la información, a veces es difícil de seguir el hilo del significado de esta información. Tal vez en un futuro desgloce en un wiki.
+Aunque se agradece que es pública la información, a veces es difícil de seguir el hilo del significado de esta información. Tal vez en un futuro haga un wiki al respecto.
