@@ -87,3 +87,9 @@ sum(is.na(cp0817$RMP)) == 0
 
 #### Guardar cuenta pública ####
 saveRDS(cp0817, "data/cuenta_publica_0817.rds")
+
+#### Descargar la cuenta desde github ####
+
+githubURL <- ("https://raw.githubusercontent.com/MiguelHeCa/cuenta_publica_mx/master/data/cuenta_publica_0817.rds")
+download.file(githubURL, "data/cuenta_publica.rds", method = "curl")
+cp <- readRDS("data/cuenta_publica.rds")
