@@ -76,7 +76,7 @@ gc()
 #### Clave RMP ####
 
 cp0817 <- cp0817 %>% 
-  mutate(RMP = paste(ID_RAMO,
+  mutate(RMP = paste(sprintf("%02d", ID_RAMO),
                      ID_MODALIDAD,
                      sprintf("%03d", ID_PP),
                      sep = "")) %>% 
