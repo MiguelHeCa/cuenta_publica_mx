@@ -89,6 +89,9 @@ sum(is.na(cp0817$RMP)) == 0
 saveRDS(cp0817, "data/cuenta_publica_0817.rds")
 
 #### Descargar la cuenta desde github ####
+# Nota: asegúrate de tener instalado el programa "curl". De no ser el caso, 
+# puedes descargarlo desde https://curl.haxx.se/download.html donde puedes
+# buscar la descarga acorde a tu sistema operativo.
 
 githubURL <- ("https://raw.githubusercontent.com/MiguelHeCa/cuenta_publica_mx/master/data/cuenta_publica_0817.rds")
 download.file(githubURL, "data/cuenta_publica.rds", method = "curl")
