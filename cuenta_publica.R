@@ -94,5 +94,5 @@ saveRDS(cp0817, "data/cuenta_publica_0817.rds")
 # buscar la descarga acorde a tu sistema operativo.
 
 githubURL <- ("https://raw.githubusercontent.com/MiguelHeCa/cuenta_publica_mx/master/data/cuenta_publica_0817.rds")
-download.file(githubURL, "data/cuenta_publica.rds", method = "curl")
+download.file(githubURL, "data/cuenta_publica_0817.rds", method = "curl")
 cp <- readRDS("data/cuenta_publica.rds")
