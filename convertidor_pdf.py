@@ -10,6 +10,7 @@ import PyPDF2
 #%%
 archivo = 'C:/Users/jmhc/Documents/clasificador.pdf'
 
+#%%
 # leer archivo pdf
 
 pdfFileObj = open(archivo, 'rb')
@@ -28,3 +29,11 @@ while count < num_pages:
     text += pageObj.extractText()
     
 print(text)
+
+#%%
+type(text)
+
+#%%
+textfile = open('data/textfile.txt', 'w')
+textfile.write(text)
+textfile.close()
