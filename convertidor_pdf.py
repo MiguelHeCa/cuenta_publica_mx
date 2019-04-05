@@ -31,9 +31,6 @@ while count < num_pages:
 print(text)
 
 #%%
-type(text)
-
-#%%
 textfile = open('data/textfile.txt', 'w')
 textfile.write(text)
 textfile.close()
