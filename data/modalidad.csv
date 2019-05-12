@@ -1125,7 +1125,7 @@ CICLO,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,EJERCIDO_MDP
 2013,17,Procuraduría General de la República,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1116.41585083
 2013,17,Procuraduría General de la República,O,Apoyo a la función pública y al mejoramiento de la gestión,66.31973936
 2013,17,Procuraduría General de la República,R,Específicos,20.23851673
-2013,18,Energía,B,Provisión de Bienes Públicos,65e3
+2013,18,Energía,B,Provisión de Bienes Públicos,65000
 2013,18,Energía,E,Prestación de Servicios Públicos,32250.41980979
 2013,18,Energía,F,Promoción y fomento,20.258059449999998
 2013,18,Energía,G,Regulación y supervisión,432.08341895999996
@@ -1372,7 +1372,7 @@ CICLO,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,EJERCIDO_MDP
 2014,17,Procuraduría General de la República,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1919.7344417000002
 2014,17,Procuraduría General de la República,O,Apoyo a la función pública y al mejoramiento de la gestión,68.93909159
 2014,17,Procuraduría General de la República,R,Específicos,27.17041293
-2014,18,Energía,B,Provisión de Bienes Públicos,2e4
+2014,18,Energía,B,Provisión de Bienes Públicos,20000
 2014,18,Energía,E,Prestación de Servicios Públicos,33436.31601825
 2014,18,Energía,F,Promoción y fomento,23.38820074
 2014,18,Energía,G,Regulación y supervisión,648.19213686
@@ -1619,7 +1619,7 @@ CICLO,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,EJERCIDO_MDP
 2015,17,Procuraduría General de la República,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1206.8141842
 2015,17,Procuraduría General de la República,O,Apoyo a la función pública y al mejoramiento de la gestión,80.30594817000001
 2015,17,Procuraduría General de la República,R,Específicos,21.643315519999998
-2015,18,Energía,B,Provisión de Bienes Públicos,6e4
+2015,18,Energía,B,Provisión de Bienes Públicos,60000
 2015,18,Energía,E,Prestación de Servicios Públicos,45352.82472555
 2015,18,Energía,F,Promoción y fomento,20.91825406
 2015,18,Energía,G,Regulación y supervisión,210.53442821000002
@@ -2235,3 +2235,247 @@ CICLO,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,EJERCIDO_MDP
 2017,53,Comisión Federal de Electricidad,P,"Planeación, seguimiento y evaluación de políticas públicas",2995.553294
 2017,53,Comisión Federal de Electricidad,R,Específicos,81513.170438
 2017,53,Comisión Federal de Electricidad,W,Operaciones ajenas,-876.956533
+2018,1,Poder Legislativo,K,Proyectos de Inversión,274.62931073
+2018,1,Poder Legislativo,R,Específicos,14911.30816668
+2018,2,Oficina de la Presidencia de la República,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,63.63203608
+2018,2,Oficina de la Presidencia de la República,O,Apoyo a la función pública y al mejoramiento de la gestión,20.383917190000002
+2018,2,Oficina de la Presidencia de la República,P,"Planeación, seguimiento y evaluación de políticas públicas",3598.03642179
+2018,3,Poder Judicial,R,Específicos,64817.05294554
+2018,4,Gobernación,E,Prestación de Servicios Públicos,71785.2971954
+2018,4,Gobernación,K,Proyectos de Inversión,99.9999965
+2018,4,Gobernación,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,3479.1075960699995
+2018,4,Gobernación,N,Desastres Naturales,186.5098717
+2018,4,Gobernación,O,Apoyo a la función pública y al mejoramiento de la gestión,148.31792184
+2018,4,Gobernación,P,"Planeación, seguimiento y evaluación de políticas públicas",3705.8169960500004
+2018,4,Gobernación,R,Específicos,543.3400600900001
+2018,4,Gobernación,U,Otros Subsidios,5131.869980560001
+2018,5,Relaciones Exteriores,E,Prestación de Servicios Públicos,3699.6238699699998
+2018,5,Relaciones Exteriores,K,Proyectos de Inversión,139.77008312
+2018,5,Relaciones Exteriores,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1281.96237606
+2018,5,Relaciones Exteriores,O,Apoyo a la función pública y al mejoramiento de la gestión,30.6639732
+2018,5,Relaciones Exteriores,P,"Planeación, seguimiento y evaluación de políticas públicas",9151.18825967
+2018,6,Hacienda y Crédito Público,B,Provisión de Bienes Públicos,900.77324722
+2018,6,Hacienda y Crédito Público,E,Prestación de Servicios Públicos,25808.951409849997
+2018,6,Hacienda y Crédito Público,F,Promoción y fomento,6819.94023498
+2018,6,Hacienda y Crédito Público,G,Regulación y supervisión,3221.5410576199997
+2018,6,Hacienda y Crédito Público,K,Proyectos de Inversión,34.834898
+2018,6,Hacienda y Crédito Público,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,3069.6709899700004
+2018,6,Hacienda y Crédito Público,O,Apoyo a la función pública y al mejoramiento de la gestión,879.7274605700001
+2018,6,Hacienda y Crédito Público,P,"Planeación, seguimiento y evaluación de políticas públicas",3941.4313871500003
+2018,6,Hacienda y Crédito Público,R,Específicos,434.9
+2018,6,Hacienda y Crédito Público,S,Sujetos a Reglas de Operación,1518.9269904
+2018,6,Hacienda y Crédito Público,U,Otros Subsidios,30.47224767
+2018,7,Defensa Nacional,A,Funciones de las Fuerzas Armadas,70088.48298686
+2018,7,Defensa Nacional,K,Proyectos de Inversión,2601.17227023
+2018,7,Defensa Nacional,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,7061.391963659999
+2018,7,Defensa Nacional,R,Específicos,1185.1094598200002
+2018,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",E,Prestación de Servicios Públicos,5552.358977649999
+2018,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",G,Regulación y supervisión,2476.4259304099996
+2018,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",K,Proyectos de Inversión,257.52107551
+2018,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,2546.85414707
+2018,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",O,Apoyo a la función pública y al mejoramiento de la gestión,136.96576665999999
+2018,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",P,"Planeación, seguimiento y evaluación de políticas públicas",3744.7994995999998
+2018,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",S,Sujetos a Reglas de Operación,54183.712565229995
+2018,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",U,Otros Subsidios,3157.6999456599997
+2018,9,Comunicaciones y Transportes,E,Prestación de Servicios Públicos,9069.81645867
+2018,9,Comunicaciones y Transportes,G,Regulación y supervisión,9284.36851825
+2018,9,Comunicaciones y Transportes,K,Proyectos de Inversión,118127.04945328
+2018,9,Comunicaciones y Transportes,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,3265.85233539
+2018,9,Comunicaciones y Transportes,O,Apoyo a la función pública y al mejoramiento de la gestión,94.59107831
+2018,9,Comunicaciones y Transportes,P,"Planeación, seguimiento y evaluación de políticas públicas",793.59172971
+2018,9,Comunicaciones y Transportes,S,Sujetos a Reglas de Operación,1134.03166477
+2018,9,Comunicaciones y Transportes,U,Otros Subsidios,475.20427104999993
+2018,10,Economía,B,Provisión de Bienes Públicos,365.11593304
+2018,10,Economía,E,Prestación de Servicios Públicos,1525.00537189
+2018,10,Economía,F,Promoción y fomento,798.4162706899999
+2018,10,Economía,G,Regulación y supervisión,682.1176235
+2018,10,Economía,K,Proyectos de Inversión,185.11789222
+2018,10,Economía,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,493.89832736
+2018,10,Economía,O,Apoyo a la función pública y al mejoramiento de la gestión,77.84255884999999
+2018,10,Economía,P,"Planeación, seguimiento y evaluación de políticas públicas",1745.08203555
+2018,10,Economía,S,Sujetos a Reglas de Operación,3946.83309125
+2018,10,Economía,U,Otros Subsidios,429.9549571
+2018,11,Educación Pública,B,Provisión de Bienes Públicos,2491.56522432
+2018,11,Educación Pública,E,Prestación de Servicios Públicos,124921.61076361999
+2018,11,Educación Pública,G,Regulación y supervisión,702.03751812
+2018,11,Educación Pública,K,Proyectos de Inversión,884.31624134
+2018,11,Educación Pública,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,7117.67385471
+2018,11,Educación Pública,O,Apoyo a la función pública y al mejoramiento de la gestión,328.01073024
+2018,11,Educación Pública,P,"Planeación, seguimiento y evaluación de políticas públicas",2700.27385108
+2018,11,Educación Pública,S,Sujetos a Reglas de Operación,56163.24692434
+2018,11,Educación Pública,U,Otros Subsidios,120157.8186759
+2018,12,Salud,E,Prestación de Servicios Públicos,33149.04902281
+2018,12,Salud,G,Regulación y supervisión,1057.99376723
+2018,12,Salud,K,Proyectos de Inversión,164.64784636
+2018,12,Salud,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,3707.1621280900004
+2018,12,Salud,O,Apoyo a la función pública y al mejoramiento de la gestión,340.98812893
+2018,12,Salud,P,"Planeación, seguimiento y evaluación de políticas públicas",6248.20042731
+2018,12,Salud,S,Sujetos a Reglas de Operación,9715.14793791
+2018,12,Salud,U,Otros Subsidios,69150.94422658
+2018,13,Marina,A,Funciones de las Fuerzas Armadas,31702.497043
+2018,13,Marina,K,Proyectos de Inversión,3280.0958174
+2018,13,Marina,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,599.02380941
+2018,13,Marina,R,Específicos,0
+2018,14,Trabajo y Previsión Social,E,Prestación de Servicios Públicos,2110.4280646400002
+2018,14,Trabajo y Previsión Social,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,396.60020948000005
+2018,14,Trabajo y Previsión Social,O,Apoyo a la función pública y al mejoramiento de la gestión,35.65849239
+2018,14,Trabajo y Previsión Social,P,"Planeación, seguimiento y evaluación de políticas públicas",1000.72302282
+2018,14,Trabajo y Previsión Social,S,Sujetos a Reglas de Operación,990.76960064
+2018,15,"Desarrollo Agrario, Territorial y Urbano",E,Prestación de Servicios Públicos,1366.1500486199998
+2018,15,"Desarrollo Agrario, Territorial y Urbano",G,Regulación y supervisión,13.722988990000001
+2018,15,"Desarrollo Agrario, Territorial y Urbano",L,Obligaciones de cumplimiento de resolución jurisdiccional,207.22306129
+2018,15,"Desarrollo Agrario, Territorial y Urbano",M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,4321.36972788
+2018,15,"Desarrollo Agrario, Territorial y Urbano",O,Apoyo a la función pública y al mejoramiento de la gestión,51.40670615
+2018,15,"Desarrollo Agrario, Territorial y Urbano",P,"Planeación, seguimiento y evaluación de políticas públicas",3063.61606764
+2018,15,"Desarrollo Agrario, Territorial y Urbano",S,Sujetos a Reglas de Operación,11908.78086769
+2018,15,"Desarrollo Agrario, Territorial y Urbano",U,Otros Subsidios,363.83369216
+2018,15,"Desarrollo Agrario, Territorial y Urbano",W,Operaciones ajenas,0
+2018,16,Medio Ambiente y Recursos Naturales,E,Prestación de Servicios Públicos,6261.1611228
+2018,16,Medio Ambiente y Recursos Naturales,G,Regulación y supervisión,10117.67911976
+2018,16,Medio Ambiente y Recursos Naturales,K,Proyectos de Inversión,6841.7869424
+2018,16,Medio Ambiente y Recursos Naturales,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,2510.50937123
+2018,16,Medio Ambiente y Recursos Naturales,N,Desastres Naturales,103.61837623999999
+2018,16,Medio Ambiente y Recursos Naturales,O,Apoyo a la función pública y al mejoramiento de la gestión,145.57190154
+2018,16,Medio Ambiente y Recursos Naturales,P,"Planeación, seguimiento y evaluación de políticas públicas",1290.2603756199999
+2018,16,Medio Ambiente y Recursos Naturales,R,Específicos,279.62161156999997
+2018,16,Medio Ambiente y Recursos Naturales,S,Sujetos a Reglas de Operación,8604.57711465
+2018,16,Medio Ambiente y Recursos Naturales,U,Otros Subsidios,7427.52254657
+2018,17,Procuraduría General de la República,E,Prestación de Servicios Públicos,15831.240475190001
+2018,17,Procuraduría General de la República,K,Proyectos de Inversión,66.52634768
+2018,17,Procuraduría General de la República,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,858.4373648
+2018,17,Procuraduría General de la República,O,Apoyo a la función pública y al mejoramiento de la gestión,81.96354993
+2018,18,Energía,E,Prestación de Servicios Públicos,1333.2929783
+2018,18,Energía,G,Regulación y supervisión,123.38901886999999
+2018,18,Energía,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,280.38158295
+2018,18,Energía,O,Apoyo a la función pública y al mejoramiento de la gestión,42.193966079999996
+2018,18,Energía,P,"Planeación, seguimiento y evaluación de políticas públicas",871.75669235
+2018,18,Energía,R,Específicos,3043.9984435
+2018,19,Aportaciones a Seguridad Social,J,Pensiones y jubilaciones,572034.9556734101
+2018,19,Aportaciones a Seguridad Social,R,Específicos,10941.125719290001
+2018,19,Aportaciones a Seguridad Social,S,Sujetos a Reglas de Operación,11893.526776
+2018,19,Aportaciones a Seguridad Social,T,Aportaciones a la seguridad social,115160.741926
+2018,19,Aportaciones a Seguridad Social,U,Otros Subsidios,708.6273154
+2018,20,Desarrollo Social,B,Provisión de Bienes Públicos,1950.088712
+2018,20,Desarrollo Social,E,Prestación de Servicios Públicos,390.18475182
+2018,20,Desarrollo Social,K,Proyectos de Inversión,0.35793849000000005
+2018,20,Desarrollo Social,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,2726.3119155900004
+2018,20,Desarrollo Social,O,Apoyo a la función pública y al mejoramiento de la gestión,83.14678862999999
+2018,20,Desarrollo Social,P,"Planeación, seguimiento y evaluación de políticas públicas",3386.93174745
+2018,20,Desarrollo Social,S,Sujetos a Reglas de Operación,92013.39789916
+2018,20,Desarrollo Social,U,Otros Subsidios,154.08702833
+2018,21,Turismo,E,Prestación de Servicios Públicos,406.27081954000005
+2018,21,Turismo,F,Promoción y fomento,6993.92924409
+2018,21,Turismo,G,Regulación y supervisión,55.47082949
+2018,21,Turismo,K,Proyectos de Inversión,749.5287874400001
+2018,21,Turismo,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,280.99948581
+2018,21,Turismo,O,Apoyo a la función pública y al mejoramiento de la gestión,60.46355729
+2018,21,Turismo,P,"Planeación, seguimiento y evaluación de políticas públicas",272.45273837
+2018,21,Turismo,S,Sujetos a Reglas de Operación,956.37425348
+2018,22,Instituto Nacional Electoral,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,2962.7715960299997
+2018,22,Instituto Nacional Electoral,O,Apoyo a la función pública y al mejoramiento de la gestión,173.96579985
+2018,22,Instituto Nacional Electoral,P,"Planeación, seguimiento y evaluación de políticas públicas",43.73484707
+2018,22,Instituto Nacional Electoral,R,Específicos,20818.078819330003
+2018,23,Provisiones Salariales y Económicas,N,Desastres Naturales,34680.5818
+2018,23,Provisiones Salariales y Económicas,R,Específicos,9996.43383321
+2018,23,Provisiones Salariales y Económicas,U,Otros Subsidios,165048.22097079002
+2018,23,Provisiones Salariales y Económicas,Y,Aportaciones a fondos de estabilización,51741.6354
+2018,24,Deuda Pública,D,"Costo financiero, deuda o apoyos a deudores y ahorradores de la banca",452874.74507296004
+2018,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",E,Prestación de Servicios Públicos,36723.07001429999
+2018,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",I,Gasto Federalizado,0
+2018,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,509.13553714
+2018,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",O,Apoyo a la función pública y al mejoramiento de la gestión,34.77852914
+2018,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",S,Sujetos a Reglas de Operación,10.63571559
+2018,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",U,Otros Subsidios,154.193244
+2018,27,Función Pública,K,Proyectos de Inversión,19.78392014
+2018,27,Función Pública,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,198.29609905
+2018,27,Función Pública,O,Apoyo a la función pública y al mejoramiento de la gestión,1606.36369472
+2018,28,Participaciones a Entidades Federativas y Municipios,C,Participaciones a entidades federativas y municipios,844045.176555
+2018,30,Adeudos de Ejercicios Fiscales Anteriores,H,Adeudos de Ejercicios Fiscales Anteriores (ADEFAS),61215.995300970004
+2018,31,Tribunales Agrarios,E,Prestación de Servicios Públicos,924.96086336
+2018,31,Tribunales Agrarios,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,83.52133481999999
+2018,31,Tribunales Agrarios,O,Apoyo a la función pública y al mejoramiento de la gestión,4.02212953
+2018,32,Tribunal Federal de Justicia Administrativa,E,Prestación de Servicios Públicos,2798.81903269
+2018,32,Tribunal Federal de Justicia Administrativa,K,Proyectos de Inversión,34.02465942
+2018,32,Tribunal Federal de Justicia Administrativa,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,93.46044903
+2018,33,Aportaciones Federales para Entidades Federativas y Municipios,I,Gasto Federalizado,695710.54478921
+2018,34,Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca,D,"Costo financiero, deuda o apoyos a deudores y ahorradores de la banca",38168.5
+2018,35,Comisión Nacional de los Derechos Humanos,E,Prestación de Servicios Públicos,1555.07970106
+2018,35,Comisión Nacional de los Derechos Humanos,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,291.66340744
+2018,35,Comisión Nacional de los Derechos Humanos,O,Apoyo a la función pública y al mejoramiento de la gestión,46.20167146
+2018,35,Comisión Nacional de los Derechos Humanos,P,"Planeación, seguimiento y evaluación de políticas públicas",47.19431835
+2018,37,Consejería Jurídica del Ejecutivo Federal,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,26.59361505
+2018,37,Consejería Jurídica del Ejecutivo Federal,O,Apoyo a la función pública y al mejoramiento de la gestión,7.271112759999999
+2018,37,Consejería Jurídica del Ejecutivo Federal,P,"Planeación, seguimiento y evaluación de políticas públicas",108.67001040000001
+2018,38,Consejo Nacional de Ciencia y Tecnología,E,Prestación de Servicios Públicos,5177.32850631
+2018,38,Consejo Nacional de Ciencia y Tecnología,F,Promoción y fomento,1552.55376471
+2018,38,Consejo Nacional de Ciencia y Tecnología,K,Proyectos de Inversión,47.20119665
+2018,38,Consejo Nacional de Ciencia y Tecnología,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,744.7945023100001
+2018,38,Consejo Nacional de Ciencia y Tecnología,O,Apoyo a la función pública y al mejoramiento de la gestión,65.81161464
+2018,38,Consejo Nacional de Ciencia y Tecnología,P,"Planeación, seguimiento y evaluación de políticas públicas",1735.19583038
+2018,38,Consejo Nacional de Ciencia y Tecnología,S,Sujetos a Reglas de Operación,16486.25420727
+2018,38,Consejo Nacional de Ciencia y Tecnología,U,Otros Subsidios,1617.6011374500001
+2018,40,Información Nacional Estadística y Geográfica,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,418.32561929
+2018,40,Información Nacional Estadística y Geográfica,O,Apoyo a la función pública y al mejoramiento de la gestión,58.19720501
+2018,40,Información Nacional Estadística y Geográfica,P,"Planeación, seguimiento y evaluación de políticas públicas",7377.146856189999
+2018,41,Comisión Federal de Competencia Económica,G,Regulación y supervisión,487.04750895999996
+2018,41,Comisión Federal de Competencia Económica,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,107.90250941
+2018,41,Comisión Federal de Competencia Económica,O,Apoyo a la función pública y al mejoramiento de la gestión,9.64195595
+2018,42,Instituto Nacional para la Evaluación de la Educación,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,333.13731401999996
+2018,42,Instituto Nacional para la Evaluación de la Educación,O,Apoyo a la función pública y al mejoramiento de la gestión,38.35434069
+2018,42,Instituto Nacional para la Evaluación de la Educación,P,"Planeación, seguimiento y evaluación de políticas públicas",835.5978274500001
+2018,43,Instituto Federal de Telecomunicaciones,G,Regulación y supervisión,1656.30584042
+2018,43,Instituto Federal de Telecomunicaciones,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,471.80496026
+2018,43,Instituto Federal de Telecomunicaciones,O,Apoyo a la función pública y al mejoramiento de la gestión,36.53166421
+2018,44,"Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales",E,Prestación de Servicios Públicos,825.58674364
+2018,44,"Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales",K,Proyectos de Inversión,73.69978192
+2018,44,"Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales",M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,123.91452886
+2018,44,"Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales",O,Apoyo a la función pública y al mejoramiento de la gestión,18.422696329999997
+2018,45,Comisión Reguladora de Energía,G,Regulación y supervisión,1003.90051588
+2018,45,Comisión Reguladora de Energía,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,119.56776756000001
+2018,45,Comisión Reguladora de Energía,O,Apoyo a la función pública y al mejoramiento de la gestión,21.21318609
+2018,46,Comisión Nacional de Hidrocarburos,G,Regulación y supervisión,663.50313949
+2018,46,Comisión Nacional de Hidrocarburos,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,211.50262764
+2018,46,Comisión Nacional de Hidrocarburos,O,Apoyo a la función pública y al mejoramiento de la gestión,19.187436050000002
+2018,46,Comisión Nacional de Hidrocarburos,P,"Planeación, seguimiento y evaluación de políticas públicas",72.65102026999999
+2018,47,Entidades no Sectorizadas,E,Prestación de Servicios Públicos,1790.6143210999999
+2018,47,Entidades no Sectorizadas,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,439.95226270999996
+2018,47,Entidades no Sectorizadas,O,Apoyo a la función pública y al mejoramiento de la gestión,31.911233210000002
+2018,47,Entidades no Sectorizadas,P,"Planeación, seguimiento y evaluación de políticas públicas",1488.0565914000001
+2018,47,Entidades no Sectorizadas,S,Sujetos a Reglas de Operación,4488.30649693
+2018,47,Entidades no Sectorizadas,U,Otros Subsidios,203.13002788999998
+2018,48,Cultura,E,Prestación de Servicios Públicos,10544.11209711
+2018,48,Cultura,K,Proyectos de Inversión,27.000833280000002
+2018,48,Cultura,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,2085.59621661
+2018,48,Cultura,O,Apoyo a la función pública y al mejoramiento de la gestión,71.81215359999999
+2018,48,Cultura,P,"Planeación, seguimiento y evaluación de políticas públicas",70.84784112
+2018,48,Cultura,R,Específicos,926.44380542
+2018,48,Cultura,S,Sujetos a Reglas de Operación,541.65119067
+2018,50,Instituto Mexicano del Seguro Social,E,Prestación de Servicios Públicos,236873.763446
+2018,50,Instituto Mexicano del Seguro Social,J,Pensiones y jubilaciones,394459.983454
+2018,50,Instituto Mexicano del Seguro Social,K,Proyectos de Inversión,8912.192052
+2018,50,Instituto Mexicano del Seguro Social,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,49457.526664
+2018,50,Instituto Mexicano del Seguro Social,O,Apoyo a la función pública y al mejoramiento de la gestión,321.949524
+2018,50,Instituto Mexicano del Seguro Social,W,Operaciones ajenas,-7884.988162
+2018,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,E,Prestación de Servicios Públicos,47994.451405
+2018,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,J,Pensiones y jubilaciones,210911.517421
+2018,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,K,Proyectos de Inversión,404.400932
+2018,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,29555.336972
+2018,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,O,Apoyo a la función pública y al mejoramiento de la gestión,337.567701
+2018,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,W,Operaciones ajenas,300.732053
+2018,52,Petróleos Mexicanos,B,Provisión de Bienes Públicos,71162.763797
+2018,52,Petróleos Mexicanos,E,Prestación de Servicios Públicos,176081.350278
+2018,52,Petróleos Mexicanos,J,Pensiones y jubilaciones,56144.926081
+2018,52,Petróleos Mexicanos,K,Proyectos de Inversión,187263.452116
+2018,52,Petróleos Mexicanos,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,11439.953703
+2018,52,Petróleos Mexicanos,O,Apoyo a la función pública y al mejoramiento de la gestión,53.964608
+2018,52,Petróleos Mexicanos,R,Específicos,1429.616868
+2018,52,Petróleos Mexicanos,W,Operaciones ajenas,-5200.406481
+2018,53,Comisión Federal de Electricidad,E,Prestación de Servicios Públicos,262546.06186
+2018,53,Comisión Federal de Electricidad,F,Promoción y fomento,35.730213
+2018,53,Comisión Federal de Electricidad,J,Pensiones y jubilaciones,39534.334603
+2018,53,Comisión Federal de Electricidad,K,Proyectos de Inversión,37201.108373
+2018,53,Comisión Federal de Electricidad,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,41633.356825
+2018,53,Comisión Federal de Electricidad,O,Apoyo a la función pública y al mejoramiento de la gestión,77.755962
+2018,53,Comisión Federal de Electricidad,P,"Planeación, seguimiento y evaluación de políticas públicas",4183.153957
+2018,53,Comisión Federal de Electricidad,R,Específicos,88299.52403
+2018,53,Comisión Federal de Electricidad,W,Operaciones ajenas,-1409.092216

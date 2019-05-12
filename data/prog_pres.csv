@@ -775,10 +775,10 @@ CICLO,RMP,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,ID_PP,DESC_PP,EJERCIDO_M
 2008,11U005,11,Educación Pública,U,Otros programas de subsidios,5,Fondo de Apoyo para la Calidad de los Institutos Tecnológicos (Fondo de concurso por proyectos para impulso de la calidad que pueden incluir equipamiento),99.1
 2008,11U006,11,Educación Pública,U,Otros programas de subsidios,6,Subsidios federales para organismos descentralizados estatales,34480.425914
 2008,11U007,11,Educación Pública,U,Otros programas de subsidios,7,Fondo de Apoyo para Reformas Estructurales de las Universidades Públicas Estatales (Fondo de concurso para apoyar las reformas de las UPES para abatir pasivos contingentes derivados de pensiones y jubilaciones),1200
-2008,11U008,11,Educación Pública,U,Otros programas de subsidios,8,Fondo de Apoyo para Saneamiento Financiero de las UPES por Abajo de la Media Nacional en Subsidio por Alumno (Fondo de concurso para propuestas de saneamiento financiero),1e3
+2008,11U008,11,Educación Pública,U,Otros programas de subsidios,8,Fondo de Apoyo para Saneamiento Financiero de las UPES por Abajo de la Media Nacional en Subsidio por Alumno (Fondo de concurso para propuestas de saneamiento financiero),1000
 2008,11U009,11,Educación Pública,U,Otros programas de subsidios,9,Fondo para el Reconocimiento de Plantilla de las Universidades Públicas Estatales (fondo de concurso),600
-2008,11U010,11,Educación Pública,U,Otros programas de subsidios,10,Fondo para Incremento de la Matrícula en Educación Superior de las Universidades Públicas Estatales y con Apoyo Solidario,1e3
-2008,11U011,11,Educación Pública,U,Otros programas de subsidios,11,Fondo para la Consolidación de las Universidades Públicas Estatales y con Apoyo Solidario,1e3
+2008,11U010,11,Educación Pública,U,Otros programas de subsidios,10,Fondo para Incremento de la Matrícula en Educación Superior de las Universidades Públicas Estatales y con Apoyo Solidario,1000
+2008,11U011,11,Educación Pública,U,Otros programas de subsidios,11,Fondo para la Consolidación de las Universidades Públicas Estatales y con Apoyo Solidario,1000
 2008,11U012,11,Educación Pública,U,Otros programas de subsidios,12,"Modelo de Asignación Adicional al Subsidio Federal Ordinario, Universidades Públicas Estatales (Distribución por la fórmula CUPIA con participación de la SEP y ANUIES)",1150
 2008,11U304,11,Educación Pública,U,Otros programas de subsidios,304,Fondo Concursable para la Inversión en Infraestructura para Educación Media Superior (Ampliaciones determinadas por la Cámara de Diputados),749.999998
 2008,11U530,11,Educación Pública,U,Otros programas de subsidios,530,Fortalecimiento de la calidad de las escuelas normales (Fondo de concurso) (Ampliaciones determinadas por la Cámara de Diputados),226.491269
@@ -1116,7 +1116,7 @@ CICLO,RMP,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,ID_PP,DESC_PP,EJERCIDO_M
 2008,19R015,19,Aportaciones a Seguridad Social,R,Otras actividades relevantes,15,Apoyo a jubilados del IMSS e ISSSTE,0
 2008,19R018,19,Aportaciones a Seguridad Social,R,Otras actividades relevantes,18,Apoyo para cubrir el gasto de operación del ISSSTE,6611.538184
 2008,19R023,19,Aportaciones a Seguridad Social,R,Otras actividades relevantes,23,Adeudos con el IMSS e ISSSTE,0
-2008,19R024,19,Aportaciones a Seguridad Social,R,Otras actividades relevantes,24,Préstamos personales a derechohabientes del ISSSTE.,2e3
+2008,19R024,19,Aportaciones a Seguridad Social,R,Otras actividades relevantes,24,Préstamos personales a derechohabientes del ISSSTE.,2000
 2008,19R025,19,Aportaciones a Seguridad Social,R,Otras actividades relevantes,25,Base de datos institucional del ISSSTE.,195.5
 2008,19R026,19,Aportaciones a Seguridad Social,R,Otras actividades relevantes,26,Fortalecimiento de los servicios de salud del ISSSTE.,3250
 2008,19R027,19,Aportaciones a Seguridad Social,R,Otras actividades relevantes,27,Constitución Patrimonio y Reserva Especial del PENSIONISSSTE.,407.14
@@ -1259,7 +1259,7 @@ CICLO,RMP,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,ID_PP,DESC_PP,EJERCIDO_M
 2008,23R093,23,Provisiones Salariales y Económicas,R,Otras actividades relevantes,93,Seguro de vida de las Dependencias y Entidades de la APF,45.831014
 2008,23R096,23,Provisiones Salariales y Económicas,R,Otras actividades relevantes,96,Transferencias para el ISSSFAM,8.193106
 2008,23R097,23,Provisiones Salariales y Económicas,R,Otras actividades relevantes,97,Apoyo extraordinario a personas afectadas por accidente (4 de nov),23.784206
-2008,23R098,23,Provisiones Salariales y Económicas,R,Otras actividades relevantes,98,Apoyo Federal para Saneamiento Financiero,1e3
+2008,23R098,23,Provisiones Salariales y Económicas,R,Otras actividades relevantes,98,Apoyo Federal para Saneamiento Financiero,1000
 2008,23R099,23,Provisiones Salariales y Económicas,R,Otras actividades relevantes,99,DIF-DF,250
 2008,23R100,23,Provisiones Salariales y Económicas,R,Otras actividades relevantes,100,Aportaciones al ISSSTE,0
 2008,23R101,23,Provisiones Salariales y Económicas,R,Otras actividades relevantes,101,Aportaciones al FOVISSSTE,0
@@ -1271,11 +1271,11 @@ CICLO,RMP,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,ID_PP,DESC_PP,EJERCIDO_M
 2008,23R108,23,Provisiones Salariales y Económicas,R,Otras actividades relevantes,108,Fideicomiso para dar cumplimiento a la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,70900.3
 2008,23R109,23,Provisiones Salariales y Económicas,R,Otras actividades relevantes,109,Ingresos Excedentes para la atención a Desastres Naturales,780
 2008,23R110,23,Provisiones Salariales y Económicas,R,Otras actividades relevantes,110,Fideicomiso Fondo para la Conclusión de la Relación Laboral,161.963684
-2008,23R111,23,Provisiones Salariales y Económicas,R,Otras actividades relevantes,111,Fideicomiso para coadyuvar al Desarrollo de las Entidades Federativas y Municipios (FIDEM),2e3
+2008,23R111,23,Provisiones Salariales y Económicas,R,Otras actividades relevantes,111,Fideicomiso para coadyuvar al Desarrollo de las Entidades Federativas y Municipios (FIDEM),2000
 2008,23R112,23,Provisiones Salariales y Económicas,R,Otras actividades relevantes,112,Apoyo a municipios para obras de infraestructura y seguridad de los monumentos y zonas arqueológicas (Derecho de Museos),11.659315
 2008,23R900,23,Provisiones Salariales y Económicas,R,Otras actividades relevantes,900,Poder Judicial (Ampliaciones determinadas por la Cámara de Diputados),0
 2008,23R901,23,Provisiones Salariales y Económicas,R,Otras actividades relevantes,901,Poder Judicial Estatal (Ampliaciones determinadas por la Cámara de Diputados),524
-2008,23R902,23,Provisiones Salariales y Económicas,R,Otras actividades relevantes,902,Desarrollo Regional (Fondo del Sur) (Ampliaciones determinadas por la Cámara de Diputados),2e3
+2008,23R902,23,Provisiones Salariales y Económicas,R,Otras actividades relevantes,902,Desarrollo Regional (Fondo del Sur) (Ampliaciones determinadas por la Cámara de Diputados),2000
 2008,23R903,23,Provisiones Salariales y Económicas,R,Otras actividades relevantes,903,Evaluación Seguridad Pública (Ampliaciones determinadas por la Cámara de Diputados),0
 2008,23R904,23,Provisiones Salariales y Económicas,R,Otras actividades relevantes,904,Distrito Federal Seguridad Pública(Ampliaciones determinadas por la Cámara de Diputados),500
 2008,23R905,23,Provisiones Salariales y Económicas,R,Otras actividades relevantes,905,Distrito Federal Protección Civil(Ampliaciones determinadas por la Cámara de Diputados),750
@@ -1872,10 +1872,10 @@ CICLO,RMP,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,ID_PP,DESC_PP,EJERCIDO_M
 2009,11S223,11,Educación Pública,S,Sujetos a Reglas de Operación,223,Habilidades digitales para todos,860.712607
 2009,11U006,11,Educación Pública,U,Otros Subsidios,6,Subsidios federales para organismos descentralizados estatales,42314.935669
 2009,11U007,11,Educación Pública,U,Otros Subsidios,7,Fondo de Apoyo para Reformas Estructurales de las Universidades Públicas Estatales (Fondo de concurso para apoyar las reformas de las UPES para abatir pasivos contingentes derivados de pensiones y jubilaciones),1173.862472
-2009,11U008,11,Educación Pública,U,Otros Subsidios,8,Fondo de Apoyo para Saneamiento Financiero de las UPES por Abajo de la Media Nacional en Subsidio por Alumno (Fondo de concurso para propuestas de saneamiento financiero),1e3
+2009,11U008,11,Educación Pública,U,Otros Subsidios,8,Fondo de Apoyo para Saneamiento Financiero de las UPES por Abajo de la Media Nacional en Subsidio por Alumno (Fondo de concurso para propuestas de saneamiento financiero),1000
 2009,11U009,11,Educación Pública,U,Otros Subsidios,9,Fondo para el Reconocimiento de Plantilla de las Universidades Públicas Estatales (fondo de concurso),600
-2009,11U010,11,Educación Pública,U,Otros Subsidios,10,Fondo para Incremento de la Matrícula en Educación Superior de las Universidades Públicas Estatales y con Apoyo Solidario,1e3
-2009,11U011,11,Educación Pública,U,Otros Subsidios,11,Fondo para la Consolidación de las Universidades Públicas Estatales y con Apoyo Solidario,1e3
+2009,11U010,11,Educación Pública,U,Otros Subsidios,10,Fondo para Incremento de la Matrícula en Educación Superior de las Universidades Públicas Estatales y con Apoyo Solidario,1000
+2009,11U011,11,Educación Pública,U,Otros Subsidios,11,Fondo para la Consolidación de las Universidades Públicas Estatales y con Apoyo Solidario,1000
 2009,11U012,11,Educación Pública,U,Otros Subsidios,12,"Modelo de Asignación Adicional al Subsidio Federal Ordinario, Universidades Públicas Estatales (Distribución por la fórmula CUPIA con participación de la SEP y ANUIES)",1300
 2009,11U015,11,Educación Pública,U,Otros Subsidios,15,Atención educativa a grupos en situación vulnerable,25.221936
 2009,11U016,11,Educación Pública,U,Otros Subsidios,16,Escuela siempre abierta a la comunidad,348.16648
@@ -2095,7 +2095,7 @@ CICLO,RMP,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,ID_PP,DESC_PP,EJERCIDO_M
 2009,18E005,18,Energía,E,Prestación de Servicios Públicos,5,Investigación y desarrollo tecnológico y de capital humano en energía eléctrica,158.229508
 2009,18E016,18,Energía,E,Prestación de Servicios Públicos,16,Prestación de bienes y servicios en materia nuclear,198.564246
 2009,18E203,18,Energía,E,Prestación de Servicios Públicos,203,"Adaptación, mantenimiento y conservación de la infraestructura de las instalaciones de LyFC",9.657398
-2009,18E204,18,Energía,E,Prestación de Servicios Públicos,204,Generación de energía eléctrica.,18e3
+2009,18E204,18,Energía,E,Prestación de Servicios Públicos,204,Generación de energía eléctrica.,18000
 2009,18E206,18,Energía,E,Prestación de Servicios Públicos,206,Adquisición de energía eléctrica,32098.115296
 2009,18E570,18,Energía,E,Prestación de Servicios Públicos,570,Operación y mantenimiento de los procesos de distribución y de comercialización de energía eléctrica,134.708426
 2009,18F008,18,Energía,F,Promoción y fomento,8,Programa de sustitución de equipos electrodomésticos para el ahorro de energía,47.258695
@@ -2908,7 +2908,7 @@ CICLO,RMP,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,ID_PP,DESC_PP,EJERCIDO_M
 2010,09K038,9,Comunicaciones y Transportes,K,Proyectos de Inversión,38,Dragado en puertos no concesionados,30.212623
 2010,09K039,9,Comunicaciones y Transportes,K,Proyectos de Inversión,39,Estudios y proyectos de construcción de caminos rurales y carreteras alimentadoras,477.379015
 2010,09K040,9,Comunicaciones y Transportes,K,Proyectos de Inversión,40,Proyectos de Infraestructura Ferroviaria,1473.176803
-2010,09K041,9,Comunicaciones y Transportes,K,Proyectos de Inversión,41,Sistema de Transporte Colectivo,1e3
+2010,09K041,9,Comunicaciones y Transportes,K,Proyectos de Inversión,41,Sistema de Transporte Colectivo,1000
 2010,09K045,9,Comunicaciones y Transportes,K,Proyectos de Inversión,45,Sistema Satelital y de Conectividad Nacional,2711.61
 2010,09M001,9,Comunicaciones y Transportes,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,1760.850375
 2010,09O001,9,Comunicaciones y Transportes,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,79.391322
@@ -3083,7 +3083,7 @@ CICLO,RMP,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,ID_PP,DESC_PP,EJERCIDO_M
 2010,11S223,11,Educación Pública,S,Sujetos a Reglas de Operación,223,Habilidades digitales para todos,532.262652
 2010,11S227,11,Educación Pública,S,Sujetos a Reglas de Operación,227,"Programa de Fortalecimiento de Comunidades Escolares de Aprendizaje, Concursable",100
 2010,11U006,11,Educación Pública,U,Otros Subsidios,6,Subsidios federales para organismos descentralizados estatales,44966.047685
-2010,11U007,11,Educación Pública,U,Otros Subsidios,7,Fondo de Apoyo para Reformas Estructurales de las Universidades Públicas Estatales (Fondo de concurso para apoyar las reformas de las UPES para abatir pasivos contingentes derivados de pensiones y jubilaciones),1e3
+2010,11U007,11,Educación Pública,U,Otros Subsidios,7,Fondo de Apoyo para Reformas Estructurales de las Universidades Públicas Estatales (Fondo de concurso para apoyar las reformas de las UPES para abatir pasivos contingentes derivados de pensiones y jubilaciones),1000
 2010,11U008,11,Educación Pública,U,Otros Subsidios,8,Fondo de Apoyo para Saneamiento Financiero de las UPES por Abajo de la Media Nacional en Subsidio por Alumno (Fondo de concurso para propuestas de saneamiento financiero),800
 2010,11U009,11,Educación Pública,U,Otros Subsidios,9,Fondo para el Reconocimiento de Plantilla de las Universidades Públicas Estatales (fondo de concurso),400
 2010,11U010,11,Educación Pública,U,Otros Subsidios,10,Fondo para Incremento de la Matrícula en Educación Superior de las Universidades Públicas Estatales y con Apoyo Solidario,586.770735
@@ -3104,7 +3104,7 @@ CICLO,RMP,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,ID_PP,DESC_PP,EJERCIDO_M
 2010,11U030,11,Educación Pública,U,Otros Subsidios,30,Fortalecimiento de la calidad en las escuelas normales,78.69917
 2010,11U031,11,Educación Pública,U,Otros Subsidios,31,Fortalecimiento a la Educación Temprana y el Desarrollo Infantil,216.2
 2010,11U032,11,Educación Pública,U,Otros Subsidios,32,Atención Educativa a Grupos en Situación vulnerable en Educación Básica,57.651649
-2010,11U033,11,Educación Pública,U,Otros Subsidios,33,Apoyos complementarios para el FAEB,1e3
+2010,11U033,11,Educación Pública,U,Otros Subsidios,33,Apoyos complementarios para el FAEB,1000
 2010,11U035,11,Educación Pública,U,Otros Subsidios,35,Fortalecimiento de la educación media superior en COLBACH,392
 2010,11U036,11,Educación Pública,U,Otros Subsidios,36,Fortalecimiento de la educación media superior en CECYTES,196
 2010,11U038,11,Educación Pública,U,Otros Subsidios,38,Sistema Nacional de Educación a Distancia,50
@@ -3308,7 +3308,7 @@ CICLO,RMP,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,ID_PP,DESC_PP,EJERCIDO_M
 2010,18E005,18,Energía,E,Prestación de Servicios Públicos,5,Investigación y desarrollo tecnológico y de capital humano en energía eléctrica,179.813655
 2010,18E009,18,Energía,E,Prestación de Servicios Públicos,9,Gestión e implementación en aprovechamiento sustentable de la energía,29.102266
 2010,18E016,18,Energía,E,Prestación de Servicios Públicos,16,Prestación de bienes y servicios en materia nuclear,224.053489
-2010,18E204,18,Energía,E,Prestación de Servicios Públicos,204,Generación de energía eléctrica.,23e3
+2010,18E204,18,Energía,E,Prestación de Servicios Públicos,204,Generación de energía eléctrica.,23000
 2010,18E561,18,Energía,E,Prestación de Servicios Públicos,561,Operación y mantenimiento de las centrales generadoras de energía eléctrica,5804.3
 2010,18E570,18,Energía,E,Prestación de Servicios Públicos,570,Operación y mantenimiento de los procesos de distribución y de comercialización de energía eléctrica,140.92806
 2010,18F012,18,Energía,F,Promoción y fomento,12,Promoción en materia de aprovechamiento sustentable de la energía,6.135703
@@ -3423,7 +3423,7 @@ CICLO,RMP,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,ID_PP,DESC_PP,EJERCIDO_M
 2010,23R007,23,Provisiones Salariales y Económicas,R,Específicos,7,Comisiones y pago a CECOBAN,0
 2010,23R010,23,Provisiones Salariales y Económicas,R,Específicos,10,Derecho para Fondo de Investigación en Materia de Energía,0
 2010,23R011,23,Provisiones Salariales y Económicas,R,Específicos,11,Derecho para la fiscalización petrolera,0
-2010,23R066,23,Provisiones Salariales y Económicas,R,Específicos,66,Fideicomiso Fondo para la Conclusión de la Relación Laboral,4e3
+2010,23R066,23,Provisiones Salariales y Económicas,R,Específicos,66,Fideicomiso Fondo para la Conclusión de la Relación Laboral,4000
 2010,23R067,23,Provisiones Salariales y Económicas,R,Específicos,67,Medidas Supervenientes,150
 2010,23R074,23,Provisiones Salariales y Económicas,R,Específicos,74,Seguro Colectivo de Retiro,597.628416
 2010,23R078,23,Provisiones Salariales y Económicas,R,Específicos,78,Derecho sobre extracción de hidrocarburos,0
@@ -4009,7 +4009,7 @@ CICLO,RMP,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,ID_PP,DESC_PP,EJERCIDO_M
 2011,06F017,6,Hacienda y Crédito Público,F,Promoción y fomento,17,"Programas que canalizan apoyos para el fomento financiero y tecnológico a los sectores agropecuario, forestal, pesquero y rural",872.000388
 2011,06F019,6,Hacienda y Crédito Público,F,Promoción y fomento,19,Acciones para Igualdad de Género con Población Indígena,62.352055
 2011,06F023,6,Hacienda y Crédito Público,F,Promoción y fomento,23,Administración y enajenación de los activos referidos en la Ley Federal para la Administración y Enajenación de Bienes del Sector Público (SAE),1788.512771
-2011,06F026,6,Hacienda y Crédito Público,F,Promoción y fomento,26,"Otorgamiento de crédito y garantías, capacitación, asistencia técnica e información a las MI PyMES",1e3
+2011,06F026,6,Hacienda y Crédito Público,F,Promoción y fomento,26,"Otorgamiento de crédito y garantías, capacitación, asistencia técnica e información a las MI PyMES",1000
 2011,06F029,6,Hacienda y Crédito Público,F,Promoción y fomento,29,Constitución y Operación de Unidades de Promoción de Crédito,598.903471
 2011,06F030,6,Hacienda y Crédito Público,F,Promoción y fomento,30,Reducción de Costos de Acceso al Crédito,319.425189
 2011,06F031,6,Hacienda y Crédito Público,F,Promoción y fomento,31,Comunicación Intercultural,62.557656
@@ -4347,7 +4347,7 @@ CICLO,RMP,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,ID_PP,DESC_PP,EJERCIDO_M
 2011,11U030,11,Educación Pública,U,Otros Subsidios,30,Fortalecimiento de la calidad en las escuelas normales,84.297157
 2011,11U031,11,Educación Pública,U,Otros Subsidios,31,Fortalecimiento a la educación temprana y el desarrollo infantil,160
 2011,11U032,11,Educación Pública,U,Otros Subsidios,32,Atención Educativa a Grupos en Situación vulnerable en Educación Básica,62.504947
-2011,11U033,11,Educación Pública,U,Otros Subsidios,33,Apoyos complementarios para el FAEB,1e3
+2011,11U033,11,Educación Pública,U,Otros Subsidios,33,Apoyos complementarios para el FAEB,1000
 2011,11U035,11,Educación Pública,U,Otros Subsidios,35,Fortalecimiento de la educación media superior en COLBACH,409.999999
 2011,11U036,11,Educación Pública,U,Otros Subsidios,36,Fortalecimiento de la educación media superior en CECYTES,205
 2011,11U038,11,Educación Pública,U,Otros Subsidios,38,Sistema Nacional de Educación a Distancia,40
@@ -5574,7 +5574,7 @@ CICLO,RMP,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,ID_PP,DESC_PP,EJERCIDO_M
 2012,11U030,11,Educación Pública,U,Otros Subsidios,30,Fortalecimiento de la calidad en las escuelas normales,192.44037549
 2012,11U031,11,Educación Pública,U,Otros Subsidios,31,Fortalecimiento a la educación temprana y el desarrollo infantil,680
 2012,11U032,11,Educación Pública,U,Otros Subsidios,32,Atención Educativa a Grupos en Situación vulnerable en Educación Básica,74.63427612999999
-2012,11U033,11,Educación Pública,U,Otros Subsidios,33,Apoyos complementarios para el FAEB,1e3
+2012,11U033,11,Educación Pública,U,Otros Subsidios,33,Apoyos complementarios para el FAEB,1000
 2012,11U035,11,Educación Pública,U,Otros Subsidios,35,Fortalecimiento de la educación media superior en COLBACH,110.077742
 2012,11U036,11,Educación Pública,U,Otros Subsidios,36,Fortalecimiento de la educación media superior en CECYTES,66.415163
 2012,11U038,11,Educación Pública,U,Otros Subsidios,38,Sistema Nacional de Educación a Distancia,42
@@ -5783,7 +5783,7 @@ CICLO,RMP,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,ID_PP,DESC_PP,EJERCIDO_M
 2012,18E006,18,Energía,E,Prestación de Servicios Públicos,6,Investigación en materia petrolera,0
 2012,18E009,18,Energía,E,Prestación de Servicios Públicos,9,Gestión e implementación en aprovechamiento sustentable de la energía,25.08297843
 2012,18E016,18,Energía,E,Prestación de Servicios Públicos,16,Prestación de bienes y servicios en materia nuclear,252.01455183
-2012,18E204,18,Energía,E,Prestación de Servicios Públicos,204,Generación de energía eléctrica,15e3
+2012,18E204,18,Energía,E,Prestación de Servicios Públicos,204,Generación de energía eléctrica,15000
 2012,18E561,18,Energía,E,Prestación de Servicios Públicos,561,Operación y mantenimiento de las centrales generadoras de energía eléctrica,11395.2
 2012,18E568,18,Energía,E,Prestación de Servicios Públicos,568,"Dirección, coordinación y control de la operación del Sistema Eléctrico Nacional",234.43452
 2012,18E570,18,Energía,E,Prestación de Servicios Públicos,570,Operación y mantenimiento de los procesos de distribución y de comercialización de energía eléctrica,0
@@ -5927,7 +5927,7 @@ CICLO,RMP,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,ID_PP,DESC_PP,EJERCIDO_M
 2012,23R082,23,Provisiones Salariales y Económicas,R,Específicos,82,Fondo para la Transición,150
 2012,23R083,23,Provisiones Salariales y Económicas,R,Específicos,83,"Conservación, operación y equipamiento de los recintos de los Poderes",0
 2012,23R084,23,Provisiones Salariales y Económicas,R,Específicos,84,Adquisición de Inmuebles del Distrito Federal,0
-2012,23R085,23,Provisiones Salariales y Económicas,R,Específicos,85,Bono de Potenciación,4e3
+2012,23R085,23,Provisiones Salariales y Económicas,R,Específicos,85,Bono de Potenciación,4000
 2012,23R086,23,Provisiones Salariales y Económicas,R,Específicos,86,Sistema Interamericano de Derechos Humanos,0
 2012,23R087,23,Provisiones Salariales y Económicas,R,Específicos,87,Indemnización ABC para ser otorgada por única vez a través del IMSS,36
 2012,23R088,23,Provisiones Salariales y Económicas,R,Específicos,88,Programa Especial para Proyectos Productivos del Sector Agropecuario del Estado de Sonora,175
@@ -6534,7 +6534,7 @@ CICLO,RMP,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,ID_PP,DESC_PP,EJERCIDO_M
 2013,11U027,11,Educación Pública,U,Otros Subsidios,27,Ampliación de la Oferta Educativa de los Institutos Tecnológicos,949.92583532
 2013,11U030,11,Educación Pública,U,Otros Subsidios,30,Fortalecimiento de la calidad en las escuelas normales,24.91726078
 2013,11U031,11,Educación Pública,U,Otros Subsidios,31,Fortalecimiento a la educación temprana y el desarrollo infantil,633
-2013,11U033,11,Educación Pública,U,Otros Subsidios,33,Apoyos complementarios para el FAEB,1e3
+2013,11U033,11,Educación Pública,U,Otros Subsidios,33,Apoyos complementarios para el FAEB,1000
 2013,11U038,11,Educación Pública,U,Otros Subsidios,38,Sistema Nacional de Educación a Distancia,22
 2013,11U039,11,Educación Pública,U,Otros Subsidios,39,Universidad Autónoma de la Ciudad de México,150
 2013,11U040,11,Educación Pública,U,Otros Subsidios,40,Programa de Carrera Docentes (UPES),362.25
@@ -6740,7 +6740,7 @@ CICLO,RMP,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,ID_PP,DESC_PP,EJERCIDO_M
 2013,17M001,17,Procuraduría General de la República,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,1116.41585083
 2013,17O001,17,Procuraduría General de la República,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,66.31973936
 2013,17R001,17,Procuraduría General de la República,R,Específicos,1,Aportaciones a organismos internacionales en materia de procuración de justicia y combate a las drogas.,20.23851673
-2013,18B001,18,Energía,B,Provisión de Bienes Públicos,1,"Producción de petróleo, gas, petrolíferos y petroquímicos",65e3
+2013,18B001,18,Energía,B,Provisión de Bienes Públicos,1,"Producción de petróleo, gas, petrolíferos y petroquímicos",65000
 2013,18E003,18,Energía,E,Prestación de Servicios Públicos,3,Investigación y desarrollo tecnológico y de capital humano en energía nuclear,232.22254774
 2013,18E004,18,Energía,E,Prestación de Servicios Públicos,4,Investigación y Desarrollo Tecnológico en Materia Petrolera  ,679.208099
 2013,18E005,18,Energía,E,Prestación de Servicios Públicos,5,Investigación y desarrollo tecnológico y de capital humano en energía eléctrica,196.29498256
@@ -7251,7 +7251,7 @@ CICLO,RMP,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,ID_PP,DESC_PP,EJERCIDO_M
 2014,06E007,6,Hacienda y Crédito Público,E,Prestación de Servicios Públicos,7,Protección de Datos Personales,23.54243578
 2014,06E008,6,Hacienda y Crédito Público,E,Prestación de Servicios Públicos,8,"Administración, restauración y difusión del acervo patrimonial y documental de la SHCP",96.86247211
 2014,06E011,6,Hacienda y Crédito Público,E,Prestación de Servicios Públicos,11,Protección y Defensa de los Usuarios de Servicios Financieros,581.92593974
-2014,06E016,6,Hacienda y Crédito Público,E,Prestación de Servicios Públicos,16,Actividades orientadas al Otorgamiento de crédito a Estados y municipios,2e3
+2014,06E016,6,Hacienda y Crédito Público,E,Prestación de Servicios Públicos,16,Actividades orientadas al Otorgamiento de crédito a Estados y municipios,2000
 2014,06E025,6,Hacienda y Crédito Público,E,Prestación de Servicios Públicos,25,Control de la operación aduanera,4474.46912579
 2014,06E026,6,Hacienda y Crédito Público,E,Prestación de Servicios Públicos,26,Recaudación de las contribuciones federales,10010.762985360001
 2014,06E028,6,Hacienda y Crédito Público,E,Prestación de Servicios Públicos,28,Protección y Defensa de los Contribuyentes,684.0423440699999
@@ -7694,7 +7694,7 @@ CICLO,RMP,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,ID_PP,DESC_PP,EJERCIDO_M
 2014,17M001,17,Procuraduría General de la República,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,1919.7344417000002
 2014,17O001,17,Procuraduría General de la República,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,68.93909159
 2014,17R099,17,Procuraduría General de la República,R,Específicos,99,"Cuotas, Apoyos y Aportaciones a Organismos Internacionales",27.17041293
-2014,18B001,18,Energía,B,Provisión de Bienes Públicos,1,"Producción de petróleo, gas, petrolíferos y petroquímicos",2e4
+2014,18B001,18,Energía,B,Provisión de Bienes Públicos,1,"Producción de petróleo, gas, petrolíferos y petroquímicos",20000
 2014,18E003,18,Energía,E,Prestación de Servicios Públicos,3,Investigación y desarrollo tecnológico y de capital humano en energía nuclear,242.43608657
 2014,18E004,18,Energía,E,Prestación de Servicios Públicos,4,Investigación y Desarrollo Tecnológico en Materia Petrolera  ,846.7145118
 2014,18E005,18,Energía,E,Prestación de Servicios Públicos,5,Investigación y desarrollo tecnológico y de capital humano en energía eléctrica,246.52039868
@@ -7808,7 +7808,7 @@ CICLO,RMP,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,ID_PP,DESC_PP,EJERCIDO_M
 2014,22R011,22,Instituto Nacional Electoral,R,Específicos,11,Tecnologías de información y comunicaciones,391.858143
 2014,23N001,23,Provisiones Salariales y Económicas,N,Desastres Naturales,1,Fondo de Desastres Naturales (FONDEN),5358.593859
 2014,23N002,23,Provisiones Salariales y Económicas,N,Desastres Naturales,2,Fondo de Prevención de Desastres Naturales (FOPREDEN),99.17800645
-2014,23N004,23,Provisiones Salariales y Económicas,N,Desastres Naturales,4,Fondo Guerrero,7e3
+2014,23N004,23,Provisiones Salariales y Económicas,N,Desastres Naturales,4,Fondo Guerrero,7000
 2014,23R001,23,Provisiones Salariales y Económicas,R,Específicos,1,Situaciones laborales supervenientes,0
 2014,23R003,23,Provisiones Salariales y Económicas,R,Específicos,3,Seguridad y Logística,0
 2014,23R004,23,Provisiones Salariales y Económicas,R,Específicos,4,Fondo de Ahorro Capitalizable (FONAC),2270.5273441199997
@@ -7856,7 +7856,7 @@ CICLO,RMP,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,ID_PP,DESC_PP,EJERCIDO_M
 2014,23U085,23,Provisiones Salariales y Económicas,U,Otros Subsidios,85,Fondo para Fronteras,0
 2014,23U087,23,Provisiones Salariales y Económicas,U,Otros Subsidios,87,Fondo de Capitalidad,2996.878458
 2014,23U088,23,Provisiones Salariales y Económicas,U,Otros Subsidios,88,Fondo de Infraestructura Deportiva,3203.33417179
-2014,23U089,23,Provisiones Salariales y Económicas,U,Otros Subsidios,89,Implementación del Sistema de Justicia Penal,5e3
+2014,23U089,23,Provisiones Salariales y Económicas,U,Otros Subsidios,89,Implementación del Sistema de Justicia Penal,5000
 2014,23U090,23,Provisiones Salariales y Económicas,U,Otros Subsidios,90,Fondo Sur-Sureste,499.97738429000003
 2014,23U091,23,Provisiones Salariales y Económicas,U,Otros Subsidios,91,Fondo de Cultura,2683.02156251
 2014,23U128,23,Provisiones Salariales y Económicas,U,Otros Subsidios,128,Proyectos de Desarrollo Regional,12694.745123440001
@@ -8362,7 +8362,7 @@ CICLO,RMP,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,ID_PP,DESC_PP,EJERCIDO_M
 2015,09R099,9,Comunicaciones y Transportes,R,Específicos,99,"Cuotas, Apoyos y Aportaciones a Organismos Internacionales",31.94512637
 2015,09S071,9,Comunicaciones y Transportes,S,Sujetos a Reglas de Operación,71,Programa de Empleo Temporal (PET),1925.9117870999999
 2015,09U001,9,Comunicaciones y Transportes,U,Otros Subsidios,1,Programa de subsidios al transporte ferroviario de pasajeros,11.646694179999999
-2015,09U002,9,Comunicaciones y Transportes,U,Otros Subsidios,2,Programa de apoyo para infraestructura carretera,1e3
+2015,09U002,9,Comunicaciones y Transportes,U,Otros Subsidios,2,Programa de apoyo para infraestructura carretera,1000
 2015,09U003,9,Comunicaciones y Transportes,U,Otros Subsidios,3,Programa de apoyo a hogares de escasos recursos para transitar a la TDT,8171.28465468
 2015,10B002,10,Economía,B,Provisión de Bienes Públicos,2,Promoción de una cultura de consumo responsable e inteligente,422.00011682
 2015,10E005,10,Economía,E,Prestación de Servicios Públicos,5,Protección de los derechos de los consumidores y el desarrollo del Sistema Nacional de Protección al Consumidor,334.73037476
@@ -8649,7 +8649,7 @@ CICLO,RMP,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,ID_PP,DESC_PP,EJERCIDO_M
 2015,17M001,17,Procuraduría General de la República,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,1206.8141842
 2015,17O001,17,Procuraduría General de la República,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,80.30594817000001
 2015,17R099,17,Procuraduría General de la República,R,Específicos,99,"Cuotas, Apoyos y Aportaciones a Organismos Internacionales",21.643315519999998
-2015,18B001,18,Energía,B,Provisión de Bienes Públicos,1,"Producción de petróleo, gas, petrolíferos y petroquímicos",6e4
+2015,18B001,18,Energía,B,Provisión de Bienes Públicos,1,"Producción de petróleo, gas, petrolíferos y petroquímicos",60000
 2015,18E003,18,Energía,E,Prestación de Servicios Públicos,3,Investigación y desarrollo tecnológico y de capital humano en energía nuclear,239.85152313999998
 2015,18E004,18,Energía,E,Prestación de Servicios Públicos,4,Investigación y Desarrollo Tecnológico en Materia Petrolera  ,737.196818
 2015,18E005,18,Energía,E,Prestación de Servicios Públicos,5,Investigación y desarrollo tecnológico y de capital humano en energía eléctrica,241.819339
@@ -9607,7 +9607,7 @@ CICLO,RMP,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,ID_PP,DESC_PP,EJERCIDO_M
 2016,23U093,23,Provisiones Salariales y Económicas,U,Otros Subsidios,93,Fondo para entidades federativas y municipios productores de hidrocarburos,3738.81657162
 2016,23U116,23,Provisiones Salariales y Económicas,U,Otros Subsidios,116,Provisión para la Armonización Contable,51.9367146
 2016,23U128,23,Provisiones Salariales y Económicas,U,Otros Subsidios,128,Proyectos de Desarrollo Regional,7219.34542126
-2016,23U129,23,Provisiones Salariales y Económicas,U,Otros Subsidios,129,Subsidios a las Tarifas Eléctricas,3e4
+2016,23U129,23,Provisiones Salariales y Económicas,U,Otros Subsidios,129,Subsidios a las Tarifas Eléctricas,30000
 2016,23U130,23,Provisiones Salariales y Económicas,U,Otros Subsidios,130,Fortalecimiento Financiero,62258.1298599
 2016,23U131,23,Provisiones Salariales y Económicas,U,Otros Subsidios,131,Operación y Mantenimiento del Programa de Seguridad y Monitoreo en el Estado de México,1500
 2016,23U132,23,Provisiones Salariales y Económicas,U,Otros Subsidios,132,Fondo para el Fortalecimiento de la Infreastructura Estatal y Municipal,9306.99047421
@@ -9667,7 +9667,7 @@ CICLO,RMP,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,ID_PP,DESC_PP,EJERCIDO_M
 2016,33I008,33,Aportaciones Federales para Entidades Federativas y Municipios,I,Gasto Federalizado,8,FAM Infraestructura Educativa Media Superior y Superior,3842.466522
 2016,33I009,33,Aportaciones Federales para Entidades Federativas y Municipios,I,Gasto Federalizado,9,FAETA Educación Tecnológica,4140.71336554
 2016,33I010,33,Aportaciones Federales para Entidades Federativas y Municipios,I,Gasto Federalizado,10,FAETA Educación de Adultos,1999.02356057
-2016,33I011,33,Aportaciones Federales para Entidades Federativas y Municipios,I,Gasto Federalizado,11,FASP,7e3
+2016,33I011,33,Aportaciones Federales para Entidades Federativas y Municipios,I,Gasto Federalizado,11,FASP,7000
 2016,33I012,33,Aportaciones Federales para Entidades Federativas y Municipios,I,Gasto Federalizado,12,FAFEF,33995.1892
 2016,33I013,33,Aportaciones Federales para Entidades Federativas y Municipios,I,Gasto Federalizado,13,FONE Servicios Personales,322833.75560031
 2016,33I014,33,Aportaciones Federales para Entidades Federativas y Municipios,I,Gasto Federalizado,14,FONE Otros de Gasto Corriente,10749.607402
@@ -10218,7 +10218,7 @@ CICLO,RMP,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,ID_PP,DESC_PP,EJERCIDO_M
 2017,17M001,17,Procuraduría General de la República,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,852.26319476
 2017,17O001,17,Procuraduría General de la República,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,76.60569865000001
 2017,18E004,18,Energía,E,Prestación de Servicios Públicos,4,Investigación y Desarrollo Tecnológico en Materia Petrolera  ,377.229255
-2017,18E010,18,Energía,E,Prestación de Servicios Públicos,10,"Distribución de petróleo, gas, petrolíferos y petroquímicos",1e3
+2017,18E010,18,Energía,E,Prestación de Servicios Públicos,10,"Distribución de petróleo, gas, petrolíferos y petroquímicos",1000
 2017,18E016,18,Energía,E,Prestación de Servicios Públicos,16,"Investigación, desarrollo tecnológico y prestación de servicios en materia nuclear y eléctrica",815.43091826
 2017,18G003,18,Energía,G,Regulación y supervisión,3,Regulación y supervisión de actividades nucleares y radiológicas,115.95884019
 2017,18M001,18,Energía,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,272.26467762
@@ -10613,3 +10613,764 @@ CICLO,RMP,ID_RAMO,DESC_RAMO,ID_MODALIDAD,DESC_MODALIDAD,ID_PP,DESC_PP,EJERCIDO_M
 2017,53R584,53,Comisión Federal de Electricidad,R,Específicos,584,Administración de los contratos de producción independiente de energía CFE Generación V,79660.182471
 2017,53R585,53,Comisión Federal de Electricidad,R,Específicos,585,Planeación y dirección de los procesos productivos,517.450058
 2017,53W001,53,Comisión Federal de Electricidad,W,Operaciones ajenas,1,Operaciones ajenas,-876.956533
+2018,01K025,1,Poder Legislativo,K,Proyectos de Inversión,25,Proyectos de inmuebles (oficinas administrativas),0.174
+2018,01K026,1,Poder Legislativo,K,Proyectos de Inversión,26,Otros Proyectos,5.42981982
+2018,01K027,1,Poder Legislativo,K,Proyectos de Inversión,27,Mantenimiento de Infraestructura,269.02549091
+2018,01R001,1,Poder Legislativo,R,Específicos,1,Actividades derivadas del trabajo legislativo,12560.2800361
+2018,01R002,1,Poder Legislativo,R,Específicos,2,"Entregar a la Cámara de Diputados del H. Congreso de la Unión, el informe sobre la revisión de la Cuenta de la Hacienda Pública Federal",2351.02813058
+2018,02M001,2,Oficina de la Presidencia de la República,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,63.63203608
+2018,02O001,2,Oficina de la Presidencia de la República,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,20.383917190000002
+2018,02P001,2,Oficina de la Presidencia de la República,P,"Planeación, seguimiento y evaluación de políticas públicas",1,Coordinación y apoyo de las acciones a cargo del Consejo de Seguridad Nacional,18.60147304
+2018,02P002,2,Oficina de la Presidencia de la República,P,"Planeación, seguimiento y evaluación de políticas públicas",2,"Asesoría, coordinación, difusión y apoyo técnico de las actividades del Presidente de la República",1572.4341588799998
+2018,02P003,2,Oficina de la Presidencia de la República,P,"Planeación, seguimiento y evaluación de políticas públicas",3,Atención y seguimiento a las solicitudes y demandas de la ciudadanía.,50.59662924
+2018,02P004,2,Oficina de la Presidencia de la República,P,"Planeación, seguimiento y evaluación de políticas públicas",4,Apoyo a las actividades de seguridad y logística para garantizar la integridad del Ejecutivo Federal,1956.40416063
+2018,03R001,3,Poder Judicial,R,Específicos,1,Otras Actividades,64817.05294554
+2018,04E001,4,Gobernación,E,Prestación de Servicios Públicos,1,Servicios de inteligencia para la Seguridad Nacional,4719.52940203
+2018,04E002,4,Gobernación,E,Prestación de Servicios Públicos,2,Preservación y difusión del acervo documental de la Nación,113.14531223
+2018,04E004,4,Gobernación,E,Prestación de Servicios Públicos,4,Producción de programas informativos de radio y televisión del Ejecutivo Federal,77.58534566
+2018,04E006,4,Gobernación,E,Prestación de Servicios Públicos,6,Atención a refugiados en el país,28.536487949999998
+2018,04E008,4,Gobernación,E,Prestación de Servicios Públicos,8,Política y servicios migratorios,6106.78030318
+2018,04E010,4,Gobernación,E,Prestación de Servicios Públicos,10,Impartición de justicia laboral para los trabajadores al servicio del Estado,372.26597883000005
+2018,04E012,4,Gobernación,E,Prestación de Servicios Públicos,12,Registro e Identificación de Población,330.53089478000004
+2018,04E015,4,Gobernación,E,Prestación de Servicios Públicos,15,Promover la atención y prevención de la violencia contra las mujeres,195.84372327
+2018,04E901,4,Gobernación,E,Prestación de Servicios Públicos,901,"Servicios de protección, custodia, vigilancia y seguridad de personas, bienes e instalaciones",2023.53051855
+2018,04E903,4,Gobernación,E,Prestación de Servicios Públicos,903,Operativos para la prevención y disuasión del delito,32117.46719613
+2018,04E904,4,Gobernación,E,Prestación de Servicios Públicos,904,Administración del Sistema Federal Penitenciario,25655.16609324
+2018,04E905,4,Gobernación,E,Prestación de Servicios Públicos,905,Regulación de los servicios de seguridad privada para coadyuvar a la prevención del delito,44.915939550000004
+2018,04K015,4,Gobernación,K,Proyectos de Inversión,15,Proyectos de infraestructura gubernamental de gobernación,99.9999965
+2018,04K027,4,Gobernación,K,Proyectos de Inversión,27,Mantenimiento de infraestructura,0
+2018,04M001,4,Gobernación,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,3479.1075960699995
+2018,04N001,4,Gobernación,N,Desastres Naturales,1,Coordinación del Sistema Nacional de Protección Civil,186.5098717
+2018,04O001,4,Gobernación,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,148.31792184
+2018,04P001,4,Gobernación,P,"Planeación, seguimiento y evaluación de políticas públicas",1,Conducción de la política interior,685.02513751
+2018,04P005,4,Gobernación,P,"Planeación, seguimiento y evaluación de políticas públicas",5,Conducción de la política de comunicación social de la Administración Pública Federal y la relación con los medios de comunicación,1016.86367543
+2018,04P006,4,Gobernación,P,"Planeación, seguimiento y evaluación de políticas públicas",6,Planeación demográfica del país,266.78059568000003
+2018,04P009,4,Gobernación,P,"Planeación, seguimiento y evaluación de políticas públicas",9,Defensa jurídica de la Secretaría de Gobernación y compilación jurídica nacional y testamentaria ciudadana,109.67516954999999
+2018,04P014,4,Gobernación,P,"Planeación, seguimiento y evaluación de políticas públicas",14,Coordinación con las instancias que integran el Sistema Nacional de Seguridad Pública,369.71885425
+2018,04P016,4,Gobernación,P,"Planeación, seguimiento y evaluación de políticas públicas",16,Fortalecimiento de las instituciones democráticas a fin de lograr las reformas legislativas que transformen el orden jurídico nacional,88.27745656
+2018,04P018,4,Gobernación,P,"Planeación, seguimiento y evaluación de políticas públicas",18,Conducción de la política del Gobierno Federal en materia religiosa,21.70658544
+2018,04P021,4,Gobernación,P,"Planeación, seguimiento y evaluación de políticas públicas",21,"Implementar las políticas, programas y acciones tendientes a garantizar la seguridad pública de la Nación y sus habitantes",381.49752402999997
+2018,04P022,4,Gobernación,P,"Planeación, seguimiento y evaluación de políticas públicas",22,Programa de Derechos Humanos,422.01785637
+2018,04P023,4,Gobernación,P,"Planeación, seguimiento y evaluación de políticas públicas",23,Fomento de la cultura de la participación ciudadana en la prevención del delito,137.61630309
+2018,04P024,4,Gobernación,P,"Planeación, seguimiento y evaluación de políticas públicas",24,Promover la Protección de los Derechos Humanos y Prevenir la Discriminación,156.21173075
+2018,04P025,4,Gobernación,P,"Planeación, seguimiento y evaluación de políticas públicas",25,"Coordinación con las instancias que integran el Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes",43.60221677
+2018,04P026,4,Gobernación,P,"Planeación, seguimiento y evaluación de políticas públicas",26,"Determinación, ejecución y seguimiento a las acciones de búsqueda de Personas Desaparecidas y No Localizadas",6.82389062
+2018,04R903,4,Gobernación,R,Específicos,903,Plataforma México,543.3400600900001
+2018,04U006,4,Gobernación,U,Otros Subsidios,6,Programa Nacional de Prevención del Delito,286.52063236000004
+2018,04U007,4,Gobernación,U,Otros Subsidios,7,Subsidios en materia de seguridad pública,4845.349348199999
+2018,04U008,4,Gobernación,U,Otros Subsidios,8,Subsidios para las acciones de búsqueda de Personas Desaparecidas y No Localizadas,0
+2018,05E002,5,Relaciones Exteriores,E,Prestación de Servicios Públicos,2,"Atención, protección, servicios y asistencia consulares",3682.1080405699995
+2018,05E006,5,Relaciones Exteriores,E,Prestación de Servicios Públicos,6,Fortalecimiento de las capacidades del Servicio Exterior Mexicano y de la Cancillería.,17.515829399999998
+2018,05K025,5,Relaciones Exteriores,K,Proyectos de Inversión,25,Proyectos de inmuebles (oficinas administrativas),139.77008312
+2018,05M001,5,Relaciones Exteriores,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,1281.96237606
+2018,05O001,5,Relaciones Exteriores,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,30.6639732
+2018,05P001,5,Relaciones Exteriores,P,"Planeación, seguimiento y evaluación de políticas públicas",1,"Coordinación, promoción y ejecución de la Cooperación internacional para el desarrollo",251.70205198
+2018,05P002,5,Relaciones Exteriores,P,"Planeación, seguimiento y evaluación de políticas públicas",2,"Diseño, conducción y ejecución de la política exterior",5987.7043562300005
+2018,05P005,5,Relaciones Exteriores,P,"Planeación, seguimiento y evaluación de políticas públicas",5,Promoción y defensa de los intereses de México en el ámbito multilateral,2911.78185146
+2018,06B001,6,Hacienda y Crédito Público,B,Provisión de Bienes Públicos,1,"Producción de impresos valorados, no valorados, numerados y de seguridad",361.9615687
+2018,06B002,6,Hacienda y Crédito Público,B,Provisión de Bienes Públicos,2,Comercialización de billetes de lotería,538.81167852
+2018,06E003,6,Hacienda y Crédito Público,E,Prestación de Servicios Públicos,3,Administración de los recursos y valores federales,759.4498849700001
+2018,06E008,6,Hacienda y Crédito Público,E,Prestación de Servicios Públicos,8,"Administración, restauración y difusión del acervo patrimonial y documental de la SHCP",137.46586854
+2018,06E011,6,Hacienda y Crédito Público,E,Prestación de Servicios Públicos,11,Protección y Defensa de los Usuarios de Servicios Financieros,609.51057688
+2018,06E016,6,Hacienda y Crédito Público,E,Prestación de Servicios Públicos,16,Funciones de otorgamiento de crédito a estados y municipios,7585
+2018,06E025,6,Hacienda y Crédito Público,E,Prestación de Servicios Públicos,25,Control de la operación aduanera,4516.85522697
+2018,06E026,6,Hacienda y Crédito Público,E,Prestación de Servicios Públicos,26,Recaudación de las contribuciones federales,11097.90569985
+2018,06E032,6,Hacienda y Crédito Público,E,Prestación de Servicios Públicos,32,Administración y enajenación de activos,1102.76415264
+2018,06F001,6,Hacienda y Crédito Público,F,Promoción y fomento,1,Garantías Líquidas,430
+2018,06F002,6,Hacienda y Crédito Público,F,Promoción y fomento,2,Capacitación para Productores e Intermediarios Financieros Rurales,77.5
+2018,06F007,6,Hacienda y Crédito Público,F,Promoción y fomento,7,Operación de financiamiento para la exportación,3386
+2018,06F010,6,Hacienda y Crédito Público,F,Promoción y fomento,10,Inversión de Capital de Riesgo,150.4
+2018,06F017,6,Hacienda y Crédito Público,F,Promoción y fomento,17,Apoyos a los Sectores Pesquero y Rural,300
+2018,06F026,6,Hacienda y Crédito Público,F,Promoción y fomento,26,Operación de financiamiento y asistencia técnica,1376
+2018,06F029,6,Hacienda y Crédito Público,F,Promoción y fomento,29,Apoyo a Unidades de Promoción de Crédito,217.5
+2018,06F030,6,Hacienda y Crédito Público,F,Promoción y fomento,30,Reducción de Costos de Acceso al Crédito,250
+2018,06F035,6,Hacienda y Crédito Público,F,Promoción y fomento,35,Programa de Inclusión Financiera,509.42511807000005
+2018,06F036,6,Hacienda y Crédito Público,F,Promoción y fomento,36,Fomento y promoción para el desarrollo de Zonas Económicas Especiales,123.11511691
+2018,06G001,6,Hacienda y Crédito Público,G,Regulación y supervisión,1,Regulación del sector financiero,188.95406706999998
+2018,06G002,6,Hacienda y Crédito Público,G,Regulación y supervisión,2,Detección y prevención de ilícitos financieros,188.22882242
+2018,06G003,6,Hacienda y Crédito Público,G,Regulación y supervisión,3,Regulación y supervisión del Sistema de Ahorro para el Retiro,392.41711323000004
+2018,06G004,6,Hacienda y Crédito Público,G,Regulación y supervisión,4,Regulación y supervisión del sector asegurador y afianzador,614.37209505
+2018,06G005,6,Hacienda y Crédito Público,G,Regulación y supervisión,5,Regulación y supervisión de las entidades del sistema financiero mexicano,1837.5689598499998
+2018,06K025,6,Hacienda y Crédito Público,K,Proyectos de Inversión,25,Proyectos de inmuebles (oficinas administrativas),0
+2018,06K027,6,Hacienda y Crédito Público,K,Proyectos de Inversión,27,Mantenimiento de infraestructura,34.834898
+2018,06K028,6,Hacienda y Crédito Público,K,Proyectos de Inversión,28,Estudios de preinversión,0
+2018,06M001,6,Hacienda y Crédito Público,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,3069.6709899700004
+2018,06O001,6,Hacienda y Crédito Público,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,316.79045613
+2018,06O007,6,Hacienda y Crédito Público,O,Apoyo a la función pública y al mejoramiento de la gestión,7,Optimización de los inmuebles federales y valuación de los bienes nacionales,562.93700444
+2018,06P001,6,Hacienda y Crédito Público,P,"Planeación, seguimiento y evaluación de políticas públicas",1,Diseño de la política de ingresos,1985.88176107
+2018,06P002,6,Hacienda y Crédito Público,P,"Planeación, seguimiento y evaluación de políticas públicas",2,Diseño y conducción de la política de gasto público,780.63908376
+2018,06P003,6,Hacienda y Crédito Público,P,"Planeación, seguimiento y evaluación de políticas públicas",3,Diseño y aplicación de la política económica,654.33797257
+2018,06P004,6,Hacienda y Crédito Público,P,"Planeación, seguimiento y evaluación de políticas públicas",4,Asesoría jurídica y representación judicial y administrativa de la SHCP,396.38481885000004
+2018,06P005,6,Hacienda y Crédito Público,P,"Planeación, seguimiento y evaluación de políticas públicas",5,Diseño y aplicación de la política pública para el desarrollo de Zonas Económicas Especiales,124.18775090000001
+2018,06R021,6,Hacienda y Crédito Público,R,Específicos,21,Administración del Fondo de Pensiones,434.9
+2018,06S265,6,Hacienda y Crédito Público,S,Sujetos a Reglas de Operación,265,Programa de aseguramiento agropecuario,1518.9269904
+2018,06U010,6,Hacienda y Crédito Público,U,Otros Subsidios,10,Fortalecimiento del Sector de Ahorro y Crédito Popular y Cooperativo,30.47224767
+2018,07A001,7,Defensa Nacional,A,Funciones de las Fuerzas Armadas,1,"Investigación y desarrollo tecnológico, producción y mantenimiento de armamento, municiones, explosivos, vehículos y equipos militares y sus accesorios",1176.53904607
+2018,07A002,7,Defensa Nacional,A,Funciones de las Fuerzas Armadas,2,"Defensa de la Integridad, la Independencia, la Soberanía del Territorio Nacional",35440.54923503
+2018,07A003,7,Defensa Nacional,A,Funciones de las Fuerzas Armadas,3,Operación y desarrollo de la Fuerza Aérea Mexicana,10680.288381440001
+2018,07A004,7,Defensa Nacional,A,Funciones de las Fuerzas Armadas,4,Programa de la Secretaría de la Defensa Nacional en Apoyo a la Seguridad Pública,8154.450868350001
+2018,07A009,7,Defensa Nacional,A,Funciones de las Fuerzas Armadas,9,Programa de sanidad militar,7647.47597429
+2018,07A010,7,Defensa Nacional,A,Funciones de las Fuerzas Armadas,10,Programa de Emergencias Radiológicas Externo (P.E.R.E.),1.684542
+2018,07A015,7,Defensa Nacional,A,Funciones de las Fuerzas Armadas,15,Producción de árboles en viveros forestales militares,132.03838256
+2018,07A017,7,Defensa Nacional,A,Funciones de las Fuerzas Armadas,17,Derechos humanos,38.431965170000005
+2018,07A018,7,Defensa Nacional,A,Funciones de las Fuerzas Armadas,18,"Investigación, desarrollo y producción de vestuario y equipo militar y mantenimiento de infraestructura",1912.3966011599998
+2018,07A019,7,Defensa Nacional,A,Funciones de las Fuerzas Armadas,19,Mantenimiento y conservación de la infraestructura militar y maquinaria pesada y administración inmobiliaria,2473.90404129
+2018,07A020,7,Defensa Nacional,A,Funciones de las Fuerzas Armadas,20,Programa de justicia militar,365.61793775
+2018,07A021,7,Defensa Nacional,A,Funciones de las Fuerzas Armadas,21,Sistema educativo militar,1700.8544993799999
+2018,07A022,7,Defensa Nacional,A,Funciones de las Fuerzas Armadas,22,"Investigación y desarrollo militar en coordinación con universidades públicas, instituciones públicas de educación superior y/o demás centros públicos de investigación superior. ",75.79591915
+2018,07A023,7,Defensa Nacional,A,Funciones de las Fuerzas Armadas,23,Salud y producción animal,72.33345272
+2018,07A025,7,Defensa Nacional,A,Funciones de las Fuerzas Armadas,25,Fortalecimiento del sistema de inteligencia militar,183.42551078
+2018,07A900,7,Defensa Nacional,A,Funciones de las Fuerzas Armadas,900,Programa de igualdad entre mujeres y hombres SDN,32.69662972
+2018,07K014,7,Defensa Nacional,K,Proyectos de Inversión,14,Otros proyectos de infraestructura social,75.3033702
+2018,07K019,7,Defensa Nacional,K,Proyectos de Inversión,19,Proyectos de infraestructura gubernamental de seguridad nacional,2525.86890003
+2018,07M001,7,Defensa Nacional,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,7061.391963659999
+2018,07R016,7,Defensa Nacional,R,Específicos,16,Programa de Becas para los hijos del Personal de las Fuerza Armadas en activo,1167.1094598200002
+2018,07R018,7,Defensa Nacional,R,Específicos,18,Fideicomiso de apoyo a deudos de militares fallecidos o a militares que hayan adquirido una incapacidad en 1/a. categoría en actos del servicio considerados de alto riesgo,18
+2018,07R019,7,Defensa Nacional,R,Específicos,19,Previsión para el fortalecimiento de Infraestructura Naval y Militar,0
+2018,08E001,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",E,Prestación de Servicios Públicos,1,Desarrollo y aplicación de programas educativos en materia agropecuaria,3568.17719235
+2018,08E003,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",E,Prestación de Servicios Públicos,3,Desarrollo y Vinculación de la Investigación Científica y Tecnológica con el Sector,422.116369
+2018,08E006,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",E,Prestación de Servicios Públicos,6,Generación de Proyectos de Investigación,1562.0654163
+2018,08G001,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",G,Regulación y supervisión,1,"Regulación, supervisión y aplicación de las políticas públicas en materia agropecuaria, acuícola y pesquera",2476.4259304099996
+2018,08K024,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",K,Proyectos de Inversión,24,Otros proyectos de infraestructura gubernamental,250.56925380999996
+2018,08K027,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",K,Proyectos de Inversión,27,Mantenimiento de infraestructura,6.9518217
+2018,08M001,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,2546.85414707
+2018,08O001,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",O,Apoyo a la función pública y al mejoramiento de la gestión,1,Apoyo a la Función Pública y Buen Gobierno,136.96576665999999
+2018,08P001,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",P,"Planeación, seguimiento y evaluación de políticas públicas",1,Diseño y Aplicación de la Política Agropecuaria,3744.7994995999998
+2018,08S240,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",S,Sujetos a Reglas de Operación,240,Programa de Concurrencia con las Entidades Federativas  ,2216.88207305
+2018,08S257,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",S,Sujetos a Reglas de Operación,257,Programa de Productividad y Competitividad Agroalimentaria,5233.86840463
+2018,08S259,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",S,Sujetos a Reglas de Operación,259,Programa de Fomento a la Agricultura,17329.93169081
+2018,08S260,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",S,Sujetos a Reglas de Operación,260,Programa de Fomento Ganadero,3139.14931702
+2018,08S261,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",S,Sujetos a Reglas de Operación,261,Programa de Fomento a la Productividad Pesquera y Acuícola,1710.3146397
+2018,08S262,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",S,Sujetos a Reglas de Operación,262,Programa de Apoyos a la Comercialización,6450.43707591
+2018,08S263,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",S,Sujetos a Reglas de Operación,263,Programa de Sanidad e Inocuidad Agroalimentaria,2617.5620291
+2018,08S266,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",S,Sujetos a Reglas de Operación,266,Programa de Apoyos a Pequeños Productores,15485.56733501
+2018,08U002,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",U,Otros Subsidios,2,Programa de Acciones Complementarias para Mejorar las Sanidades,2095.67807932
+2018,08U004,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",U,Otros Subsidios,4,Sistema Nacional de Investigación Agrícola,407.388253
+2018,08U009,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",U,Otros Subsidios,9,Fomento de la Ganadería y Normalización de la Calidad de los Productos Pecuarios,85.54969854000001
+2018,08U013,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",U,Otros Subsidios,13,Vinculación Productiva,367.69978040999996
+2018,08U017,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",U,Otros Subsidios,17,Sistema Nacional de Información para el Desarrollo Rural Sustentable,201.38413438999999
+2018,09E004,9,Comunicaciones y Transportes,E,Prestación de Servicios Públicos,4,"Estudios técnicos para la construcción, conservación y operación de infraestructura de comunicaciones y transportes",46.5406075
+2018,09E007,9,Comunicaciones y Transportes,E,Prestación de Servicios Públicos,7,Formación del personal de la marina mercante,67.67034220999999
+2018,09E008,9,Comunicaciones y Transportes,E,Prestación de Servicios Públicos,8,Operación de infraestructura marítimo-portuaria,28.511269379999998
+2018,09E009,9,Comunicaciones y Transportes,E,Prestación de Servicios Públicos,9,Programa México conectado,928.98855727
+2018,09E010,9,Comunicaciones y Transportes,E,Prestación de Servicios Públicos,10,Servicios de ayudas a la navegación aérea,2973.44975576
+2018,09E012,9,Comunicaciones y Transportes,E,Prestación de Servicios Públicos,12,Servicios de correo,2391.41777494
+2018,09E013,9,Comunicaciones y Transportes,E,Prestación de Servicios Públicos,13,"Servicios de telecomunicaciones, satelitales, telegráficos y de transferencia de fondos",1130.393677
+2018,09E015,9,Comunicaciones y Transportes,E,Prestación de Servicios Públicos,15,"Investigación, estudios, proyectos y capacitación en materia de transporte",146.70487356
+2018,09E022,9,Comunicaciones y Transportes,E,Prestación de Servicios Públicos,22,Operación y Conservación de infraestructura ferroviaria,382.99076249
+2018,09E029,9,Comunicaciones y Transportes,E,Prestación de Servicios Públicos,29,"Investigación, estudios y proyectos en materia espacial",71.96161590000001
+2018,09E030,9,Comunicaciones y Transportes,E,Prestación de Servicios Públicos,30,Desarrollo de Infraestructura Aeroportuaria,901.18722266
+2018,09G001,9,Comunicaciones y Transportes,G,Regulación y supervisión,1,Regulación y supervisión del programa de protección y medicina preventiva en transporte multimodal,416.57923134000004
+2018,09G002,9,Comunicaciones y Transportes,G,Regulación y supervisión,2,"Supervisión, inspección y verificación del transporte terrestre, marítimo y aéreo",1401.10868716
+2018,09G003,9,Comunicaciones y Transportes,G,Regulación y supervisión,3,"Supervisión, regulación, inspección, verificación y servicios administrativos de construcción y conservación de carreteras",6690.4828175699995
+2018,09G004,9,Comunicaciones y Transportes,G,Regulación y supervisión,4,Supervisión y verificación de concesiones en telecomunicaciones,175.34151531999998
+2018,09G008,9,Comunicaciones y Transportes,G,Regulación y supervisión,8,Derecho de Vía,600.85626686
+2018,09K003,9,Comunicaciones y Transportes,K,Proyectos de Inversión,3,Proyectos de construcción de carreteras,9975.35861625
+2018,09K004,9,Comunicaciones y Transportes,K,Proyectos de Inversión,4,Proyectos de construcción de puertos,108.60017936000001
+2018,09K005,9,Comunicaciones y Transportes,K,Proyectos de Inversión,5,Proyectos de construcción de aeropuertos,59690.672530079995
+2018,09K010,9,Comunicaciones y Transportes,K,Proyectos de Inversión,10,Proyectos de infraestructura de ciencia y tecnología,35.178298049999995
+2018,09K027,9,Comunicaciones y Transportes,K,Proyectos de Inversión,27,Mantenimiento de infraestructura,28.776402
+2018,09K028,9,Comunicaciones y Transportes,K,Proyectos de Inversión,28,Estudios de preinversión,238.27302927
+2018,09K031,9,Comunicaciones y Transportes,K,Proyectos de Inversión,31,Proyectos de construcción de carreteras alimentadoras y caminos rurales,1852.8745194100002
+2018,09K032,9,Comunicaciones y Transportes,K,Proyectos de Inversión,32,Reconstrucción y Conservación de Carreteras,8342.29298922
+2018,09K033,9,Comunicaciones y Transportes,K,Proyectos de Inversión,33,"Estudios y Proyectos para la construcción, ampliación, modernización, conservación y operación de infraestructura de comunicaciones y transportes",619.80300612
+2018,09K036,9,Comunicaciones y Transportes,K,Proyectos de Inversión,36,Conservación de infraestructura marítimo-portuaria,1927.682666
+2018,09K037,9,Comunicaciones y Transportes,K,Proyectos de Inversión,37,Conservación de infraestructura de caminos rurales y carreteras alimentadoras,7453.93661729
+2018,09K039,9,Comunicaciones y Transportes,K,Proyectos de Inversión,39,Estudios y proyectos de construcción de caminos rurales y carreteras alimentadoras,307.98759168
+2018,09K040,9,Comunicaciones y Transportes,K,Proyectos de Inversión,40,Proyectos de Infraestructura Ferroviaria,25309.216345290002
+2018,09K041,9,Comunicaciones y Transportes,K,Proyectos de Inversión,41,Sistema de Transporte Colectivo,881.35629999
+2018,09K045,9,Comunicaciones y Transportes,K,Proyectos de Inversión,45,Sistema Satelital,262.03727045
+2018,09K048,9,Comunicaciones y Transportes,K,Proyectos de Inversión,48,Servicios relacionados para la liberación del derecho de vía,1093.00309282
+2018,09M001,9,Comunicaciones y Transportes,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,3265.85233539
+2018,09O001,9,Comunicaciones y Transportes,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,94.59107831
+2018,09P001,9,Comunicaciones y Transportes,P,"Planeación, seguimiento y evaluación de políticas públicas",1,"Definición, conducción y supervisión de la política de comunicaciones y transportes",793.59172971
+2018,09S071,9,Comunicaciones y Transportes,S,Sujetos a Reglas de Operación,71,Programa de Empleo Temporal (PET),1134.03166477
+2018,09U001,9,Comunicaciones y Transportes,U,Otros Subsidios,1,Programa de subsidios al transporte ferroviario de pasajeros,8.399421219999999
+2018,09U002,9,Comunicaciones y Transportes,U,Otros Subsidios,2,Programa de apoyo para infraestructura carretera,466.80484982999997
+2018,10B002,10,Economía,B,Provisión de Bienes Públicos,2,Generación y difusión de información para el consumidor  ,365.11593304
+2018,10E005,10,Economía,E,Prestación de Servicios Públicos,5,Protección de los derechos de los consumidores y Sistema Nacional de Protección al Consumidor,394.06092862
+2018,10E006,10,Economía,E,Prestación de Servicios Públicos,6,Desarrollo tecnológico y prestación de servicios metrológicos para la competitividad ,220.45853839000003
+2018,10E007,10,Economía,E,Prestación de Servicios Públicos,7,Producción de información geológica del territorio nacional,521.5319593199999
+2018,10E009,10,Economía,E,Prestación de Servicios Públicos,9,Atención de trámites y promoción de los programas de la Secretaría en las entidades federativas,388.95394556
+2018,10F003,10,Economía,F,Promoción y fomento,3,Promoción del comercio exterior y atracción de inversión extranjera directa,798.4162706899999
+2018,10G001,10,Economía,G,Regulación y supervisión,1,"Aplicación y modernización del marco regulatorio y operativo en materia mercantil, de normalización e inversión extranjera",181.22342474
+2018,10G003,10,Economía,G,Regulación y supervisión,3,Vigilancia del cumplimiento de la normatividad y fortalecimiento de la certeza jurídica entre proveedores y consumidores,338.01556684999997
+2018,10G007,10,Economía,G,Regulación y supervisión,7,"Regulación, modernización y promoción de la actividad minera",162.87863191
+2018,10K027,10,Economía,K,Proyectos de Inversión,27,Mantenimiento de infraestructura,185.11789222
+2018,10M001,10,Economía,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,493.89832736
+2018,10O001,10,Economía,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,77.84255884999999
+2018,10P002,10,Economía,P,"Planeación, seguimiento y evaluación de políticas públicas",2,"Negociación, administración y defensa de Tratados y Acuerdos Internacionales de comercio e inversión",704.45751962
+2018,10P006,10,Economía,P,"Planeación, seguimiento y evaluación de políticas públicas",6,"Planeación, elaboración y seguimiento de las políticas y programas de la dependencia",229.20106955
+2018,10P007,10,Economía,P,"Planeación, seguimiento y evaluación de políticas públicas",7,"Diseño e instrumentación de acciones en materia de competitividad, competencia y política regulatoria",105.41715711
+2018,10P008,10,Economía,P,"Planeación, seguimiento y evaluación de políticas públicas",8,"Instrumentación de políticas de fomento para los emprendedores y las micro, pequeñas y medianas empresas",225.09909059
+2018,10P009,10,Economía,P,"Planeación, seguimiento y evaluación de políticas públicas",9,"Promoción del desarrollo, competitividad e innovación de los sectores industrial, comercial y de servicios",405.49069736
+2018,10P010,10,Economía,P,"Planeación, seguimiento y evaluación de políticas públicas",10,Fortalecimiento de la competitividad y transparencia del marco regulatorio que aplica a los particulares,75.41650132
+2018,10S020,10,Economía,S,Sujetos a Reglas de Operación,20,Fondo Nacional Emprendedor,3568.6474114000002
+2018,10S021,10,Economía,S,Sujetos a Reglas de Operación,21,Programa Nacional de Financiamiento al Microempresario y a la Mujer Rural,7.8154856299999995
+2018,10S151,10,Economía,S,Sujetos a Reglas de Operación,151,Programa para el Desarrollo de la Industria de Software (PROSOFT) y la Innovación,205.56101344
+2018,10S220,10,Economía,S,Sujetos a Reglas de Operación,220,Programa para la Productividad y Competitividad Industrial,164.80918077999996
+2018,10U004,10,Economía,U,Otros Subsidios,4,Proyectos estratégicos para la atracción de inversión extranjera,429.9549571
+2018,11B003,11,Educación Pública,B,Provisión de Bienes Públicos,3,Producción y distribución de libros y materiales educativos,2491.56522432
+2018,11E003,11,Educación Pública,E,Prestación de Servicios Públicos,3,Evaluaciones de la calidad de la educación,255.67048334999998
+2018,11E005,11,Educación Pública,E,Prestación de Servicios Públicos,5,Formación y certificación para el trabajo,2773.0721518200003
+2018,11E007,11,Educación Pública,E,Prestación de Servicios Públicos,7,Servicios de Educación Media Superior,40275.14279154
+2018,11E009,11,Educación Pública,E,Prestación de Servicios Públicos,9,Programa de Formación de Recursos Humanos basada en Competencias,238.4119671
+2018,11E010,11,Educación Pública,E,Prestación de Servicios Públicos,10,Servicios de Educación Superior y Posgrado,51541.75385041
+2018,11E011,11,Educación Pública,E,Prestación de Servicios Públicos,11,Desarrollo Cultural,3693.22399693
+2018,11E013,11,Educación Pública,E,Prestación de Servicios Públicos,13,Producción y transmisión de materiales educativos,1119.51042054
+2018,11E016,11,Educación Pública,E,Prestación de Servicios Públicos,16,Producción y distribución de libros y materiales culturales,285.72999206000003
+2018,11E017,11,Educación Pública,E,Prestación de Servicios Públicos,17,Atención al deporte,826.1232019
+2018,11E021,11,Educación Pública,E,Prestación de Servicios Públicos,21,Investigación Científica y Desarrollo Tecnológico,15505.291845889999
+2018,11E028,11,Educación Pública,E,Prestación de Servicios Públicos,28,Normalización y certificación en competencias laborales,74.19927325999998
+2018,11E032,11,Educación Pública,E,Prestación de Servicios Públicos,32,Políticas de igualdad de género en el sector educativo,10.624931570000001
+2018,11E039,11,Educación Pública,E,Prestación de Servicios Públicos,39,Registro Nacional de Profesionistas y sus Asociaciones,62.555510440000006
+2018,11E047,11,Educación Pública,E,Prestación de Servicios Públicos,47,Programa de infraestructura física educativa,490.44335543
+2018,11E064,11,Educación Pública,E,Prestación de Servicios Públicos,64,Educación para Adultos (INEA),2963.3951944100004
+2018,11E066,11,Educación Pública,E,Prestación de Servicios Públicos,66,Educación Inicial y Básica Comunitaria,4634.59704796
+2018,11E067,11,Educación Pública,E,Prestación de Servicios Públicos,67,Sistema de Información y Gestión Educativa,171.86474901000003
+2018,11G001,11,Educación Pública,G,Regulación y supervisión,1,Normar los servicios educativos,702.03751812
+2018,11K009,11,Educación Pública,K,Proyectos de Inversión,9,Proyectos de infraestructura social del sector educativo,288.95650644
+2018,11K027,11,Educación Pública,K,Proyectos de Inversión,27,Mantenimiento de infraestructura,595.3597348999999
+2018,11M001,11,Educación Pública,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,7117.67385471
+2018,11O001,11,Educación Pública,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,328.01073024
+2018,11P001,11,Educación Pública,P,"Planeación, seguimiento y evaluación de políticas públicas",1,Diseño de la Política Educativa,2700.27385108
+2018,11S072,11,Educación Pública,S,Sujetos a Reglas de Operación,72,PROSPERA Programa de Inclusión Social,32339.44510379
+2018,11S221,11,Educación Pública,S,Sujetos a Reglas de Operación,221,Escuelas de Tiempo Completo,10434.80479034
+2018,11S243,11,Educación Pública,S,Sujetos a Reglas de Operación,243,Programa Nacional de Becas,7629.50393604
+2018,11S244,11,Educación Pública,S,Sujetos a Reglas de Operación,244,Programa para la Inclusión y la Equidad Educativa,347.59461118
+2018,11S247,11,Educación Pública,S,Sujetos a Reglas de Operación,247,Programa para el Desarrollo Profesional Docente,1220.74005795
+2018,11S267,11,Educación Pública,S,Sujetos a Reglas de Operación,267,Fortalecimiento de la Calidad Educativa,1925.91599672
+2018,11S269,11,Educación Pública,S,Sujetos a Reglas de Operación,269,Programa de Cultura Física y Deporte,1279.23800447
+2018,11S270,11,Educación Pública,S,Sujetos a Reglas de Operación,270,Programa Nacional de Inglés,746.94266664
+2018,11S271,11,Educación Pública,S,Sujetos a Reglas de Operación,271,Programa Nacional de Convivencia Escolar,239.06175721
+2018,11U006,11,Educación Pública,U,Otros Subsidios,6,Subsidios para organismos descentralizados estatales,90285.16131202
+2018,11U031,11,Educación Pública,U,Otros Subsidios,31,Expansión de la Educación Inicial,208.77249785
+2018,11U040,11,Educación Pública,U,Otros Subsidios,40,Carrera Docente en UPES,349.89891809
+2018,11U077,11,Educación Pública,U,Otros Subsidios,77,Programa de Inclusión Digital,6.98511699
+2018,11U079,11,Educación Pública,U,Otros Subsidios,79,Expansión de la Educación Media Superior y Superior,175.69635163
+2018,11U080,11,Educación Pública,U,Otros Subsidios,80,Apoyos a centros y organizaciones de educación,26668.931339810002
+2018,11U081,11,Educación Pública,U,Otros Subsidios,81,Apoyos para la atención a problemas estructurales de las UPES,696.9588467799999
+2018,11U082,11,Educación Pública,U,Otros Subsidios,82,Programa de la Reforma Educativa,1765.41429273
+2018,12E010,12,Salud,E,Prestación de Servicios Públicos,10,Formación y capacitación de recursos humanos para la salud,3856.47846331
+2018,12E022,12,Salud,E,Prestación de Servicios Públicos,22,Investigación y desarrollo tecnológico en salud,2270.2121597600003
+2018,12E023,12,Salud,E,Prestación de Servicios Públicos,23,Atención a la Salud,22287.834575459998
+2018,12E025,12,Salud,E,Prestación de Servicios Públicos,25,Prevención y atención contra las adicciones,1294.16684392
+2018,12E036,12,Salud,E,Prestación de Servicios Públicos,36,Programa de vacunación,2513.5317836299996
+2018,12E040,12,Salud,E,Prestación de Servicios Públicos,40,Servicios de asistencia social integral,840.71917577
+2018,12E041,12,Salud,E,Prestación de Servicios Públicos,41,"Protección y restitución de los derechos de las niñas, niños y adolescentes",86.10602096
+2018,12G004,12,Salud,G,Regulación y supervisión,4,Protección Contra Riesgos Sanitarios,1051.01196247
+2018,12G005,12,Salud,G,Regulación y supervisión,5,Regulación y vigilancia de establecimientos y servicios de atención médica,6.98180476
+2018,12K011,12,Salud,K,Proyectos de Inversión,11,Proyectos de infraestructura social de salud,25.98778593
+2018,12K025,12,Salud,K,Proyectos de Inversión,25,Proyectos de inmuebles (oficinas administrativas),29.728600489999998
+2018,12K027,12,Salud,K,Proyectos de Inversión,27,Mantenimiento de infraestructura,108.93145994
+2018,12M001,12,Salud,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,3707.1621280900004
+2018,12O001,12,Salud,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,340.98812893
+2018,12P012,12,Salud,P,"Planeación, seguimiento y evaluación de políticas públicas",12,Rectoría en Salud,2434.20364633
+2018,12P013,12,Salud,P,"Planeación, seguimiento y evaluación de políticas públicas",13,Asistencia social y protección del paciente,654.65166063
+2018,12P016,12,Salud,P,"Planeación, seguimiento y evaluación de políticas públicas",16,Prevención y atención de VIH/SIDA y otras ITS,357.08898954
+2018,12P018,12,Salud,P,"Planeación, seguimiento y evaluación de políticas públicas",18,Prevención y control de enfermedades,600.0711752999999
+2018,12P020,12,Salud,P,"Planeación, seguimiento y evaluación de políticas públicas",20,"Salud materna, sexual y reproductiva",2202.18495551
+2018,12S039,12,Salud,S,Sujetos a Reglas de Operación,39,Programa de Atención a Personas con Discapacidad,168.13325104
+2018,12S072,12,Salud,S,Sujetos a Reglas de Operación,72,PROSPERA Programa de Inclusión Social,6118.839233
+2018,12S174,12,Salud,S,Sujetos a Reglas de Operación,174,Programa de estancias infantiles para apoyar a madres trabajadoras,235.37230927
+2018,12S200,12,Salud,S,Sujetos a Reglas de Operación,200,Fortalecimiento a la atención médica,841.2983874299999
+2018,12S201,12,Salud,S,Sujetos a Reglas de Operación,201,Seguro Médico Siglo XXI,2011.1315692599999
+2018,12S202,12,Salud,S,Sujetos a Reglas de Operación,202,Calidad en la Atención Médica,83.57446167
+2018,12S251,12,Salud,S,Sujetos a Reglas de Operación,251,"Programa de Desarrollo Comunitario ""Comunidad DIFerente""",101.67159669
+2018,12S272,12,Salud,S,Sujetos a Reglas de Operación,272,Apoyos para la protección de las personas en estado de necesidad,155.12712955
+2018,12U005,12,Salud,U,Otros Subsidios,5,Seguro Popular,68148.43038531
+2018,12U008,12,Salud,U,Otros Subsidios,8,"Prevención y Control de Sobrepeso, Obesidad y Diabetes",437.32663168
+2018,12U009,12,Salud,U,Otros Subsidios,9,Vigilancia epidemiológica,565.1872095900001
+2018,12U012,12,Salud,U,Otros Subsidios,12,Fortalecimiento de los Servicios Estatales de Salud,0
+2018,13A001,13,Marina,A,Funciones de las Fuerzas Armadas,1,Emplear el Poder Naval de la Federación para salvaguardar la soberanía y seguridad nacionales,23237.408921650003
+2018,13A004,13,Marina,A,Funciones de las Fuerzas Armadas,4,"Adquisición, construcción, reparación y mantenimiento de unidades navales",3696.12057689
+2018,13A006,13,Marina,A,Funciones de las Fuerzas Armadas,6,Sistema Educativo naval y programa de becas,1977.13998678
+2018,13A007,13,Marina,A,Funciones de las Fuerzas Armadas,7,Administración y fomento de los servicios de salud,2413.97943493
+2018,13A010,13,Marina,A,Funciones de las Fuerzas Armadas,10,Administración y Operación de Capitanías de Puerto y Asuntos Marítimos,377.84812275
+2018,13K012,13,Marina,K,Proyectos de Inversión,12,Proyectos de infraestructura social de asistencia y seguridad social,1865.83553473
+2018,13K019,13,Marina,K,Proyectos de Inversión,19,Proyectos de infraestructura gubernamental de seguridad nacional,1317.06791235
+2018,13K027,13,Marina,K,Proyectos de Inversión,27,Mantenimiento de infraestructura,97.19237032000001
+2018,13M001,13,Marina,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,599.02380941
+2018,13R001,13,Marina,R,Específicos,1,Previsión para el fortalecimiento de infraestructura naval y militar,0
+2018,14E001,14,Trabajo y Previsión Social,E,Prestación de Servicios Públicos,1,Impartición de justicia laboral,1074.21160533
+2018,14E002,14,Trabajo y Previsión Social,E,Prestación de Servicios Públicos,2,Procuración de justicia laboral,215.23213456
+2018,14E003,14,Trabajo y Previsión Social,E,Prestación de Servicios Públicos,3,Ejecución de los programas y acciones de la Política Laboral,671.42217298
+2018,14E004,14,Trabajo y Previsión Social,E,Prestación de Servicios Públicos,4,Capacitación para Incrementar la Productividad,73.80396694
+2018,14E008,14,Trabajo y Previsión Social,E,Prestación de Servicios Públicos,8,Conciliación entre empleadores y sindicatos,40.90624518
+2018,14E011,14,Trabajo y Previsión Social,E,Prestación de Servicios Públicos,11,Registro de agrupaciones sindicales,34.85193965
+2018,14M001,14,Trabajo y Previsión Social,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,396.60020948000005
+2018,14O001,14,Trabajo y Previsión Social,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,35.65849239
+2018,14P001,14,Trabajo y Previsión Social,P,"Planeación, seguimiento y evaluación de políticas públicas",1,Instrumentación de la política laboral,972.88252515
+2018,14P002,14,Trabajo y Previsión Social,P,"Planeación, seguimiento y evaluación de políticas públicas",2,Evaluación del Salario Mínimo,27.840497669999998
+2018,14S043,14,Trabajo y Previsión Social,S,Sujetos a Reglas de Operación,43,Programa de Apoyo al Empleo (PAE),990.76960064
+2018,15E001,15,"Desarrollo Agrario, Territorial y Urbano",E,Prestación de Servicios Públicos,1,Procuración de justicia agraria,850.70640474
+2018,15E002,15,"Desarrollo Agrario, Territorial y Urbano",E,Prestación de Servicios Públicos,2,Programa de Atención de Conflictos Agrarios,308.50137581
+2018,15E003,15,"Desarrollo Agrario, Territorial y Urbano",E,Prestación de Servicios Públicos,3,Ordenamiento y regulación de la propiedad rural,202.94507125
+2018,15E006,15,"Desarrollo Agrario, Territorial y Urbano",E,Prestación de Servicios Públicos,6,Administración de fondos comunes de núcleos agrarios y supervisión de expropiaciones,3.9971968199999997
+2018,15G001,15,"Desarrollo Agrario, Territorial y Urbano",G,Regulación y supervisión,1,"Atención de asuntos jurídicos en materia agraria, territorial, urbana y vivienda",13.722988990000001
+2018,15L001,15,"Desarrollo Agrario, Territorial y Urbano",L,Obligaciones de cumplimiento de resolución jurisdiccional,1,Obligaciones jurídicas Ineludibles,207.22306129
+2018,15M001,15,"Desarrollo Agrario, Territorial y Urbano",M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,4321.36972788
+2018,15O001,15,"Desarrollo Agrario, Territorial y Urbano",O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,51.40670615
+2018,15P003,15,"Desarrollo Agrario, Territorial y Urbano",P,"Planeación, seguimiento y evaluación de políticas públicas",3,Modernización del Catastro Rural Nacional,162.37213545
+2018,15P004,15,"Desarrollo Agrario, Territorial y Urbano",P,"Planeación, seguimiento y evaluación de políticas públicas",4,Conducción e instrumentación de la política nacional de vivienda,312.12373801999996
+2018,15P005,15,"Desarrollo Agrario, Territorial y Urbano",P,"Planeación, seguimiento y evaluación de políticas públicas",5,Política de Desarrollo Urbano y Ordenamiento del Territorio,2589.12019417
+2018,15S177,15,"Desarrollo Agrario, Territorial y Urbano",S,Sujetos a Reglas de Operación,177,Programa de acceso al financiamiento para soluciones habitacionales,5894.653111930001
+2018,15S213,15,"Desarrollo Agrario, Territorial y Urbano",S,Sujetos a Reglas de Operación,213,Programa para regularizar asentamientos humanos irregulares,34.766849310000005
+2018,15S254,15,"Desarrollo Agrario, Territorial y Urbano",S,Sujetos a Reglas de Operación,254,Programa de Prevención de Riesgos,39.02035927
+2018,15S255,15,"Desarrollo Agrario, Territorial y Urbano",S,Sujetos a Reglas de Operación,255,Consolidación de Reservas Urbanas,53.13410974
+2018,15S273,15,"Desarrollo Agrario, Territorial y Urbano",S,Sujetos a Reglas de Operación,273,Programa de Infraestructura,2988.9233851800004
+2018,15S274,15,"Desarrollo Agrario, Territorial y Urbano",S,Sujetos a Reglas de Operación,274,Programa de Apoyo a la Vivienda,2898.28305226
+2018,15U001,15,"Desarrollo Agrario, Territorial y Urbano",U,Otros Subsidios,1,Regularización y Registro de Actos Jurídicos Agrarios,230.82788421
+2018,15U003,15,"Desarrollo Agrario, Territorial y Urbano",U,Otros Subsidios,3,Programa de modernización de los registros públicos de la propiedad y catastros,133.00580795
+2018,15W001,15,"Desarrollo Agrario, Territorial y Urbano",W,Operaciones ajenas,1,Operaciones ajenas,0
+2018,16E001,16,Medio Ambiente y Recursos Naturales,E,Prestación de Servicios Públicos,1,Operación y mantenimiento de infraestructura hídrica,3701.09481846
+2018,16E005,16,Medio Ambiente y Recursos Naturales,E,Prestación de Servicios Públicos,5,Capacitación Ambiental y Desarrollo Sustentable,31.47207214
+2018,16E006,16,Medio Ambiente y Recursos Naturales,E,Prestación de Servicios Públicos,6,Sistemas Meteorológicos e Hidrológicos,428.37171946999996
+2018,16E009,16,Medio Ambiente y Recursos Naturales,E,Prestación de Servicios Públicos,9,Investigación científica y tecnológica,246.97484784
+2018,16E014,16,Medio Ambiente y Recursos Naturales,E,Prestación de Servicios Públicos,14,Protección Forestal,1651.38704272
+2018,16E015,16,Medio Ambiente y Recursos Naturales,E,Prestación de Servicios Públicos,15,"Investigación en Cambio Climático, Sustentabilidad y Crecimiento Verde",201.86062217
+2018,16G003,16,Medio Ambiente y Recursos Naturales,G,Regulación y supervisión,3,Regulación Ambiental,800.99079383
+2018,16G005,16,Medio Ambiente y Recursos Naturales,G,Regulación y supervisión,5,Inspección y Vigilancia del Medio Ambiente y Recursos Naturales,407.66886385
+2018,16G010,16,Medio Ambiente y Recursos Naturales,G,Regulación y supervisión,10,Gestión integral y sustentable del agua,8250.11770121
+2018,16G013,16,Medio Ambiente y Recursos Naturales,G,Regulación y supervisión,13,Sistema Nacional de Áreas Naturales Protegidas,148.70920991
+2018,16G026,16,Medio Ambiente y Recursos Naturales,G,Regulación y supervisión,26,Programas de Calidad del Aire y Verificación Vehicular,5.48402507
+2018,16G030,16,Medio Ambiente y Recursos Naturales,G,Regulación y supervisión,30,Normativa Ambiental e Instrumentos para el Desarrollo Sustentable,62.20213812
+2018,16G031,16,Medio Ambiente y Recursos Naturales,G,Regulación y supervisión,31,"Regulación, Gestión y Supervisión del Sector Hidrocarburos",442.50638777
+2018,16K007,16,Medio Ambiente y Recursos Naturales,K,Proyectos de Inversión,7,"Infraestructura de agua potable, alcantarillado y saneamiento",4115.6515360700005
+2018,16K025,16,Medio Ambiente y Recursos Naturales,K,Proyectos de Inversión,25,Proyectos de inmuebles (oficinas administrativas),256.85053144
+2018,16K111,16,Medio Ambiente y Recursos Naturales,K,Proyectos de Inversión,111,Rehabilitación y Modernización de Presas y Estructuras de Cabeza,118.16940681999999
+2018,16K129,16,Medio Ambiente y Recursos Naturales,K,Proyectos de Inversión,129,Infraestructura para la Protección de Centros de Población y Áreas Productivas,1906.22006572
+2018,16K138,16,Medio Ambiente y Recursos Naturales,K,Proyectos de Inversión,138,Inversión en Infraestructura Social y Protección Ambiental,72.70425380000002
+2018,16K140,16,Medio Ambiente y Recursos Naturales,K,Proyectos de Inversión,140,Inversión del Servicio Meteorológico Nacional,3.51848223
+2018,16K141,16,Medio Ambiente y Recursos Naturales,K,Proyectos de Inversión,141,Infraestructura para la modernización y rehabilitación de riego y temporal tecnificado,368.67266632
+2018,16M001,16,Medio Ambiente y Recursos Naturales,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,2510.50937123
+2018,16N001,16,Medio Ambiente y Recursos Naturales,N,Desastres Naturales,1,Atención de emergencias y desastres naturales,103.61837623999999
+2018,16O001,16,Medio Ambiente y Recursos Naturales,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,145.57190154
+2018,16P001,16,Medio Ambiente y Recursos Naturales,P,"Planeación, seguimiento y evaluación de políticas públicas",1,Conducción de las políticas hídricas,132.72022622
+2018,16P002,16,Medio Ambiente y Recursos Naturales,P,"Planeación, seguimiento y evaluación de políticas públicas",2,"Planeación, Dirección y Evaluación Ambiental",1157.5401494
+2018,16R015,16,Medio Ambiente y Recursos Naturales,R,Específicos,15,Fideicomisos Ambientales,279.62161156999997
+2018,16S046,16,Medio Ambiente y Recursos Naturales,S,Sujetos a Reglas de Operación,46,Programa de Conservación para el Desarrollo Sostenible,247.32225727
+2018,16S071,16,Medio Ambiente y Recursos Naturales,S,Sujetos a Reglas de Operación,71,Programa de Empleo Temporal (PET),362.29522632
+2018,16S074,16,Medio Ambiente y Recursos Naturales,S,Sujetos a Reglas de Operación,74,"Agua Potable, Drenaje y Tratamiento",3437.27998007
+2018,16S217,16,Medio Ambiente y Recursos Naturales,S,Sujetos a Reglas de Operación,217,Programa de Apoyo a la Infraestructura Hidroagrícola,2317.53623919
+2018,16S219,16,Medio Ambiente y Recursos Naturales,S,Sujetos a Reglas de Operación,219,Apoyos para el Desarrollo Forestal Sustentable,2240.1434118
+2018,16U001,16,Medio Ambiente y Recursos Naturales,U,Otros Subsidios,1,Programa de Devolución de Derechos,2112.4037346200003
+2018,16U007,16,Medio Ambiente y Recursos Naturales,U,Otros Subsidios,7,Devolución de Aprovechamientos,4447.504307
+2018,16U008,16,Medio Ambiente y Recursos Naturales,U,Otros Subsidios,8,Saneamiento de Aguas Residuales,303.73329649
+2018,16U012,16,Medio Ambiente y Recursos Naturales,U,Otros Subsidios,12,Prevención y gestión integral de residuos,1.790112
+2018,16U020,16,Medio Ambiente y Recursos Naturales,U,Otros Subsidios,20,Conservación y Aprovechamiento Sustentable de la Vida Silvestre,0
+2018,16U025,16,Medio Ambiente y Recursos Naturales,U,Otros Subsidios,25,Programa de Recuperación y Repoblación de Especies en Riesgo,518.06863802
+2018,16U035,16,Medio Ambiente y Recursos Naturales,U,Otros Subsidios,35,Programa de Manejo de Áreas Naturales Protegidas,44.022458439999994
+2018,17E002,17,Procuraduría General de la República,E,Prestación de Servicios Públicos,2,Investigar y perseguir los delitos del orden federal,10090.22623841
+2018,17E003,17,Procuraduría General de la República,E,Prestación de Servicios Públicos,3,Investigar y perseguir los delitos relativos a la Delincuencia Organizada,1986.41555477
+2018,17E004,17,Procuraduría General de la República,E,Prestación de Servicios Públicos,4,Solucionar y promover las controversias en materia penal federal mediante la aplicación de mecanismos alternativos,0.30953716000000003
+2018,17E006,17,Procuraduría General de la República,E,Prestación de Servicios Públicos,6,Investigar y perseguir los delitos federales de carácter especial,459.67673364999996
+2018,17E008,17,Procuraduría General de la República,E,Prestación de Servicios Públicos,8,Representación jurídica de la Federación en el ámbito nacional e internacional,541.0385398200001
+2018,17E009,17,Procuraduría General de la República,E,Prestación de Servicios Públicos,9,Promoción del respeto a los derechos humanos y atención a víctimas del delito,223.27356444
+2018,17E010,17,Procuraduría General de la República,E,Prestación de Servicios Públicos,10,Investigación académica en el marco de las ciencias penales,71.44726898
+2018,17E011,17,Procuraduría General de la República,E,Prestación de Servicios Públicos,11,"Investigar, perseguir y prevenir delitos del orden electoral",167.27344148
+2018,17E012,17,Procuraduría General de la República,E,Prestación de Servicios Públicos,12,Supervisar y vigilar la aplicación del marco legal en la investigación y persecución del delito del orden federal,221.10849847
+2018,17E013,17,Procuraduría General de la República,E,Prestación de Servicios Públicos,13,Promoción del Desarrollo Humano y Planeación Institucional,2070.47109801
+2018,17K022,17,Procuraduría General de la República,K,Proyectos de Inversión,22,Proyectos de infraestructura gubernamental de procuración de justicia,42.51162536
+2018,17K027,17,Procuraduría General de la República,K,Proyectos de Inversión,27,Mantenimiento de infraestructura,24.01472232
+2018,17M001,17,Procuraduría General de la República,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,858.4373648
+2018,17O001,17,Procuraduría General de la República,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,81.96354993
+2018,18E004,18,Energía,E,Prestación de Servicios Públicos,4,Investigación y Desarrollo Tecnológico en Materia Petrolera  ,445.3736625
+2018,18E006,18,Energía,E,Prestación de Servicios Públicos,6,Investigación en materia petrolera,50
+2018,18E010,18,Energía,E,Prestación de Servicios Públicos,10,"Distribución de petróleo, gas, petrolíferos y petroquímicos",0
+2018,18E016,18,Energía,E,Prestación de Servicios Públicos,16,"Investigación, desarrollo tecnológico y prestación de servicios en materia nuclear y eléctrica",837.9193157999999
+2018,18G003,18,Energía,G,Regulación y supervisión,3,Regulación y supervisión de actividades nucleares y radiológicas,123.38901886999999
+2018,18M001,18,Energía,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,280.38158295
+2018,18O001,18,Energía,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,42.193966079999996
+2018,18P001,18,Energía,P,"Planeación, seguimiento y evaluación de políticas públicas",1,Conducción de la política energética,454.67603815
+2018,18P002,18,Energía,P,"Planeación, seguimiento y evaluación de políticas públicas",2,Coordinación de la política energética en electricidad,130.2500513
+2018,18P003,18,Energía,P,"Planeación, seguimiento y evaluación de políticas públicas",3,Coordinación de la política energética en hidrocarburos,185.87052555000002
+2018,18P008,18,Energía,P,"Planeación, seguimiento y evaluación de políticas públicas",8,"Gestión, promoción, supervisión y evaluación del aprovechamiento sustentable de la energía",100.96007734999999
+2018,18R002,18,Energía,R,Específicos,2,Fondos de Diversificación Energética,3043.9984435
+2018,19J006,19,Aportaciones a Seguridad Social,J,Pensiones y jubilaciones,6,Apoyo para cubrir el déficit de la nómina de pensiones del ISSSTE,208546.849101
+2018,19J008,19,Aportaciones a Seguridad Social,J,Pensiones y jubilaciones,8,Pensiones y Jubilaciones en curso de Pago,275240.72330226
+2018,19J009,19,Aportaciones a Seguridad Social,J,Pensiones y jubilaciones,9,Pensiones Civiles Militares y de Gracia,22058.404726970002
+2018,19J011,19,Aportaciones a Seguridad Social,J,Pensiones y jubilaciones,11,"Aportaciones Estatutarias al Seguro de Retiro, Cesantía en Edad Avanzada y Vejez",5536.4651818600005
+2018,19J012,19,Aportaciones a Seguridad Social,J,Pensiones y jubilaciones,12,"Cuota Social al Seguro de Retiro, Cesantía en Edad Avanzada y Vejez",32655.187314849998
+2018,19J014,19,Aportaciones a Seguridad Social,J,Pensiones y jubilaciones,14,Apoyo Económico a Viudas de Veteranos de la Revolución Mexicana,0.41387194
+2018,19J017,19,Aportaciones a Seguridad Social,J,Pensiones y jubilaciones,17,Fondo de Reserva para el Retiro IMSS,300
+2018,19J021,19,Aportaciones a Seguridad Social,J,Pensiones y jubilaciones,21,Pensión Mínima Garantizada IMSS,2518.016809
+2018,19J022,19,Aportaciones a Seguridad Social,J,Pensiones y jubilaciones,22,Cuota Social Seguro de Retiro ISSSTE,2421.5604737
+2018,19J025,19,Aportaciones a Seguridad Social,J,Pensiones y jubilaciones,25,Previsiones para las pensiones en curso de pago de los Extrabajadores de Luz y Fuerza del Centro,20069.9874987
+2018,19J026,19,Aportaciones a Seguridad Social,J,Pensiones y jubilaciones,26,Previsiones para el Pago de las Pensiones de los Jubilados de Ferrocarriles Nacionales de México,2687.34739313
+2018,19R010,19,Aportaciones a Seguridad Social,R,Específicos,10,Pagas de Defunción y Ayuda para Gastos de Sepelio,91.17326409
+2018,19R013,19,Aportaciones a Seguridad Social,R,Específicos,13,Compensaciones de Carácter Militar con Pago único,164.20317165
+2018,19R015,19,Aportaciones a Seguridad Social,R,Específicos,15,Apoyo a jubilados del IMSS e ISSSTE,0
+2018,19R018,19,Aportaciones a Seguridad Social,R,Específicos,18,Apoyo para cubrir el gasto de operación del ISSSTE,10059.487768
+2018,19R023,19,Aportaciones a Seguridad Social,R,Específicos,23,Adeudos con el IMSS e ISSSTE,0
+2018,19R026,19,Aportaciones a Seguridad Social,R,Específicos,26,Comisión por Administración de Pensiones en Curso de Pago,626.2615155499999
+2018,19S038,19,Aportaciones a Seguridad Social,S,Sujetos a Reglas de Operación,38,Programa IMSS-PROSPERA,11893.526776
+2018,19T001,19,Aportaciones a Seguridad Social,T,Aportaciones a la seguridad social,1,Seguro de Enfermedad y Maternidad,88070.487251
+2018,19T002,19,Aportaciones a Seguridad Social,T,Aportaciones a la seguridad social,2,Seguro de Invalidez y Vida,3033.232355
+2018,19T003,19,Aportaciones a Seguridad Social,T,Aportaciones a la seguridad social,3,Seguro de Salud para la Familia,853.380508
+2018,19T005,19,Aportaciones a Seguridad Social,T,Aportaciones a la seguridad social,5,"Cuota correspondiente de los Haberes, Haberes de Retiro y Pensiones",5632.869521
+2018,19T006,19,Aportaciones a Seguridad Social,T,Aportaciones a la seguridad social,6,Cuota Social Seguro de Salud ISSSTE,17570.772291
+2018,19U001,19,Aportaciones a Seguridad Social,U,Otros Subsidios,1,Seguridad Social Cañeros,280
+2018,19U002,19,Aportaciones a Seguridad Social,U,Otros Subsidios,2,Régimen de Incorporación,428.62731540000004
+2018,20B004,20,Desarrollo Social,B,Provisión de Bienes Públicos,4,Adquisición de leche nacional,1950.088712
+2018,20E003,20,Desarrollo Social,E,Prestación de Servicios Públicos,3,Servicios a grupos con necesidades especiales,349.59188164999995
+2018,20E016,20,Desarrollo Social,E,Prestación de Servicios Públicos,16,Articulación de políticas públicas integrales de juventud,40.592870170000005
+2018,20K025,20,Desarrollo Social,K,Proyectos de Inversión,25,Proyectos de inmuebles (oficinas administrativas),0.35793849000000005
+2018,20M001,20,Desarrollo Social,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,2726.3119155900004
+2018,20O001,20,Desarrollo Social,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,83.14678862999999
+2018,20P001,20,Desarrollo Social,P,"Planeación, seguimiento y evaluación de políticas públicas",1,Diseño y Conducción de la Política Pública de Desarrollo Social,327.21149771
+2018,20P002,20,Desarrollo Social,P,"Planeación, seguimiento y evaluación de políticas públicas",2,"Promoción y evaluación de la política de desarrollo social y comunitario, la participación y la cohesión social",2670.7077309899996
+2018,20P003,20,Desarrollo Social,P,"Planeación, seguimiento y evaluación de políticas públicas",3,Evaluación de los programas sociales,336.35727751999997
+2018,20P004,20,Desarrollo Social,P,"Planeación, seguimiento y evaluación de políticas públicas",4,Desarrollo integral de las personas con discapacidad,52.655241229999994
+2018,20S017,20,Desarrollo Social,S,Sujetos a Reglas de Operación,17,Programa de Fomento a la Economía Social,2201.54971612
+2018,20S052,20,Desarrollo Social,S,Sujetos a Reglas de Operación,52,"Programa de Abasto Social de Leche a cargo de Liconsa, S.A. de C.V.",1460.125206
+2018,20S053,20,Desarrollo Social,S,Sujetos a Reglas de Operación,53,"Programa de Abasto Rural a cargo de Diconsa, S.A. de C.V. (DICONSA)",2196.879502
+2018,20S057,20,Desarrollo Social,S,Sujetos a Reglas de Operación,57,Programas del Fondo Nacional de Fomento a las Artesanías (FONART),183.84693052
+2018,20S061,20,Desarrollo Social,S,Sujetos a Reglas de Operación,61,Programa 3 x 1 para Migrantes,328.29180669
+2018,20S065,20,Desarrollo Social,S,Sujetos a Reglas de Operación,65,Programa de Atención a Jornaleros Agrícolas,365.26201854000004
+2018,20S070,20,Desarrollo Social,S,Sujetos a Reglas de Operación,70,Programa de Coinversión Social,275.67725341000005
+2018,20S071,20,Desarrollo Social,S,Sujetos a Reglas de Operación,71,Programa de Empleo Temporal (PET),2617.80176295
+2018,20S072,20,Desarrollo Social,S,Sujetos a Reglas de Operación,72,PROSPERA Programa de Inclusión Social,39811.40875977
+2018,20S155,20,Desarrollo Social,S,Sujetos a Reglas de Operación,155,Programa de Apoyo a las Instancias de Mujeres en las Entidades Federativas (PAIMEF),273.69595271
+2018,20S174,20,Desarrollo Social,S,Sujetos a Reglas de Operación,174,Programa de estancias infantiles para apoyar a madres trabajadoras,3864.27451987
+2018,20S176,20,Desarrollo Social,S,Sujetos a Reglas de Operación,176,Pensión para Adultos Mayores,35619.56339147
+2018,20S241,20,Desarrollo Social,S,Sujetos a Reglas de Operación,241,Seguro de vida para jefas de familia,58.22532655999999
+2018,20S279,20,Desarrollo Social,S,Sujetos a Reglas de Operación,279,Comedores Comunitarios,2756.7957525499996
+2018,20U008,20,Desarrollo Social,U,Otros Subsidios,8,Subsidios a programas para jóvenes,154.08702833
+2018,21E005,21,Turismo,E,Prestación de Servicios Públicos,5,Programa de Calidad y Atención Integral al Turismo,231.29870735
+2018,21E007,21,Turismo,E,Prestación de Servicios Públicos,7,Conservación y mantenimiento a los CIP's,174.97211219
+2018,21F001,21,Turismo,F,Promoción y fomento,1,Promoción de México como Destino Turístico,5573.7855561
+2018,21F002,21,Turismo,F,Promoción y fomento,2,Fomento y promoción de la inversión en el sector turístico,1326.93621036
+2018,21F005,21,Turismo,F,Promoción y fomento,5,Desarrollo y promoción de proyectos turísticos sustentables,93.20747763
+2018,21G001,21,Turismo,G,Regulación y supervisión,1,Regulación y certificación de estándares de calidad turística      ,55.47082949
+2018,21K021,21,Turismo,K,Proyectos de Inversión,21,Proyectos de infraestructura de turismo,132.72311683
+2018,21K027,21,Turismo,K,Proyectos de Inversión,27,Mantenimiento de infraestructura,616.80567061
+2018,21M001,21,Turismo,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,280.99948581
+2018,21O001,21,Turismo,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,60.46355729
+2018,21P001,21,Turismo,P,"Planeación, seguimiento y evaluación de políticas públicas",1,Planeación y conducción de la política de turismo,252.53827958
+2018,21P002,21,Turismo,P,"Planeación, seguimiento y evaluación de políticas públicas",2,Impulso a la competitividad del sector turismo,19.914458789999998
+2018,21S248,21,Turismo,S,Sujetos a Reglas de Operación,248,Programa de Desarrollo Regional Turístico Sustentable y Pueblos Mágicos,956.37425348
+2018,22M001,22,Instituto Nacional Electoral,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Gestión Administrativa,2834.1607293
+2018,22M002,22,Instituto Nacional Electoral,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,2,Organización del servicio profesional electoral,128.61086673
+2018,22O001,22,Instituto Nacional Electoral,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Apoyo a la función pública y al mejoramiento de la gestión,173.96579985
+2018,22P001,22,Instituto Nacional Electoral,P,"Planeación, seguimiento y evaluación de políticas públicas",1,"Planeación, innovación, seguimiento y evaluación",43.73484707
+2018,22R002,22,Instituto Nacional Electoral,R,Específicos,2,Organización electoral nacional,2589.3767819
+2018,22R003,22,Instituto Nacional Electoral,R,Específicos,3,Capacitación y educación para el ejercicio democrático de la ciudadanía,3611.4936889900005
+2018,22R005,22,Instituto Nacional Electoral,R,Específicos,5,Actualización del padrón electoral y expedición de la credencial para votar,3727.2537201100004
+2018,22R008,22,Instituto Nacional Electoral,R,Específicos,8,"Dirección, soporte jurídico electoral y apoyo logístico",1797.02939935
+2018,22R009,22,Instituto Nacional Electoral,R,Específicos,9,"Otorgamiento de prerrogativas a partidos políticos, fiscalización de sus recursos y administración de los tiempos del estado en radio y televisión",7451.521206
+2018,22R010,22,Instituto Nacional Electoral,R,Específicos,10,Vinculación con la sociedad,328.70705443
+2018,22R011,22,Instituto Nacional Electoral,R,Específicos,11,Tecnologías de información y comunicaciones,1312.69696855
+2018,23N001,23,Provisiones Salariales y Económicas,N,Desastres Naturales,1,Fondo de Desastres Naturales (FONDEN),33438
+2018,23N002,23,Provisiones Salariales y Económicas,N,Desastres Naturales,2,Fondo de Prevención de Desastres Naturales (FOPREDEN),442.5818
+2018,23N003,23,Provisiones Salariales y Económicas,N,Desastres Naturales,3,Fondo de Reconstrucción de Entidades Federativas,800
+2018,23R001,23,Provisiones Salariales y Económicas,R,Específicos,1,Situaciones laborales supervenientes,0
+2018,23R003,23,Provisiones Salariales y Económicas,R,Específicos,3,Seguridad y Logística,0
+2018,23R004,23,Provisiones Salariales y Económicas,R,Específicos,4,Fondo de Ahorro Capitalizable (FONAC),2912.1495705
+2018,23R007,23,Provisiones Salariales y Económicas,R,Específicos,7,Comisiones y pago a CECOBAN,0
+2018,23R010,23,Provisiones Salariales y Económicas,R,Específicos,10,CONACYT,0
+2018,23R011,23,Provisiones Salariales y Económicas,R,Específicos,11,Fiscalización,0
+2018,23R013,23,Provisiones Salariales y Económicas,R,Específicos,13,Medidas de Racionalidad y Austeridad Servicios Personales (Seguridad Social),0
+2018,23R019,23,Provisiones Salariales y Económicas,R,Específicos,19,Concentración de Recursos por Conversión de Plazas,0
+2018,23R030,23,Provisiones Salariales y Económicas,R,Específicos,30,Bienes que pasan a ser propiedad del Gobierno Federal,0
+2018,23R031,23,Provisiones Salariales y Económicas,R,Específicos,31,Regularización contable y compensada (Ingresos Excedentes),0
+2018,23R032,23,Provisiones Salariales y Económicas,R,Específicos,32,Reasignaciones presupuestarias entre dependencias y entidades,0
+2018,23R034,23,Provisiones Salariales y Económicas,R,Específicos,34,Restitución de Remanantes de Paquete Salarial,0
+2018,23R066,23,Provisiones Salariales y Económicas,R,Específicos,66,Programa de Separación Laboral ,0
+2018,23R067,23,Provisiones Salariales y Económicas,R,Específicos,67,Medidas Supervenientes,160
+2018,23R068,23,Provisiones Salariales y Económicas,R,Específicos,68,Seguro de vida de las Dependencias y Entidades de la APF,935.1102897999999
+2018,23R069,23,Provisiones Salariales y Económicas,R,Específicos,69,Seguro Colectivo de Retiro,297.19292692999994
+2018,23R072,23,Provisiones Salariales y Económicas,R,Específicos,72,Medidas de Racionalidad y Austeridad Servicios Personales,0
+2018,23R073,23,Provisiones Salariales y Económicas,R,Específicos,73,Medidas de Racionalidad y Austeridad Gastos de Operación,0
+2018,23R079,23,Provisiones Salariales y Económicas,R,Específicos,79,CNH-CRE,0
+2018,23R080,23,Provisiones Salariales y Económicas,R,Específicos,80,FEIEF,0
+2018,23R081,23,Provisiones Salariales y Económicas,R,Específicos,81,FEIP,0
+2018,23R082,23,Provisiones Salariales y Económicas,R,Específicos,82,Fondo para la Transición,136.51397792000003
+2018,23R114,23,Provisiones Salariales y Económicas,R,Específicos,114,Apoyo al Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas (ISSFAM),59.90741318
+2018,23R120,23,Provisiones Salariales y Económicas,R,Específicos,120,Apoyo Federal para Pago de Adeudos de Suministro de Energía Eléctrica,1187.9596548799998
+2018,23R122,23,Provisiones Salariales y Económicas,R,Específicos,122,Reasignaciones presupuestarias medidas de cierre,0
+2018,23R123,23,Provisiones Salariales y Económicas,R,Específicos,123,Reasignaciones presupuestarias medidas de cierre Servicios Personales,0
+2018,23R124,23,Provisiones Salariales y Económicas,R,Específicos,124,Reasignaciones presupuestarias medidas de cierre Servicios Personales (Seguridad Social),0
+2018,23R125,23,Provisiones Salariales y Económicas,R,Específicos,125,Provisiones Salariales y Económicas,0
+2018,23R130,23,Provisiones Salariales y Económicas,R,Específicos,130,Multas impuestas por la Condusef y cobradas a través del SAT,0
+2018,23R137,23,Provisiones Salariales y Económicas,R,Específicos,137,Reasignaciones de Poderes y Entes Autónomos para enfrentar desastres naturales,0
+2018,23R141,23,Provisiones Salariales y Económicas,R,Específicos,141,Fideicomiso para la Infraestructura de los Estados,4307.6
+2018,23R142,23,Provisiones Salariales y Económicas,R,Específicos,142,Fondo para la modernización del patrimonio cultural federal,0
+2018,23U019,23,Provisiones Salariales y Económicas,U,Otros Subsidios,19,Fondo Regional,2310.28942313
+2018,23U022,23,Provisiones Salariales y Económicas,U,Otros Subsidios,22,Programas Regionales,4712.938205
+2018,23U033,23,Provisiones Salariales y Económicas,U,Otros Subsidios,33,Fondo de Apoyo a Migrantes,291.75622877999996
+2018,23U057,23,Provisiones Salariales y Económicas,U,Otros Subsidios,57,Fondo Metropolitano,3232.7401234500003
+2018,23U075,23,Provisiones Salariales y Económicas,U,Otros Subsidios,75,Fondo para la Accesibilidad en el Transporte Público para las Personas con Discapacidad,422.84707248
+2018,23U082,23,Provisiones Salariales y Económicas,U,Otros Subsidios,82,DIF-CDMX,505
+2018,23U083,23,Provisiones Salariales y Económicas,U,Otros Subsidios,83,"Apoyo a municipios para obras de infraestructura y seguridad de los museos, monumentos y zonas arqueológicas (derecho a museos)",23.787386400000003
+2018,23U084,23,Provisiones Salariales y Económicas,U,Otros Subsidios,84,Programa para el Rescate del Acapulco Tradicional,0
+2018,23U085,23,Provisiones Salariales y Económicas,U,Otros Subsidios,85,Fondo para Fronteras,0
+2018,23U087,23,Provisiones Salariales y Económicas,U,Otros Subsidios,87,Fondo de Capitalidad,2341.99327066
+2018,23U093,23,Provisiones Salariales y Económicas,U,Otros Subsidios,93,Fondo para entidades federativas y municipios productores de hidrocarburos,5465.83048532
+2018,23U116,23,Provisiones Salariales y Económicas,U,Otros Subsidios,116,Provisión para la Armonización Contable,53.61254701
+2018,23U128,23,Provisiones Salariales y Económicas,U,Otros Subsidios,128,Proyectos de Desarrollo Regional,12260.265693860001
+2018,23U129,23,Provisiones Salariales y Económicas,U,Otros Subsidios,129,Subsidios a las Tarifas Eléctricas,81405.3
+2018,23U131,23,Provisiones Salariales y Económicas,U,Otros Subsidios,131,Operación y Mantenimiento del Programa de Seguridad y Monitoreo en el Estado de México,1500
+2018,23U135,23,Provisiones Salariales y Económicas,U,Otros Subsidios,135,Fondo para el Fortalecimiento Financiero,50172.08479804
+2018,23U145,23,Provisiones Salariales y Económicas,U,Otros Subsidios,145,Cámaras de Vigilancia en el Estado de Veracruz,349.77573666
+2018,23Y003,23,Provisiones Salariales y Económicas,Y,Aportaciones a fondos de estabilización,3,Fideicomiso Fondo de Estabilización de los Ingresos Presupuestarios,38049.057
+2018,23Y004,23,Provisiones Salariales y Económicas,Y,Aportaciones a fondos de estabilización,4,Fideicomiso Fondo de Estabilización de los Ingresos de las Entidades Federativas,13692.5784
+2018,24D001,24,Deuda Pública,D,"Costo financiero, deuda o apoyos a deudores y ahorradores de la banca",1,Valores gubernamentales,374805.8229987
+2018,24D002,24,Deuda Pública,D,"Costo financiero, deuda o apoyos a deudores y ahorradores de la banca",2,Fondo de ahorro SAR,2749.2006800500003
+2018,24D003,24,Deuda Pública,D,"Costo financiero, deuda o apoyos a deudores y ahorradores de la banca",3,Pensión ISSSTE,46.911460399999996
+2018,24D004,24,Deuda Pública,D,"Costo financiero, deuda o apoyos a deudores y ahorradores de la banca",4,Otros financiamientos,1802.5584011499998
+2018,24D005,24,Deuda Pública,D,"Costo financiero, deuda o apoyos a deudores y ahorradores de la banca",5,Bonos,54477.628643799995
+2018,24D006,24,Deuda Pública,D,"Costo financiero, deuda o apoyos a deudores y ahorradores de la banca",6,Banca comercial,0
+2018,24D007,24,Deuda Pública,D,"Costo financiero, deuda o apoyos a deudores y ahorradores de la banca",7,Coberturas,0
+2018,24D008,24,Deuda Pública,D,"Costo financiero, deuda o apoyos a deudores y ahorradores de la banca",8,Bilaterales,700.6520591300001
+2018,24D009,24,Deuda Pública,D,"Costo financiero, deuda o apoyos a deudores y ahorradores de la banca",9,Organismos financieros internacionales,18291.970829729995
+2018,25E003,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",E,Prestación de Servicios Públicos,3,Servicios de educación básica en el D.F.,35123.10984752
+2018,25E004,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",E,Prestación de Servicios Públicos,4,Servicios de educación normal en el D.F.,1210.7089876700002
+2018,25E221,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",E,Prestación de Servicios Públicos,221,Escuelas de Tiempo Completo,313.51334317000004
+2018,25E244,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",E,Prestación de Servicios Públicos,244,Programa para la Inclusión y la Equidad Educativa,3.94392029
+2018,25E247,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",E,Prestación de Servicios Públicos,247,Programa para el Desarrollo Profesional Docente,18.36130787
+2018,25E267,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",E,Prestación de Servicios Públicos,267,Fortalecimiento de la Calidad Educativa,41.089342630000004
+2018,25E270,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",E,Prestación de Servicios Públicos,270,Programa Nacional de Inglés,0
+2018,25E271,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",E,Prestación de Servicios Públicos,271,Programa Nacional de Convivencia Escolar,12.343265149999999
+2018,25I002,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",I,Gasto Federalizado,2,Previsiones salariales y económicas del Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo (FONE),0
+2018,25I003,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",I,Gasto Federalizado,3,Previsiones salariales y económicas del Fondo de Aportaciones para la Educación Tecnológica y de Adultos,0
+2018,25M001,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,509.13553714
+2018,25O001,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,34.77852914
+2018,25S243,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",S,Sujetos a Reglas de Operación,243,Programa Nacional de Becas,10.63571559
+2018,25U001,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",U,Otros Subsidios,1,Becas para la población atendida por el sector educativo,154.193244
+2018,25U031,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",U,Otros Subsidios,31,Programa Expansión de la Educación Inicial,0
+2018,27K027,27,Función Pública,K,Proyectos de Inversión,27,Mantenimiento de infraestructura,16.88680854
+2018,27K028,27,Función Pública,K,Proyectos de Inversión,28,Estudios de preinversión,2.8971116
+2018,27M001,27,Función Pública,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,198.29609905
+2018,27O001,27,Función Pública,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,51.61831744999999
+2018,27O002,27,Función Pública,O,Apoyo a la función pública y al mejoramiento de la gestión,2,Fiscalización a la gestión pública,678.42543561
+2018,27O003,27,Función Pública,O,Apoyo a la función pública y al mejoramiento de la gestión,3,Integración de las estructuras profesionales del gobierno,95.68406606
+2018,27O005,27,Función Pública,O,Apoyo a la función pública y al mejoramiento de la gestión,5,"Regulación de los procesos, trámites y servicios de la Administración Pública Federal",325.10522627999995
+2018,27O006,27,Función Pública,O,Apoyo a la función pública y al mejoramiento de la gestión,6,Inhibición y sanción de las prácticas de corrupción,239.52458413
+2018,27O008,27,Función Pública,O,Apoyo a la función pública y al mejoramiento de la gestión,8,Promoción de la cultura de la legalidad y el aprecio por la rendición de cuentas,216.00606519
+2018,28C001,28,Participaciones a Entidades Federativas y Municipios,C,Participaciones a entidades federativas y municipios,1,Fondo General de Participaciones,609869.663647
+2018,28C002,28,Participaciones a Entidades Federativas y Municipios,C,Participaciones a entidades federativas y municipios,2,Fondo de Fomento Municipal,30428.482883
+2018,28C003,28,Participaciones a Entidades Federativas y Municipios,C,Participaciones a entidades federativas y municipios,3,Otros conceptos participables e incentivos económicos,201258.383214
+2018,28C004,28,Participaciones a Entidades Federativas y Municipios,C,Participaciones a entidades federativas y municipios,4,Fondo de Compensación del Impuesto sobre Automóviles Nuevos,2488.646811
+2018,30H001,30,Adeudos de Ejercicios Fiscales Anteriores,H,Adeudos de Ejercicios Fiscales Anteriores (ADEFAS),1,Adeudos de Ejercicios Fiscales Anteriores (ADEFAS),61215.995300970004
+2018,31E001,31,Tribunales Agrarios,E,Prestación de Servicios Públicos,1,Resolución de asuntos relativos a conflictos y controversias por la posesión y usufructo de la tierra,661.7226357200001
+2018,31E002,31,Tribunales Agrarios,E,Prestación de Servicios Públicos,2,Resolución de juicios agrarios dotatorios de tierras y los recursos de revisión,263.23822764
+2018,31M001,31,Tribunales Agrarios,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,83.52133481999999
+2018,31O001,31,Tribunales Agrarios,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,4.02212953
+2018,32E001,32,Tribunal Federal de Justicia Administrativa,E,Prestación de Servicios Públicos,1,Impartición de Justicia Fiscal y Administrativa,2798.81903269
+2018,32K025,32,Tribunal Federal de Justicia Administrativa,K,Proyectos de Inversión,25,Proyectos de inmuebles (oficinas administrativas),34.02465942
+2018,32M001,32,Tribunal Federal de Justicia Administrativa,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,93.46044903
+2018,33I002,33,Aportaciones Federales para Entidades Federativas y Municipios,I,Gasto Federalizado,2,FASSA,95315.98673769001
+2018,33I003,33,Aportaciones Federales para Entidades Federativas y Municipios,I,Gasto Federalizado,3,FAIS Entidades,8791.5772842
+2018,33I004,33,Aportaciones Federales para Entidades Federativas y Municipios,I,Gasto Federalizado,4,FAIS Municipal y de las Demarcaciones Territoriales del Distrito Federal,64253.96817542
+2018,33I005,33,Aportaciones Federales para Entidades Federativas y Municipios,I,Gasto Federalizado,5,FORTAMUN,74249.10078599
+2018,33I006,33,Aportaciones Federales para Entidades Federativas y Municipios,I,Gasto Federalizado,6,FAM Asistencia Social ,10745.75745085
+2018,33I007,33,Aportaciones Federales para Entidades Federativas y Municipios,I,Gasto Federalizado,7,FAM Infraestructura Educativa Básica,8126.634922159999
+2018,33I008,33,Aportaciones Federales para Entidades Federativas y Municipios,I,Gasto Federalizado,8,FAM Infraestructura Educativa Media Superior y Superior,4566.001638180001
+2018,33I009,33,Aportaciones Federales para Entidades Federativas y Municipios,I,Gasto Federalizado,9,FAETA Educación Tecnológica,4497.45607615
+2018,33I010,33,Aportaciones Federales para Entidades Federativas y Municipios,I,Gasto Federalizado,10,FAETA Educación de Adultos,2111.93749661
+2018,33I011,33,Aportaciones Federales para Entidades Federativas y Municipios,I,Gasto Federalizado,11,FASP,6813.86012397
+2018,33I012,33,Aportaciones Federales para Entidades Federativas y Municipios,I,Gasto Federalizado,12,FAFEF,40554.64654479
+2018,33I013,33,Aportaciones Federales para Entidades Federativas y Municipios,I,Gasto Federalizado,13,FONE Servicios Personales,341937.17056528997
+2018,33I014,33,Aportaciones Federales para Entidades Federativas y Municipios,I,Gasto Federalizado,14,FONE Otros de Gasto Corriente,10720.24971007
+2018,33I015,33,Aportaciones Federales para Entidades Federativas y Municipios,I,Gasto Federalizado,15,FONE Gasto de Operación,13352.22438125
+2018,33I016,33,Aportaciones Federales para Entidades Federativas y Municipios,I,Gasto Federalizado,16,FONE Fondo de Compensación,9673.97289659
+2018,34D001,34,Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca,D,"Costo financiero, deuda o apoyos a deudores y ahorradores de la banca",1,INDUSTRIA Descuento en pago,0
+2018,34D002,34,Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca,D,"Costo financiero, deuda o apoyos a deudores y ahorradores de la banca",2,HIPOTECARIO-VIVIENDA,0
+2018,34D003,34,Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca,D,"Costo financiero, deuda o apoyos a deudores y ahorradores de la banca",3,AGROINDUSTRIA Descuento en pago,0
+2018,34D004,34,Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca,D,"Costo financiero, deuda o apoyos a deudores y ahorradores de la banca",4,INDUSTRIA Reestructuración en UDIs,0
+2018,34D005,34,Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca,D,"Costo financiero, deuda o apoyos a deudores y ahorradores de la banca",5,HIPOTECARIO-VIVIENDA Reestructuración en UDIs,0
+2018,34D006,34,Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca,D,"Costo financiero, deuda o apoyos a deudores y ahorradores de la banca",6,AGROINDUSTRIA Reestructuración en UDIs,0
+2018,34D007,34,Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca,D,"Costo financiero, deuda o apoyos a deudores y ahorradores de la banca",7,ESTADOS Y MUNICIPIOS Reestructuración en UDIs,0
+2018,34D008,34,Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca,D,"Costo financiero, deuda o apoyos a deudores y ahorradores de la banca",8,INDUSTRIA Descuento en pago Banca de Desarrollo,0
+2018,34D009,34,Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca,D,"Costo financiero, deuda o apoyos a deudores y ahorradores de la banca",9,AGROINDUSTRIA Descuento en pago Banca de Desarrollo,0
+2018,34D011,34,Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca,D,"Costo financiero, deuda o apoyos a deudores y ahorradores de la banca",11,I P A B,38168.5
+2018,35E001,35,Comisión Nacional de los Derechos Humanos,E,Prestación de Servicios Públicos,1,Establecer y dirigir la estrategia institucional para proteger y promover los Derechos Humanos y presentar sus resultados,19.07118259
+2018,35E002,35,Comisión Nacional de los Derechos Humanos,E,Prestación de Servicios Públicos,2,"Atender al público en general en oficinas centrales y foráneas; así como, solucionar expedientes de presuntas violaciones a los Derechos Humanos",813.2134171399999
+2018,35E003,35,Comisión Nacional de los Derechos Humanos,E,Prestación de Servicios Públicos,3,Atender asuntos relacionados con las personas migrantes,119.22247937
+2018,35E006,35,Comisión Nacional de los Derechos Humanos,E,Prestación de Servicios Públicos,6,Atender asuntos relacionados con víctimas del delito y de violaciones a derechos humanos.,25.46417983
+2018,35E007,35,Comisión Nacional de los Derechos Humanos,E,Prestación de Servicios Públicos,7,Atender asuntos relacionados con personas reportadas como desaparecidas y no localizadas,31.79448255
+2018,35E008,35,Comisión Nacional de los Derechos Humanos,E,Prestación de Servicios Públicos,8,"Atender asuntos relacionados con la operación del Mecanismo Nacional de Prevención de la Tortura y otros tratos o Penas Crueles, Inhumanos o Degradantes.",29.035777260000003
+2018,35E011,35,Comisión Nacional de los Derechos Humanos,E,Prestación de Servicios Públicos,11,"Atender asuntos relacionados con niñas, niños y adolescentes.",10.96334333
+2018,35E012,35,Comisión Nacional de los Derechos Humanos,E,Prestación de Servicios Públicos,12,"Atender asuntos relacionados con Sexualidad, Salud y VIH  ",6.680897270000001
+2018,35E013,35,Comisión Nacional de los Derechos Humanos,E,Prestación de Servicios Públicos,13,"Realizar la promoción y observancia en el monitoreo, seguimiento y evaluación del impacto de la política nacional en materia de igualdad entre mujeres y hombres",38.59351947
+2018,35E014,35,Comisión Nacional de los Derechos Humanos,E,Prestación de Servicios Públicos,14,Promover el respeto de los Derechos Humanos de periodistas y personas defensores de Derechos Humanos.,18.5711623
+2018,35E015,35,Comisión Nacional de los Derechos Humanos,E,Prestación de Servicios Públicos,15,"Promover, fortalecer e impulsar los vínculos de colaboración interinstitucional; así como, diseñar y ejecutar los programas de educación y capacitación en materia de derechos humanos",127.12960533
+2018,35E016,35,Comisión Nacional de los Derechos Humanos,E,Prestación de Servicios Públicos,16,"Mantener relaciones de cooperación internacional con organismos afines nacionales e internacionales, realizar estudios y administrar el archivo institucional",60.25062605
+2018,35E017,35,Comisión Nacional de los Derechos Humanos,E,Prestación de Servicios Públicos,17,Ejecutar el programa de comunicación social,72.89194549
+2018,35E018,35,Comisión Nacional de los Derechos Humanos,E,Prestación de Servicios Públicos,18,"Coordinar las publicaciones, realizar investigaciones, promover la formación académica y divulgación, así como ofrecer servicios bibliohemerográficos en materia de Derechos Humanos",73.75234485
+2018,35E022,35,Comisión Nacional de los Derechos Humanos,E,Prestación de Servicios Públicos,22,"Promover, difundir y proteger los Derechos Humanos de los integrantes de pueblos y comunidades indígenas y atender asuntos de indígenas en reclusión",24.12185629
+2018,35E023,35,Comisión Nacional de los Derechos Humanos,E,Prestación de Servicios Públicos,23,"Realizar visitas de supervisión para cumplir con la integración del Diagnóstico Nacional de Supervisión Penitenciaria, así como, realizar pronunciamientos en materia de Derechos Humanos con el Sistema Penitenciario.",24.525265609999998
+2018,35E024,35,Comisión Nacional de los Derechos Humanos,E,Prestación de Servicios Públicos,24,"Atender asuntos relativos a la aplicación del Mecanismo Nacional de Promoción, Protección y Supervisión de la Convención sobre los derechos de las Personas con Discapacidad.",14.369057049999999
+2018,35E026,35,Comisión Nacional de los Derechos Humanos,E,Prestación de Servicios Públicos,26,"Atender asuntos relacionados con los Derechos Humanos Económicos, Sociales, Culturales y Ambientales.",17.12723956
+2018,35E032,35,Comisión Nacional de los Derechos Humanos,E,Prestación de Servicios Públicos,32,"Atender asuntos relacionados con las y los jóvenes, las personas mayores y las familias",6.6028905600000005
+2018,35E033,35,Comisión Nacional de los Derechos Humanos,E,Prestación de Servicios Públicos,33,Promover el respeto de los Derechos Humanos de víctimas y posibles víctimas de la trata de personas.,17.7461035
+2018,35E035,35,Comisión Nacional de los Derechos Humanos,E,Prestación de Servicios Públicos,35,"Promover, observar y divulgar la protección, respeto y remedio de los Derechos Humanos de las personas o grupos de personas con mayores riesgos de vulnerabilidad ante los abusos de las empresas, públicas y privadas.",3.95232566
+2018,35M001,35,Comisión Nacional de los Derechos Humanos,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,291.66340744
+2018,35O001,35,Comisión Nacional de los Derechos Humanos,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Apoyo a la función pública y buen gobierno,46.20167146
+2018,35P019,35,Comisión Nacional de los Derechos Humanos,P,"Planeación, seguimiento y evaluación de políticas públicas",19,Planear las actividades y analizar los resultados institucionales,47.19431835
+2018,37M001,37,Consejería Jurídica del Ejecutivo Federal,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,26.59361505
+2018,37O001,37,Consejería Jurídica del Ejecutivo Federal,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,7.271112759999999
+2018,37P001,37,Consejería Jurídica del Ejecutivo Federal,P,"Planeación, seguimiento y evaluación de políticas públicas",1,Asesoramiento en materia jurídica al Presidente de la República y al Gobierno Federal,108.67001040000001
+2018,38E003,38,Consejo Nacional de Ciencia y Tecnología,E,Prestación de Servicios Públicos,3,"Investigación científica, desarrollo e innovación",5177.32850631
+2018,38F002,38,Consejo Nacional de Ciencia y Tecnología,F,Promoción y fomento,2,"Apoyos para actividades científicas, tecnológicas y de innovación",1552.55376471
+2018,38K010,38,Consejo Nacional de Ciencia y Tecnología,K,Proyectos de Inversión,10,Proyectos de infraestructura social de ciencia y tecnología,47.20119665
+2018,38M001,38,Consejo Nacional de Ciencia y Tecnología,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,744.7945023100001
+2018,38O001,38,Consejo Nacional de Ciencia y Tecnología,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,65.81161464
+2018,38P001,38,Consejo Nacional de Ciencia y Tecnología,P,"Planeación, seguimiento y evaluación de políticas públicas",1,"Diseño y evaluación de políticas en ciencia, tecnología e innovación",1735.19583038
+2018,38S190,38,Consejo Nacional de Ciencia y Tecnología,S,Sujetos a Reglas de Operación,190,Becas de posgrado y apoyos a la calidad,9634.57223366
+2018,38S191,38,Consejo Nacional de Ciencia y Tecnología,S,Sujetos a Reglas de Operación,191,Sistema Nacional de Investigadores,5475.64565659
+2018,38S192,38,Consejo Nacional de Ciencia y Tecnología,S,Sujetos a Reglas de Operación,192,"Fortalecimiento sectorial de las capacidades científicas, tecnológicas y de innovación",477.635531
+2018,38S236,38,Consejo Nacional de Ciencia y Tecnología,S,Sujetos a Reglas de Operación,236,Fortalecimiento de la Infraestructura Científica y Tecnológica,98.40078602
+2018,38S278,38,Consejo Nacional de Ciencia y Tecnología,S,Sujetos a Reglas de Operación,278,"Fomento Regional de las Capacidades Científicas, Tecnológicas y de Innovación",800
+2018,38U003,38,Consejo Nacional de Ciencia y Tecnología,U,Otros Subsidios,3,Innovación tecnológica para incrementar la productividad de las empresas,1617.6011374500001
+2018,40M001,40,Información Nacional Estadística y Geográfica,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,418.32561929
+2018,40O001,40,Información Nacional Estadística y Geográfica,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen Gobierno,58.19720501
+2018,40P001,40,Información Nacional Estadística y Geográfica,P,"Planeación, seguimiento y evaluación de políticas públicas",1,"Planeación, Coordinación, Seguimiento y Evaluación del Sistema Nacional de Información Estadística y Geográfica",267.13204865
+2018,40P002,40,Información Nacional Estadística y Geográfica,P,"Planeación, seguimiento y evaluación de políticas públicas",2,Producción y difusión de información estadística y geográfica,6693.132551430001
+2018,40P003,40,Información Nacional Estadística y Geográfica,P,"Planeación, seguimiento y evaluación de políticas públicas",3,Censo Agropecuario,19.42855591
+2018,40P004,40,Información Nacional Estadística y Geográfica,P,"Planeación, seguimiento y evaluación de políticas públicas",4,Censo de Población y Vivienda,60.049541420000004
+2018,40P005,40,Información Nacional Estadística y Geográfica,P,"Planeación, seguimiento y evaluación de políticas públicas",5,Censos Económicos,337.40415878
+2018,41G006,41,Comisión Federal de Competencia Económica,G,Regulación y supervisión,6,Prevención y eliminación de prácticas y concentraciones monopólicas y demás restricciones a la competencia y libre concurrencia,487.04750895999996
+2018,41M001,41,Comisión Federal de Competencia Económica,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de Apoyo Administrativo,107.90250941
+2018,41O001,41,Comisión Federal de Competencia Económica,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de Apoyo a la Función Pública y Buen Gobierno,9.64195595
+2018,42M001,42,Instituto Nacional para la Evaluación de la Educación,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,333.13731401999996
+2018,42O001,42,Instituto Nacional para la Evaluación de la Educación,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,38.35434069
+2018,42P001,42,Instituto Nacional para la Evaluación de la Educación,P,"Planeación, seguimiento y evaluación de políticas públicas",1,Coordinación de la Política Nacional de Evaluación Educativa,97.37075121
+2018,42P003,42,Instituto Nacional para la Evaluación de la Educación,P,"Planeación, seguimiento y evaluación de políticas públicas",3,Normatividad y Política Educativa,109.24574319
+2018,42P004,42,Instituto Nacional para la Evaluación de la Educación,P,"Planeación, seguimiento y evaluación de políticas públicas",4,Evaluación del Sistema Educativo Nacional,339.80755827999997
+2018,42P005,42,Instituto Nacional para la Evaluación de la Educación,P,"Planeación, seguimiento y evaluación de políticas públicas",5,Información y Fomento de la Cultura de la Evaluación,90.91293393000001
+2018,42P006,42,Instituto Nacional para la Evaluación de la Educación,P,"Planeación, seguimiento y evaluación de políticas públicas",6,"Coordinación, Seguimiento y Supervisión",198.26084084000001
+2018,43G004,43,Instituto Federal de Telecomunicaciones,G,Regulación y supervisión,4,Regulación y Supervisión de los sectores Telecomunicaciones y Radiodifusión,1569.95514422
+2018,43G007,43,Instituto Federal de Telecomunicaciones,G,Regulación y supervisión,7,Regulación para el uso eficiente del espectro radioeléctrico,86.3506962
+2018,43M001,43,Instituto Federal de Telecomunicaciones,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,471.80496026
+2018,43O001,43,Instituto Federal de Telecomunicaciones,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,36.53166421
+2018,44E001,44,"Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales",E,Prestación de Servicios Públicos,1,Garantizar el óptimo cumplimiento de los derechos de acceso a la información pública y la protección de datos personales,405.83448737
+2018,44E002,44,"Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales",E,Prestación de Servicios Públicos,2,Promover el pleno ejercicio de los derechos de acceso a la información pública y de protección de datos personales,176.35502412
+2018,44E003,44,"Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales",E,Prestación de Servicios Públicos,3,"Coordinar el Sistema Nacional de Transparencia, Acceso a la Información y de Protección de Datos Personales",175.25565306000001
+2018,44E004,44,"Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales",E,Prestación de Servicios Públicos,4,Desempeño organizacional y modelo institucional orientado a resultados con enfoque de derechos humanos y perspectiva de género,68.14157909000001
+2018,44K025,44,"Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales",K,Proyectos de Inversión,25,Proyectos de inmuebles (oficinas administrativas),73.69978192
+2018,44M001,44,"Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales",M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,123.91452886
+2018,44O001,44,"Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales",O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,18.422696329999997
+2018,45G001,45,Comisión Reguladora de Energía,G,Regulación y supervisión,1,Regulación y permisos de electricidad,412.56853782
+2018,45G002,45,Comisión Reguladora de Energía,G,Regulación y supervisión,2,Regulación y permisos de Hidrocarburos,591.33197806
+2018,45M001,45,Comisión Reguladora de Energía,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,119.56776756000001
+2018,45O001,45,Comisión Reguladora de Energía,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,21.21318609
+2018,46G001,46,Comisión Nacional de Hidrocarburos,G,Regulación y supervisión,1,Promoción y regulación de Hidrocarburos,414.73760319
+2018,46G002,46,Comisión Nacional de Hidrocarburos,G,Regulación y supervisión,2,Administración Técnica de Asignaciones y Contratos,248.7655363
+2018,46M001,46,Comisión Nacional de Hidrocarburos,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,211.50262764
+2018,46O001,46,Comisión Nacional de Hidrocarburos,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,19.187436050000002
+2018,46P001,46,Comisión Nacional de Hidrocarburos,P,"Planeación, seguimiento y evaluación de políticas públicas",1,Estudios de Evaluación y Verificación de Hidrocarburos,72.65102026999999
+2018,47E005,47,Entidades no Sectorizadas,E,Prestación de Servicios Públicos,5,Recopilación y producción de material informativo (Notimex),167.25013363
+2018,47E028,47,Entidades no Sectorizadas,E,Prestación de Servicios Públicos,28,Protección y Defensa de los Contribuyentes,803.9544033
+2018,47E033,47,Entidades no Sectorizadas,E,Prestación de Servicios Públicos,33,Atención a Víctimas,376.54865535000005
+2018,47E036,47,Entidades no Sectorizadas,E,Prestación de Servicios Públicos,36,Producción y Difusión de Materiales Audiovisuales,442.86112882
+2018,47M001,47,Entidades no Sectorizadas,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo Administrativo,439.95226270999996
+2018,47O001,47,Entidades no Sectorizadas,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,31.911233210000002
+2018,47P010,47,Entidades no Sectorizadas,P,"Planeación, seguimiento y evaluación de políticas públicas",10,Fortalecimiento de la Igualdad Sustantiva entre Mujeres y Hombres,395.39295194
+2018,47P013,47,Entidades no Sectorizadas,P,"Planeación, seguimiento y evaluación de políticas públicas",13,Planeación y Articulación de la Acción Pública hacia los Pueblos Indígenas,1092.66363946
+2018,47S010,47,Entidades no Sectorizadas,S,Sujetos a Reglas de Operación,10,Fortalecimiento a la Transversalidad de la Perspectiva de Género,327.230589
+2018,47S178,47,Entidades no Sectorizadas,S,Sujetos a Reglas de Operación,178,Programa de Apoyo a la Educación Indígena,1265.65080803
+2018,47S179,47,Entidades no Sectorizadas,S,Sujetos a Reglas de Operación,179,Programa de Infraestructura Indígena,2080.81357048
+2018,47S249,47,Entidades no Sectorizadas,S,Sujetos a Reglas de Operación,249,Programa para el Mejoramiento de la Producción y la Productividad Indígena,814.61152942
+2018,47U011,47,Entidades no Sectorizadas,U,Otros Subsidios,11,Programa de Derechos Indígenas,203.13002788999998
+2018,48E010,48,Cultura,E,Prestación de Servicios Públicos,10,Servicios de Educación Superior y Posgrado,688.447572
+2018,48E011,48,Cultura,E,Prestación de Servicios Públicos,11,Desarrollo Cultural,6130.862469600001
+2018,48E012,48,Cultura,E,Prestación de Servicios Públicos,12,Protección y conservación del Patrimonio Cultural,1775.24296798
+2018,48E013,48,Cultura,E,Prestación de Servicios Públicos,13,Producción y transmisión de materiales culturales y artísticos,202.51438874000002
+2018,48E016,48,Cultura,E,Prestación de Servicios Públicos,16,Producción y distribución de libros y materiales artísticos y culturales,56.49100174
+2018,48E021,48,Cultura,E,Prestación de Servicios Públicos,21,"Investigación Científica, Arqueológica y Antropológica",163.87708647
+2018,48E022,48,Cultura,E,Prestación de Servicios Públicos,22,Servicios Cinematográficos,402.73667889
+2018,48E041,48,Cultura,E,Prestación de Servicios Públicos,41,Protección de los derechos tutelados por la Ley Federal del Derecho de Autor,8.57187843
+2018,48E042,48,Cultura,E,Prestación de Servicios Públicos,42,Servicios educativos culturales y artísticos,1115.36805326
+2018,48K027,48,Cultura,K,Proyectos de Inversión,27,Mantenimiento de Infraestructura,27.000833280000002
+2018,48M001,48,Cultura,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,2085.59621661
+2018,48O001,48,Cultura,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,71.81215359999999
+2018,48P003,48,Cultura,P,"Planeación, seguimiento y evaluación de políticas públicas",3,Educación y cultura indígena,70.84784112
+2018,48R070,48,Cultura,R,Específicos,70,Programas de Cultura en las Entidades Federativas,926.44380542
+2018,48S243,48,Cultura,S,Sujetos a Reglas de Operación,243,Programa Nacional de Becas,13.784254
+2018,48S268,48,Cultura,S,Sujetos a Reglas de Operación,268,Programa de Apoyos a la Cultura,527.86693667
+2018,50E001,50,Instituto Mexicano del Seguro Social,E,Prestación de Servicios Públicos,1,Prevención y control de enfermedades,5189.326462
+2018,50E003,50,Instituto Mexicano del Seguro Social,E,Prestación de Servicios Públicos,3,Atención a la Salud en el Trabajo,1138.188382
+2018,50E004,50,Instituto Mexicano del Seguro Social,E,Prestación de Servicios Públicos,4,Investigación y desarrollo tecnológico en salud,651.09282
+2018,50E006,50,Instituto Mexicano del Seguro Social,E,Prestación de Servicios Públicos,6,Recaudación de ingresos obrero patronales,5799.738957
+2018,50E007,50,Instituto Mexicano del Seguro Social,E,Prestación de Servicios Públicos,7,Servicios de guardería,10709.657954
+2018,50E011,50,Instituto Mexicano del Seguro Social,E,Prestación de Servicios Públicos,11,Atención a la Salud,211548.238969
+2018,50E012,50,Instituto Mexicano del Seguro Social,E,Prestación de Servicios Públicos,12,Prestaciones sociales,1837.519902
+2018,50J001,50,Instituto Mexicano del Seguro Social,J,Pensiones y jubilaciones,1,Pensiones en curso de pago Ley 1973,275105.818693
+2018,50J002,50,Instituto Mexicano del Seguro Social,J,Pensiones y jubilaciones,2,Rentas vitalicias Ley 1997,16848.57703
+2018,50J003,50,Instituto Mexicano del Seguro Social,J,Pensiones y jubilaciones,3,Régimen de Pensiones y Jubilaciones IMSS,84741.167767
+2018,50J004,50,Instituto Mexicano del Seguro Social,J,Pensiones y jubilaciones,4,Pago de subsidios a los asegurados,17764.419964
+2018,50K012,50,Instituto Mexicano del Seguro Social,K,Proyectos de Inversión,12,Proyectos de infraestructura social de asistencia y seguridad social,4186.163326
+2018,50K025,50,Instituto Mexicano del Seguro Social,K,Proyectos de Inversión,25,Proyectos de inmuebles (oficinas administrativas),7.536603
+2018,50K027,50,Instituto Mexicano del Seguro Social,K,Proyectos de Inversión,27,Mantenimiento de infraestructura,395.289978
+2018,50K028,50,Instituto Mexicano del Seguro Social,K,Proyectos de Inversión,28,Estudios de preinversión,10.046066
+2018,50K029,50,Instituto Mexicano del Seguro Social,K,Proyectos de Inversión,29,Programas de adquisiciones,4313.156079
+2018,50M001,50,Instituto Mexicano del Seguro Social,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,49457.526664
+2018,50O001,50,Instituto Mexicano del Seguro Social,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,321.949524
+2018,50W001,50,Instituto Mexicano del Seguro Social,W,Operaciones ajenas,1,Operaciones ajenas,-7884.988162
+2018,51E015,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,E,Prestación de Servicios Públicos,15,Investigación y Desarrollo Tecnológico en Salud,120.662238
+2018,51E018,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,E,Prestación de Servicios Públicos,18,Suministro de Claves de Medicamentos,12025.378794
+2018,51E036,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,E,Prestación de Servicios Públicos,36,Equidad de Género,31.494715
+2018,51E042,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,E,Prestación de Servicios Públicos,42,Atención a Personas con Discapacidad,31.107771
+2018,51E043,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,E,Prestación de Servicios Públicos,43,Prevención y Control de Enfermedades,4292.75867
+2018,51E044,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,E,Prestación de Servicios Públicos,44,Atención a la Salud,28207.418923
+2018,51E045,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,E,Prestación de Servicios Públicos,45,Prestaciones Sociales,3285.630294
+2018,51J019,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,J,Pensiones y jubilaciones,19,Pensiones por Riesgos de Trabajo,2225.627753
+2018,51J020,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,J,Pensiones y jubilaciones,20,Subsidios y Ayudas,19.746984
+2018,51J021,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,J,Pensiones y jubilaciones,21,Pensiones por Invalidez,218.502784
+2018,51J022,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,J,Pensiones y jubilaciones,22,Pensiones por Causa de Muerte,1480.442814
+2018,51J024,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,J,Pensiones y jubilaciones,24,Pensiones por Cesantía,313.863716
+2018,51J025,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,J,Pensiones y jubilaciones,25,Pensiones por Vejez,14994.233257
+2018,51J026,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,J,Pensiones y jubilaciones,26,Pensiones y Jubilaciones,190894.687932
+2018,51J027,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,J,Pensiones y jubilaciones,27,Indemnizaciones Globales,22.80836
+2018,51J028,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,J,Pensiones y jubilaciones,28,Pagos de Funeral,741.603821
+2018,51K011,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,K,Proyectos de Inversión,11,Proyectos de infraestructura social.,391.193089
+2018,51K027,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,K,Proyectos de Inversión,27,Mantenimiento de Infraestructura,13.207843
+2018,51M001,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,16645.995995
+2018,51M002,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,2,Gastos Administrativos por Operación de Fondos y Seguros,12909.340977
+2018,51O001,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,337.567701
+2018,51W001,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,W,Operaciones ajenas,1,Operaciones Ajenas,300.732053
+2018,52B001,52,Petróleos Mexicanos,B,Provisión de Bienes Públicos,1,"Producción de petróleo, gas, petrolíferos y petroquímicos",71162.763797
+2018,52E010,52,Petróleos Mexicanos,E,Prestación de Servicios Públicos,10,"Distribución de petróleo, gas, petrolíferos y petroquímicos",22218.83973
+2018,52E011,52,Petróleos Mexicanos,E,Prestación de Servicios Públicos,11,"Comercialización de petróleo, gas, petrolíferos y petroquímicos",2404.966869
+2018,52E012,52,Petróleos Mexicanos,E,Prestación de Servicios Públicos,12,Operación y mantenimiento de la infraestructura en ecología,2332.336871
+2018,52E013,52,Petróleos Mexicanos,E,Prestación de Servicios Públicos,13,Servicios médicos al personal de PEMEX,13452.649191
+2018,52E014,52,Petróleos Mexicanos,E,Prestación de Servicios Públicos,14,Prestación de servicios de telecomunicaciones internos a PEMEX,1589.924381
+2018,52E015,52,Petróleos Mexicanos,E,Prestación de Servicios Públicos,15,Prestación de servicios corporativos,133568.397746
+2018,52E016,52,Petróleos Mexicanos,E,Prestación de Servicios Públicos,16,"Servicios de perforación, terminación, reparación, así como actividades y servicios relacionados a pozos",514.23549
+2018,52J002,52,Petróleos Mexicanos,J,Pensiones y jubilaciones,2,Aportaciones para pago de pensiones y jubilaciones,56144.926081
+2018,52K002,52,Petróleos Mexicanos,K,Proyectos de Inversión,2,Proyectos de infraestructura económica de hidrocarburos,165321.041557
+2018,52K025,52,Petróleos Mexicanos,K,Proyectos de Inversión,25,Proyectos de inmuebles (oficinas administrativas),0
+2018,52K027,52,Petróleos Mexicanos,K,Proyectos de Inversión,27,Mantenimiento de infraestructura,15787.622359
+2018,52K028,52,Petróleos Mexicanos,K,Proyectos de Inversión,28,Estudios de preinversión,2372.114822
+2018,52K029,52,Petróleos Mexicanos,K,Proyectos de Inversión,29,Programas de adquisiciones,1423.658423
+2018,52K030,52,Petróleos Mexicanos,K,Proyectos de Inversión,30,Otros proyectos de infraestructura,1915.95445
+2018,52K036,52,Petróleos Mexicanos,K,Proyectos de Inversión,36,Conservación de infraestructura marítimo-portuaria,443.060505
+2018,52M001,52,Petróleos Mexicanos,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,11439.953703
+2018,52O001,52,Petróleos Mexicanos,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,53.964608
+2018,52R005,52,Petróleos Mexicanos,R,Específicos,5,Compra de acciones o inversiones diversas para Pemex,1429.616868
+2018,52W001,52,Petróleos Mexicanos,W,Operaciones ajenas,1,Operaciones ajenas,-5200.406481
+2018,53E561,53,Comisión Federal de Electricidad,E,Prestación de Servicios Públicos,561,Operación y mantenimiento de las centrales generadoras de energía eléctrica,160842.24651
+2018,53E562,53,Comisión Federal de Electricidad,E,Prestación de Servicios Públicos,562,"Operación, mantenimiento y recarga de la Nucleoeléctrica Laguna Verde ",4464.655196
+2018,53E578,53,Comisión Federal de Electricidad,E,Prestación de Servicios Públicos,578,Apoyo al desarrollo sustentable de comunidades afectadas por la instalación de la infraestructura eléctrica,0
+2018,53E579,53,Comisión Federal de Electricidad,E,Prestación de Servicios Públicos,579,Operación y mantenimiento de la Red Nacional de Transmisión,8012.809433
+2018,53E580,53,Comisión Federal de Electricidad,E,Prestación de Servicios Públicos,580,Operación y mantenimiento de la infraestructura del proceso de distribución de energía eléctrica,30728.930439
+2018,53E581,53,Comisión Federal de Electricidad,E,Prestación de Servicios Públicos,581,Comercialización de energía eléctrica y productos asociados,9251.115554
+2018,53E582,53,Comisión Federal de Electricidad,E,Prestación de Servicios Públicos,582,Prestación de servicios corporativos,26953.03951
+2018,53E583,53,Comisión Federal de Electricidad,E,Prestación de Servicios Públicos,583,Servicios de infraestructura aplicable a telecomunicaciones,250.793863
+2018,53E584,53,Comisión Federal de Electricidad,E,Prestación de Servicios Públicos,584,Operación de mecanismos para mejorar la comercialización de servicios y productos,21565.994228
+2018,53E585,53,Comisión Federal de Electricidad,E,Prestación de Servicios Públicos,585,"Funciones en relación con Estrategias de Negocios Comerciales, así como potenciales nuevos negocios",476.477127
+2018,53F571,53,Comisión Federal de Electricidad,F,Promoción y fomento,571,Promoción de medidas para el ahorro y uso eficiente de la energía eléctrica,35.730213
+2018,53J001,53,Comisión Federal de Electricidad,J,Pensiones y jubilaciones,1,Pago de pensiones  y jubilaciones,39534.334603
+2018,53K001,53,Comisión Federal de Electricidad,K,Proyectos de Inversión,1,Proyectos de infraestructura económica de electricidad,4251.721581
+2018,53K027,53,Comisión Federal de Electricidad,K,Proyectos de Inversión,27,Mantenimiento de infraestructura,9749.792736
+2018,53K028,53,Comisión Federal de Electricidad,K,Proyectos de Inversión,28,Estudios de preinversión,600.581323
+2018,53K029,53,Comisión Federal de Electricidad,K,Proyectos de Inversión,29,Programas de adquisiciones,2155.886264
+2018,53K044,53,Comisión Federal de Electricidad,K,Proyectos de Inversión,44,Proyectos de infraestructura económica de electricidad (Pidiregas),20443.126469
+2018,53M001,53,Comisión Federal de Electricidad,M,Apoyo al proceso presupuestario y para mejorar la eficiencia institucional,1,Actividades de apoyo administrativo,41633.356825
+2018,53O001,53,Comisión Federal de Electricidad,O,Apoyo a la función pública y al mejoramiento de la gestión,1,Actividades de apoyo a la función pública y buen gobierno,77.755962
+2018,53P552,53,Comisión Federal de Electricidad,P,"Planeación, seguimiento y evaluación de políticas públicas",552,Coordinación de las funciones y recursos para la infraestructura eléctrica,4183.153957
+2018,53R582,53,Comisión Federal de Electricidad,R,Específicos,582,Seguridad física en las instalaciones de electricidad,1435.501986
+2018,53R584,53,Comisión Federal de Electricidad,R,Específicos,584,Administración de los contratos de producción independiente de energía CFE Generación V,86864.022044
+2018,53W001,53,Comisión Federal de Electricidad,W,Operaciones ajenas,1,Operaciones ajenas,-1409.092216
