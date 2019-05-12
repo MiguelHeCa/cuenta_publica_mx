@@ -1,6 +1,6 @@
 library(tidyverse)
 
-cp <- readRDS("data/cuenta_publica_0817.rds")
+cp <- readRDS("data/cuenta_publica_0818.rds")
 
 # Cuenta pública por ramo
 ramos <- cp %>% 
