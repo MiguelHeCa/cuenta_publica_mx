@@ -1,0 +1,965 @@
+CICLO,ID_RAMO,DESC_RAMO,EJERCIDO_MDP
+1995,8,"Agricultura, Ganadería y Desarrollo Rural",15128.4
+1995,19,Aportaciones a Seguridad Social,11255.4
+1995,33,Aportaciones para Educación Básica en los Estados y para los Servicios en el D. F.,34236.3
+1995,10,Comercio y Fomento Industrial,1192.6
+1995,53,Comisión Federal de Electricidad,0
+1995,9,Comunicaciones y Transportes,10078.2
+1995,27,Contraloría y Desarrollo Administrativo,247
+1995,7,Defensa Nacional,7860.1
+1995,20,Desarrollo Social,4392.6
+1995,11,Educación Pública,34600.6
+1995,18,Energía,7432.6
+1995,4,Gobernación,2531.2
+1995,6,Hacienda y Crédito Público,10197
+1995,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,0
+1995,50,Instituto Mexicano del Seguro Social,0
+1995,54,Luz y Fuerza del Centro,0
+1995,13,Marina,2507.7
+1995,16,"Medio Ambiente, Recursos Naturales y Pesca",4806.1
+1995,22,Organos Electorales,1313.9
+1995,52,Petróleos Mexicanos,0
+1995,3,Poder Judicial,1588.3
+1995,1,Poder Legislativo,1055.2
+1995,2,Presidencia de la República,430.6
+1995,17,Procuraduría General de la República,1671.4
+1995,23,Provisiones Salariales y Económicas ,4325.4
+1995,15,Reforma Agraria,1368.7
+1995,5,Relaciones Exteriores,1407.4
+1995,12,Salud,7703.6
+1995,26,Superación de la Pobreza,9058.2
+1995,14,Trabajo y Previsión Social,662
+1995,32,Tribunal Fiscal de la Federación,71.5
+1995,31,Tribunales Agrarios,162.5
+1995,21,Turismo,500.2
+1996,8,"Agricultura, Ganadería y Desarrollo Rural",19652.7
+1996,19,Aportaciones a Seguridad Social,17019.3
+1996,33,Aportaciones para Educación Básica en los Estados y para los Servicios en el D. F.,46687.9
+1996,10,Comercio y Fomento Industrial,1323.7
+1996,53,Comisión Federal de Electricidad,0
+1996,9,Comunicaciones y Transportes,14913
+1996,27,Contraloría y Desarrollo Administrativo,459.4
+1996,7,Defensa Nacional,11034.3
+1996,20,Desarrollo Social,7501.9
+1996,11,Educación Pública,46539.7
+1996,18,Energía,4936.8
+1996,4,Gobernación,3776.3
+1996,6,Hacienda y Crédito Público,10639.5
+1996,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,0
+1996,50,Instituto Mexicano del Seguro Social,0
+1996,54,Luz y Fuerza del Centro,0
+1996,13,Marina,3602.2
+1996,16,"Medio Ambiente, Recursos Naturales y Pesca",7510.5
+1996,22,Organos Electorales,2167.4
+1996,52,Petróleos Mexicanos,0
+1996,3,Poder Judicial,2273.9
+1996,1,Poder Legislativo,1518.4
+1996,2,Presidencia de la República,714
+1996,17,Procuraduría General de la República,2122.2
+1996,23,Provisiones Salariales y Económicas ,6646
+1996,15,Reforma Agraria,2926.8
+1996,5,Relaciones Exteriores,2071.4
+1996,12,Salud,10641.5
+1996,26,Superación de la Pobreza,11068.5
+1996,14,Trabajo y Previsión Social,905.1
+1996,32,Tribunal Fiscal de la Federación,134.7
+1996,31,Tribunales Agrarios,179.5
+1996,21,Turismo,723.1
+1997,8,"Agricultura, Ganadería y Desarrollo Rural",21262
+1997,19,Aportaciones a Seguridad Social,30647
+1997,33,Aportaciones para Educación Básica en los Estados y para los Servicios en el D. F.,66534.5
+1997,10,Comercio y Fomento Industrial,1989.9
+1997,53,Comisión Federal de Electricidad,0
+1997,9,Comunicaciones y Transportes,37136.6
+1997,27,Contraloría y Desarrollo Administrativo,764.9
+1997,7,Defensa Nacional,13281.1
+1997,20,Desarrollo Social,8161.9
+1997,11,Educación Pública,51909.8
+1997,18,Energía,6914.6
+1997,4,Gobernación,4979.1
+1997,6,Hacienda y Crédito Público,14981.4
+1997,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,0
+1997,50,Instituto Mexicano del Seguro Social,0
+1997,54,Luz y Fuerza del Centro,0
+1997,13,Marina,5024.5
+1997,16,"Medio Ambiente, Recursos Naturales y Pesca",10136.5
+1997,22,Organos Electorales,5368.1
+1997,52,Petróleos Mexicanos,0
+1997,3,Poder Judicial,3207.9
+1997,1,Poder Legislativo,2059.9
+1997,2,Presidencia de la República,1027.4
+1997,17,Procuraduría General de la República,2804.3
+1997,23,Provisiones Salariales y Económicas ,11848
+1997,15,Reforma Agraria,1777.4
+1997,5,Relaciones Exteriores,2276.1
+1997,12,Salud,20286.6
+1997,26,Superación de la Pobreza,11632.7
+1997,14,Trabajo y Previsión Social,1988
+1997,32,Tribunal Fiscal de la Federación,209.9
+1997,31,Tribunales Agrarios,212.8
+1997,21,Turismo,864.7
+1998,30,Adeudos de Ejercicios Fiscales Anteriores,7414.1
+1998,8,Agricultura,22286
+1998,19,Aportaciones a Seguridad Social,51223.1
+1998,33,Aportaciones Federales para Entidades Federativas y Municipios,114700.7
+1998,10,Comercio y Fomento Industrial,1908.2
+1998,53,Comisión Federal de Electricidad,NA
+1998,9,Comunicaciones y Transportes,16794.2
+1998,27,Contraloría y Desarrollo Administrativo,818.9
+1998,7,Defensa Nacional,14774.4
+1998,20,Desarrollo Social,8165
+1998,26,Desarrollo Social y Productivo en Regiones de Pobreza,3457.6
+1998,24,Deuda Pública,99770.6
+1998,11,Educación Pública,62971
+1998,18,Energía ,8885.6
+1998,4,Gobernación,7449.8
+1998,6,Hacienda y Crédito Público,14250.9
+1998,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,NA
+1998,22,Instituto Federal Electoral,3197.6
+1998,50,Instituto Mexicano del Seguro Social,NA
+1998,54,Luz y Fuerza del Centro,NA
+1998,13,Marina,6175.9
+1998,16,Medio Ambiente,12773.7
+1998,28,Participaciones a Entidades Federativas,113578.3
+1998,52,Petróleos Mexicanos,NA
+1998,3,Poder Judicial,4692.3
+1998,1,Poder Legislativo,2441.4
+1998,2,Presidencia de la República,1141.8
+1998,25,Previsiones y Aportaciones para los Sistemas de Educación Básica,10156.6
+1998,17,Procuraduría General de la República,3735.8
+1998,23,Provisiones Salariales y Económicas,6928.9
+1998,15,Reforma Agraria,1630.2
+1998,5,Relaciones Exteriores,2593.3
+1998,12,Salud,12372
+1998,29,Saneamiento Financiero,10106.8
+1998,14,Trabajo y Previsión Social,2254.8
+1998,32,Tribunal Fiscal de la Federación,284.3
+1998,31,Tribunales Agrarios,286.4
+1998,21,Turismo,857
+1999,30,Adeudos de Ejercicios Fiscales Anteriores,6983.5319
+1999,8,"Agricultura, Ganadería y Desarrollo Rural",21062.2395
+1999,19,Aportaciones a Seguridad Social,67516.1943
+1999,33,Aportaciones Federales para Entidades Federativas y Municipios,152062.8527
+1999,10,Comercio y Fomento Industrial,2267.1818
+1999,53,Comisión Federal de Electricidad,0
+1999,9,Comunicaciones y Transportes,18554.1579
+1999,27,Contraloría y Desarrollo Administrativo,934.0718
+1999,7,Defensa Nacional,18786.6533
+1999,20,Desarrollo Social,8995.2725
+1999,26,Desarrollo Social y Productivo en Regiones de Pobreza,4047.5927
+1999,24,Deuda Pública,139154.659
+1999,11,Educación Pública,73102.6163
+1999,18,Energía,10915.8273
+1999,29,Erogaciones para las Operaciones y Programas de Saneamiento Financiero,1597
+1999,34,Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca,22195.104
+1999,4,Gobernación,6603.1773
+1999,6,Hacienda y Crédito Público,18142.6464
+1999,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,0
+1999,22,Instituto Federal Electoral,3551.8896
+1999,50,Instituto Mexicano del Seguro Social,0
+1999,54,Luz y Fuerza del Centro,0
+1999,13,Marina,7038.5031
+1999,16,"Medio Ambiente, Recursos Naturales y Pesca",14002.8946
+1999,28,Participaciones a Entidades Federativas y Municipios,140670.9287
+1999,52,Petróleos Mexicanos,0
+1999,3,Poder Judicial,6713.4222
+1999,1,Poder Legislativo,3268.8974
+1999,2,Presidencia de la República,1227.7446
+1999,25,Previsiones y Aportaciones para los Sistemas de Educación Básica y Normal,11817.6939
+1999,17,Procuraduría General de la República,4343.2277
+1999,23,Provisiones Salariales y Económicas,1181.328
+1999,15,Reforma Agraria,1400.3092
+1999,5,Relaciones Exteriores,3095.9705
+1999,12,Salud,14207.2054
+1999,14,Trabajo y Previsión Social,2730.2881
+1999,32,Tribunal Fiscal de la Federación,426.2429
+1999,31,Tribunales Agrarios,366.1976
+1999,21,Turismo,636.9653
+2000,30,Adeudos de Ejercicios Fiscales Anteriores,8689.4259
+2000,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",24713.7356
+2000,19,Aportaciones a Seguridad Social,86115.9946
+2000,33,Aportaciones Federales para Entidades Federativas y Municipios,181609.0343
+2000,53,Comisión Federal de Electricidad,0
+2000,35,Comisión Nacional de los Derechos Humanos,287.5311
+2000,9,Comunicaciones y Transportes,19194.5355
+2000,27,Contraloría y Desarrollo Administrativo,1117.9227
+2000,7,Defensa Nacional,20830.485
+2000,20,Desarrollo Social,13332.1611
+2000,24,Deuda Pública,134553.1849
+2000,10,Economía,2733.5295
+2000,11,Educación Pública,85550.8277
+2000,18,Energía,12335.6182
+2000,34,Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca,60517.5741
+2000,4,Gobernación,9058.3858
+2000,6,Hacienda y Crédito Público,22426.8712
+2000,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,0
+2000,22,Instituto Federal Electoral,8300.6348
+2000,50,Instituto Mexicano del Seguro Social,0
+2000,54,Luz y Fuerza del Centro,0
+2000,13,Marina,8396.7794
+2000,16,Medio Ambiente y Recursos Naturales,14844.8959
+2000,28,Participaciones a Entidades Federativas y Municipios,178136.1747
+2000,52,Petróleos Mexicanos,0
+2000,3,Poder Judicial,9495.1809
+2000,1,Poder Legislativo,3819.8969
+2000,2,Presidencia de la República,1454.8289
+2000,25,Previsiones y Aportaciones para los Sistemas de Educación Básica y Normal,13682.2145
+2000,17,Procuraduría General de la República,4409.8411
+2000,23,Provisiones Salariales y Económicas,21715.2575
+2000,15,Reforma Agraria,1722.25
+2000,5,Relaciones Exteriores,3415.8219
+2000,12,Salud,16261.354
+2000,14,Trabajo y Previsión Social,3207.5713
+2000,32,Tribunal Fiscal de la Federación,621.0041
+2000,31,Tribunales Agrarios,441.2595
+2000,21,Turismo,1032.1866
+2001,30,Adeudos de Ejercicios Fiscales Anteriores,4982.3747
+2001,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",32405.4301
+2001,19,Aportaciones a Seguridad Social,88947.859
+2001,33,Aportaciones Federales para Entidades Federativas y Municipios,209417.3156
+2001,53,Comisión Federal de Electricidad,0
+2001,35,Comisión Nacional de los Derechos Humanos,393.9603
+2001,9,Comunicaciones y Transportes,17390.0821
+2001,27,Contraloría y Desarrollo Administrativo,1161.4796
+2001,7,Defensa Nacional,22031.0579
+2001,20,Desarrollo Social,13282.3
+2001,24,Deuda Pública,140203.5584
+2001,10,Economía,4956.9267
+2001,11,Educación Pública,94380.922
+2001,18,Energía,14079.4689
+2001,34,Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca,39850.1801
+2001,4,Gobernación,4355.8589
+2001,6,Hacienda y Crédito Público,23491.8305
+2001,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,0
+2001,22,Instituto Federal Electoral,5294.1583
+2001,50,Instituto Mexicano del Seguro Social,0
+2001,54,Luz y Fuerza del Centro,0
+2001,13,Marina,8852.4703
+2001,16,Medio Ambiente y Recursos Naturales,13243.9467
+2001,28,Participaciones a Entidades Federativas y Municipios,196931.1803
+2001,52,Petróleos Mexicanos,0
+2001,3,Poder Judicial,13920.6781
+2001,1,Poder Legislativo,4449.3071
+2001,2,Presidencia de la República,1651.328
+2001,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",14799.3401
+2001,17,Procuraduría General de la República,5451.1768
+2001,23,Provisiones Salariales y Económicas,15098.446
+2001,15,Reforma Agraria,1890.6588
+2001,5,Relaciones Exteriores,3707.3896
+2001,12,Salud,18113.5176
+2001,36,Seguridad Pública,5156.8159
+2001,14,Trabajo y Previsión Social,3181.2749
+2001,32,Tribunal Federal de Justicia Fiscal y Administrativa,670.1174
+2001,31,Tribunales Agrarios,472.5513
+2001,21,Turismo,1516.5057
+2002,30,Adeudos de Ejercicios Fiscales Anteriores,12111.7474
+2002,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",34298.9527
+2002,19,Aportaciones a Seguridad Social,102331.1197
+2002,33,Aportaciones Federales para Entidades Federativas y Municipios,226146.508
+2002,53,Comisión Federal de Electricidad,NA
+2002,35,Comisión Nacional de los Derechos Humanos,457.5625
+2002,9,Comunicaciones y Transportes,24242.9236
+2002,37,Consejería Jurídica del Ejecutivo Federal,56.1992
+2002,27,Contraloría y Desarrollo Administrativo,1242.7429
+2002,7,Defensa Nacional,22596.5906
+2002,20,Desarrollo Social,17887.4058
+2002,24,Deuda Pública,121578.1638
+2002,10,Economía,6173.0926
+2002,11,Educación Pública,107991.5437
+2002,18,Energía,14181.2787
+2002,34,Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca,43982.4726
+2002,4,Gobernación,5190.425
+2002,6,Hacienda y Crédito Público,69616.8002
+2002,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,NA
+2002,22,Instituto Federal Electoral,5850.7198
+2002,50,Instituto Mexicano del Seguro Social,NA
+2002,54,Luz y Fuerza del Centro,NA
+2002,13,Marina,8486.4113
+2002,16,Medio Ambiente y Recursos Naturales,14932.4174
+2002,28,Participaciones a Entidades Federativas y Municipios,214909.7743
+2002,52,Petróleos Mexicanos,NA
+2002,3,Poder Judicial,15414.3785
+2002,1,Poder Legislativo,4967.126
+2002,2,Presidencia de la República,1577.7729
+2002,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",15677.5724
+2002,17,Procuraduría General de la República,6991.8657
+2002,23,Provisiones Salariales y Económicas,17928.6373
+2002,15,Reforma Agraria,2156.4022
+2002,5,Relaciones Exteriores,3845.1198
+2002,12,Salud,20127.3469
+2002,36,Seguridad Pública,6388.9883
+2002,14,Trabajo y Previsión Social,3162.4897
+2002,32,Tribunal Federal de Justicia Fiscal y Administrativa,782.6305
+2002,31,Tribunales Agrarios,520.8535
+2002,21,Turismo,1925.9919
+2003,1,Poder Legislativo,5628.9005
+2003,2,Presidencia de la República,1606.3625
+2003,3,Poder Judicial,17896.4389
+2003,4,Gobernación,4931.39
+2003,5,Relaciones Exteriores,4572.9765
+2003,6,Hacienda y Crédito Público,38222.51
+2003,7,Defensa Nacional,24203.4388
+2003,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",40169.5483
+2003,9,Comunicaciones y Transportes,28379.0537
+2003,10,Economía,6703.0318
+2003,11,Educación Pública,113699.7143
+2003,12,Salud,21933.6
+2003,13,Marina,9201.4027
+2003,14,Trabajo y Previsión Social,3078.6378
+2003,15,Reforma Agraria,2987.6626
+2003,16,Medio Ambiente y Recursos Naturales,18569.4537
+2003,17,Procuraduría General de la República,7267.0478
+2003,18,Energía,22235.4303
+2003,19,Aportaciones a Seguridad Social,117540.5711
+2003,20,Desarrollo Social,18019.6823
+2003,21,Turismo,2245.2923
+2003,22,Instituto Federal Electoral,10976.7758
+2003,23,Provisiones Salariales y Económicas,23788.1904
+2003,24,Deuda Pública,134138.1618
+2003,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",17671.5437
+2003,27,Función Pública,1294.1592
+2003,28,Participaciones a Entidades Federativas y Municipios,225227.8379
+2003,30,Adeudos de Ejercicios Fiscales Anteriores,12961.5798
+2003,31,Tribunales Agrarios,528.8722
+2003,32,Tribunal Federal de Justicia Fiscal y Administrativa,845.1956
+2003,33,Aportaciones Federales para Entidades Federativas y Municipios,247728.0018
+2003,34,Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca,30411.0693
+2003,35,Comisión Nacional de los Derechos Humanos,577.6241
+2003,36,Seguridad Pública,6259.6084
+2003,37,Consejería Jurídica del Ejecutivo Federal,66.0143
+2003,38,Consejo Nacional de Ciencia y Tecnología,7941.1158
+2003,39,Programa de Apoyos para el Fortalecimiento de las Entidades Federativas,30989.6
+2003,50,Instituto Mexicano del Seguro Social,177512.4597
+2003,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,58084.3231
+2003,52,Petróleos Mexicanos,148635.5162
+2003,53,Comisión Federal de Electricidad,141079.3058
+2003,54,Luz y Fuerza del Centro,24809.5025
+2004,30,Adeudos de Ejercicios Fiscales Anteriores,28938.4344
+2004,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",41455.8356
+2004,19,Aportaciones a Seguridad Social,131004.8489
+2004,33,Aportaciones Federales para Entidades Federativas y Municipios,258830.8659
+2004,53,Comisión Federal de Electricidad,148093.5266
+2004,35,Comisión Nacional de los Derechos Humanos,639.2169
+2004,9,Comunicaciones y Transportes,28290.2438
+2004,37,Consejería Jurídica del Ejecutivo Federal,80.6806
+2004,38,Consejo Nacional de Ciencia y Tecnología,7777.9476
+2004,7,Defensa Nacional,23846.3423
+2004,20,Desarrollo Social,21119.6916
+2004,24,Deuda Pública,138063.4582
+2004,10,Economía,6216.3484
+2004,11,Educación Pública,126203.134
+2004,18,Energía,60033.2716
+2004,34,Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca,44935.2932
+2004,27,Función Pública,1376.9021
+2004,4,Gobernación,4949.4073
+2004,6,Hacienda y Crédito Público,26872.1081
+2004,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,61032.3736
+2004,22,Instituto Federal Electoral,5531.1013
+2004,50,Instituto Mexicano del Seguro Social,193258.3825
+2004,54,Luz y Fuerza del Centro,27534.1566
+2004,13,Marina,8844.404
+2004,16,Medio Ambiente y Recursos Naturales,19103.9625
+2004,28,Participaciones a Entidades Federativas y Municipios,239890.2345
+2004,52,Petróleos Mexicanos,175532.0388
+2004,3,Poder Judicial,19471.8352
+2004,1,Poder Legislativo,5538.7835
+2004,2,Presidencia de la República,1593.0446
+2004,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",16933.8574
+2004,17,Procuraduría General de la República,7521.2772
+2004,39,Programa de Apoyos para el Fortalecimiento de las Entidades Federativas,49694.4952
+2004,23,Provisiones Salariales y Económicas,20473.0492
+2004,15,Reforma Agraria,4157.9793
+2004,5,Relaciones Exteriores,5350.3915
+2004,12,Salud,23694.0279
+2004,36,Seguridad Pública,6397.6025
+2004,14,Trabajo y Previsión Social,3100.5237
+2004,32,Tribunal Federal de Justicia Fiscal y Administrativa,889.1827
+2004,31,Tribunales Agrarios,620.2461
+2004,21,Turismo,2456.8778
+2005,30,Adeudos de Ejercicios Fiscales Anteriores,13362.0564
+2005,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",46278.9552
+2005,19,Aportaciones a Seguridad Social,150346.2496
+2005,33,Aportaciones Federales para Entidades Federativas y Municipios,289756.8671
+2005,53,Comisión Federal de Electricidad,182661.7173
+2005,35,Comisión Nacional de los Derechos Humanos,716.3617
+2005,9,Comunicaciones y Transportes,42124.9789
+2005,37,Consejería Jurídica del Ejecutivo Federal,88.1091
+2005,38,Consejo Nacional de Ciencia y Tecnología,7950.3146
+2005,7,Defensa Nacional,25270.9857
+2005,20,Desarrollo Social,21755.2412
+2005,24,Deuda Pública,153484.1483
+2005,10,Economía,6441.4892
+2005,11,Educación Pública,137371.32
+2005,18,Energía,77435.001
+2005,34,Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca,27455.0527
+2005,27,Función Pública,1466.8732
+2005,4,Gobernación,5867.9618
+2005,6,Hacienda y Crédito Público,31160.9053
+2005,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,72449.1404
+2005,22,Instituto Federal Electoral,6329.7557
+2005,50,Instituto Mexicano del Seguro Social,211152.5196
+2005,54,Luz y Fuerza del Centro,22892.3457
+2005,13,Marina,9528.7874
+2005,16,Medio Ambiente y Recursos Naturales,24402.1693
+2005,28,Participaciones a Entidades Federativas y Municipios,278892.3585
+2005,52,Petróleos Mexicanos,180885.4612
+2005,3,Poder Judicial,21504.9395
+2005,1,Poder Legislativo,6424.4975
+2005,2,Presidencia de la República,1622.8125
+2005,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",19416.1394
+2005,17,Procuraduría General de la República,7572.2672
+2005,39,Programa de Apoyos para el Fortalecimiento de las Entidades Federativas,46945.8966
+2005,23,Provisiones Salariales y Económicas,25295.2352
+2005,15,Reforma Agraria,3755.3133
+2005,5,Relaciones Exteriores,5215.4592
+2005,12,Salud,33705.4891
+2005,36,Seguridad Pública,6976.9299
+2005,14,Trabajo y Previsión Social,3344.6575
+2005,32,Tribunal Federal de Justicia Fiscal y Administrativa,1051.2886
+2005,31,Tribunales Agrarios,580.2427
+2005,21,Turismo,2605.2168
+2006,30,Adeudos de Ejercicios Fiscales Anteriores,19981.8262
+2006,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",48779.0479
+2006,19,Aportaciones a Seguridad Social,172376.1871
+2006,33,Aportaciones Federales para Entidades Federativas y Municipios,311941.3382
+2006,53,Comisión Federal de Electricidad,200098.6262
+2006,35,Comisión Nacional de los Derechos Humanos,851.3704
+2006,9,Comunicaciones y Transportes,41075.0477
+2006,37,Consejería Jurídica del Ejecutivo Federal,104.1512
+2006,38,Consejo Nacional de Ciencia y Tecnología,8611.6633
+2006,7,Defensa Nacional,26987.7131
+2006,20,Desarrollo Social,27458.255
+2006,24,Deuda Pública,168071.0353
+2006,10,Economía,9435.8009
+2006,11,Educación Pública,151790.4038
+2006,18,Energía,80447.117800000007
+2006,34,Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca,38600.0756
+2006,27,Función Pública,1600.0287
+2006,4,Gobernación,6629.2775
+2006,6,Hacienda y Crédito Público,38023.8751
+2006,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,79416.1203
+2006,22,Instituto Federal Electoral,11801.4362
+2006,50,Instituto Mexicano del Seguro Social,231443.397
+2006,54,Luz y Fuerza del Centro,32407.125
+2006,13,Marina,9998.3119
+2006,16,Medio Ambiente y Recursos Naturales,29030.3769
+2006,28,Participaciones a Entidades Federativas y Municipios,329337.3406
+2006,52,Petróleos Mexicanos,213981.4667
+2006,3,Poder Judicial,23800.2975
+2006,1,Poder Legislativo,7514.3724
+2006,2,Presidencia de la República,2019.1925
+2006,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",21098.1997
+2006,17,Procuraduría General de la República,8862.4002
+2006,39,Programa de Apoyos para el Fortalecimiento de las Entidades Federativas,54671.4688
+2006,23,Provisiones Salariales y Económicas,50672.9516
+2006,15,Reforma Agraria,4341.9205
+2006,5,Relaciones Exteriores,5819.219
+2006,12,Salud,41547.7117
+2006,36,Seguridad Pública,8676.0297
+2006,14,Trabajo y Previsión Social,3347.0663
+2006,32,Tribunal Federal de Justicia Fiscal y Administrativa,1148.1574
+2006,31,Tribunales Agrarios,584.2149
+2006,21,Turismo,2005.2396
+2007,30,Adeudos de Ejercicios Fiscales Anteriores,15943.3107
+2007,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",57117.8116
+2007,19,Aportaciones a Seguridad Social,211087.919
+2007,33,Aportaciones Federales para Entidades Federativas y Municipios,356761.2737
+2007,53,Comisión Federal de Electricidad,22195.29073
+2007,35,Comisión Nacional de los Derechos Humanos,812.3785
+2007,9,Comunicaciones y Transportes,74353.915
+2007,37,Consejería Jurídica del Ejecutivo Federal,92.5449
+2007,38,Consejo Nacional de Ciencia y Tecnología,9096.0951
+2007,7,Defensa Nacional,34157.436
+2007,20,Desarrollo Social,39543.6676
+2007,24,Deuda Pública,178291.9443
+2007,10,Economía,10228.2343
+2007,11,Educación Pública,169854.1576
+2007,18,Energía,47137.0343
+2007,34,Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca,28013.0434
+2007,27,Función Pública,2012.1274
+2007,4,Gobernación,5885.4796
+2007,6,Hacienda y Crédito Público,36880.0886
+2007,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,91911.9163
+2007,22,Instituto Federal Electoral,7367.4872
+2007,50,Instituto Mexicano del Seguro Social,252110.8687
+2007,54,Luz y Fuerza del Centro,2790.82981
+2007,13,Marina,12166.3647
+2007,16,Medio Ambiente y Recursos Naturales,41096.3459
+2007,28,Participaciones a Entidades Federativas y Municipios,332757.7431
+2007,52,Petróleos Mexicanos,38599.1364
+2007,3,Poder Judicial,25115.2488
+2007,1,Poder Legislativo,7711.1689
+2007,2,Presidencia de la República,1809.555
+2007,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",21850.2265
+2007,17,Procuraduría General de la República,9439.4657
+2007,23,Provisiones Salariales y Económicas,136449.6473
+2007,15,Reforma Agraria,4701.407
+2007,5,Relaciones Exteriores,7096.998
+2007,12,Salud,53144.032
+2007,36,Seguridad Pública,17626.8841
+2007,14,Trabajo y Previsión Social,3151.4174
+2007,32,Tribunal Federal de Justicia Fiscal y Administrativa,1210.5125
+2007,31,Tribunales Agrarios,709.1952
+2007,21,Turismo,3095.7567
+2008,1,Poder Legislativo,9318.462963
+2008,2,Presidencia de la República,2171.748436
+2008,3,Poder Judicial,29977.812395
+2008,4,Gobernación,7249.106008
+2008,5,Relaciones Exteriores,7483.58097
+2008,6,Hacienda y Crédito Público,48843.675805
+2008,7,Defensa Nacional,37122.428354
+2008,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",64111.536678
+2008,9,Comunicaciones y Transportes,48568.18721
+2008,10,Economía,17384.944371
+2008,11,Educación Pública,188378.741121
+2008,12,Salud,69743.470263
+2008,13,Marina,15155.207323
+2008,14,Trabajo y Previsión Social,3959.365991
+2008,15,Reforma Agraria,5052.27936
+2008,16,Medio Ambiente y Recursos Naturales,38969.631145
+2008,17,Procuraduría General de la República,8950.169194
+2008,18,Energía,81117.755671
+2008,19,Aportaciones a Seguridad Social,453884.357972
+2008,20,Desarrollo Social,54126.529223
+2008,21,Turismo,4865.026924
+2008,22,Instituto Federal Electoral,8603.359528
+2008,23,Provisiones Salariales y Económicas,251058.077646
+2008,24,Deuda Pública,190732.26005
+2008,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",23462.090364
+2008,27,Función Pública,2484.197977
+2008,28,Participaciones a Entidades Federativas y Municipios,423454.868318
+2008,30,Adeudos de Ejercicios Fiscales Anteriores,15084.482255
+2008,31,Tribunales Agrarios,843.624467
+2008,32,Tribunal Federal de Justicia Fiscal y Administrativa,1359.786705
+2008,33,Aportaciones Federales para Entidades Federativas y Municipios,396679.343398
+2008,34,Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca,30042.625738
+2008,35,Comisión Nacional de los Derechos Humanos,873.644279
+2008,36,Seguridad Pública,21140.289127
+2008,37,Consejería Jurídica del Ejecutivo Federal,444.245606
+2008,38,Consejo Nacional de Ciencia y Tecnología,11772.437915
+2008,40,Información Nacional Estadística y Geográfica,2222.479352
+2009,1,Poder Legislativo,9559.425444
+2009,2,Presidencia de la República,2515.598137
+2009,3,Poder Judicial,31380.018211
+2009,4,Gobernación,8822.423604
+2009,5,Relaciones Exteriores,7688.53882
+2009,6,Hacienda y Crédito Público,43771.237964
+2009,7,Defensa Nacional,44956.101028
+2009,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",68053.422556
+2009,9,Comunicaciones y Transportes,63486.015054
+2009,10,Economía,18384.373265
+2009,11,Educación Pública,208757.537987
+2009,12,Salud,80959.25596
+2009,13,Marina,16322.001804
+2009,14,Trabajo y Previsión Social,3992.650165
+2009,15,Reforma Agraria,5234.40449
+2009,16,Medio Ambiente y Recursos Naturales,45121.097547
+2009,17,Procuraduría General de la República,10833.407365
+2009,18,Energía,66195.35269
+2009,19,Aportaciones a Seguridad Social,281172.679369
+2009,20,Desarrollo Social,64000.630887
+2009,21,Turismo,6211.789868
+2009,22,Instituto Federal Electoral,11981.449301
+2009,23,Provisiones Salariales y Económicas,63772.952922
+2009,24,Deuda Pública,210662.455088
+2009,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",26980.353087
+2009,27,Función Pública,2649.753966
+2009,28,Participaciones a Entidades Federativas y Municipios,375717.324319
+2009,30,Adeudos de Ejercicios Fiscales Anteriores,15925.865923
+2009,31,Tribunales Agrarios,755.375626
+2009,32,Tribunal Federal de Justicia Fiscal y Administrativa,1419.459899
+2009,33,Aportaciones Federales para Entidades Federativas y Municipios,412466.550584
+2009,34,Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca,31076.361104
+2009,35,Comisión Nacional de los Derechos Humanos,892.650684
+2009,36,Seguridad Pública,33557.187282
+2009,37,Consejería Jurídica del Ejecutivo Federal,470.591688
+2009,38,Consejo Nacional de Ciencia y Tecnología,14267.214595
+2009,40,Información Nacional Estadística y Geográfica,6072.274952
+2010,1,Poder Legislativo,9918.001845
+2010,2,Presidencia de la República,2305.803345
+2010,3,Poder Judicial,33892.179437
+2010,4,Gobernación,14279.608438
+2010,5,Relaciones Exteriores,8997.652695
+2010,6,Hacienda y Crédito Público,43218.640764
+2010,7,Defensa Nacional,52596.891719
+2010,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",71672.075755
+2010,9,Comunicaciones y Transportes,72586.604751
+2010,10,Economía,15704.828698
+2010,11,Educación Pública,225696.355328
+2010,12,Salud,86765.57421
+2010,13,Marina,18415.677636
+2010,14,Trabajo y Previsión Social,3864.978233
+2010,15,Reforma Agraria,4953.777312
+2010,16,Medio Ambiente y Recursos Naturales,48679.030285
+2010,17,Procuraduría General de la República,10651.839135
+2010,18,Energía,37139.745576
+2010,19,Aportaciones a Seguridad Social,330487.74658
+2010,20,Desarrollo Social,76560.633859
+2010,21,Turismo,5461.826197
+2010,22,Instituto Federal Electoral,8670.533732
+2010,23,Provisiones Salariales y Económicas,80116.440784
+2010,24,Deuda Pública,216873.522809
+2010,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",27215.412463
+2010,27,Función Pública,2441.034995
+2010,28,Participaciones a Entidades Federativas y Municipios,437327.62054
+2010,30,Adeudos de Ejercicios Fiscales Anteriores,21580.087698
+2010,31,Tribunales Agrarios,682.310844
+2010,32,Tribunal Federal de Justicia Fiscal y Administrativa,1677.714584
+2010,33,Aportaciones Federales para Entidades Federativas y Municipios,434261.258399
+2010,34,Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca,13720.845115
+2010,35,Comisión Nacional de los Derechos Humanos,889.968384
+2010,36,Seguridad Pública,30184.866188
+2010,37,Consejería Jurídica del Ejecutivo Federal,111.921808
+2010,38,Consejo Nacional de Ciencia y Tecnología,15888.102695
+2010,40,Información Nacional Estadística y Geográfica,8608.84008
+2011,1,Poder Legislativo,10458.323417
+2011,2,Presidencia de la República,2743.854025
+2011,3,Poder Judicial,37814.10921
+2011,4,Gobernación,17926.866649
+2011,5,Relaciones Exteriores,8696.824384
+2011,6,Hacienda y Crédito Público,48232.806963
+2011,7,Defensa Nacional,63978.954052
+2011,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",74927.479577
+2011,9,Comunicaciones y Transportes,81039.546929
+2011,10,Economía,17805.820536
+2011,11,Educación Pública,252574.186869
+2011,12,Salud,99806.461621
+2011,13,Marina,20052.477855
+2011,14,Trabajo y Previsión Social,3889.499217
+2011,15,Reforma Agraria,5647.668327
+2011,16,Medio Ambiente y Recursos Naturales,52611.74877
+2011,17,Procuraduría General de la República,11553.45593
+2011,18,Energía,31957.109868
+2011,19,Aportaciones a Seguridad Social,362110.396653
+2011,20,Desarrollo Social,78706.562743
+2011,21,Turismo,6813.628078
+2011,22,Instituto Federal Electoral,10269.453512
+2011,23,Provisiones Salariales y Económicas,104327.791012
+2011,24,Deuda Pública,232867.368519
+2011,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",29971.670833
+2011,27,Función Pública,1968.411473
+2011,28,Participaciones a Entidades Federativas y Municipios,477256.190535
+2011,30,Adeudos de Ejercicios Fiscales Anteriores,19653.453321
+2011,31,Tribunales Agrarios,744.323295
+2011,32,Tribunal Federal de Justicia Fiscal y Administrativa,1849.561096
+2011,33,Aportaciones Federales para Entidades Federativas y Municipios,469723.433343
+2011,34,Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca,15446.121489
+2011,35,Comisión Nacional de los Derechos Humanos,1067.411782
+2011,36,Seguridad Pública,41056.94251
+2011,37,Consejería Jurídica del Ejecutivo Federal,114.012269
+2011,38,Consejo Nacional de Ciencia y Tecnología,17381.461088
+2011,40,Información Nacional Estadística y Geográfica,4326.825353
+2012,1,Poder Legislativo,11781.395665
+2012,2,Presidencia de la República,3005.15645127
+2012,3,Poder Judicial,39716.381679
+2012,4,Gobernación,22908.93555568
+2012,5,Relaciones Exteriores,9784.370364539998
+2012,6,Hacienda y Crédito Público,54016.89939416
+2012,7,Defensa Nacional,61363.8411687
+2012,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",68628.41289308999
+2012,9,Comunicaciones y Transportes,80300.61892211999
+2012,10,Economía,19907.4043776
+2012,11,Educación Pública,281960.34147113
+2012,12,Salud,112737.33180418
+2012,13,Marina,21407.15954632
+2012,14,Trabajo y Previsión Social,4360.1371799
+2012,15,Reforma Agraria,5351.12671332
+2012,16,Medio Ambiente y Recursos Naturales,58023.98993941
+2012,17,Procuraduría General de la República,13606.68074358
+2012,18,Energía,34661.39874513
+2012,19,Aportaciones a Seguridad Social,405441.13874746003
+2012,20,Desarrollo Social,83878.95909775
+2012,21,Turismo,7743.05954084
+2012,22,Instituto Federal Electoral,15594.119512
+2012,23,Provisiones Salariales y Económicas,85837.61063225
+2012,24,Deuda Pública,252350.46959711003
+2012,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",33783.7395781
+2012,27,Función Pública,1704.37301625
+2012,28,Participaciones a Entidades Federativas y Municipios,494264.53239
+2012,30,Adeudos de Ejercicios Fiscales Anteriores,20820.0083177
+2012,31,Tribunales Agrarios,880.10107326
+2012,32,Tribunal Federal de Justicia Fiscal y Administrativa,2082.1413484600002
+2012,33,Aportaciones Federales para Entidades Federativas y Municipios,500516.08912846004
+2012,34,Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca,13329.50589034
+2012,35,Comisión Nacional de los Derechos Humanos,1246.56559268
+2012,36,Seguridad Pública,49165.838528629996
+2012,37,Consejería Jurídica del Ejecutivo Federal,115.67336637999999
+2012,38,Consejo Nacional de Ciencia y Tecnología,18827.1173758
+2012,40,Información Nacional Estadística y Geográfica,5228.398442
+2013,1,Poder Legislativo,12603.18878207
+2013,2,Presidencia de la República,3273.4406710099997
+2013,3,Poder Judicial,43100.669986349996
+2013,4,Gobernación,61287.73153515
+2013,5,Relaciones Exteriores,8200.8658143
+2013,6,Hacienda y Crédito Público,45506.58691721
+2013,7,Defensa Nacional,63046.70098842
+2013,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",73005.97530301
+2013,9,Comunicaciones y Transportes,80824.29756036
+2013,10,Economía,19667.96891731
+2013,11,Educación Pública,290303.91064349
+2013,12,Salud,118893.90970787
+2013,13,Marina,23937.1535572
+2013,14,Trabajo y Previsión Social,4697.86591532
+2013,15,"Desarrollo Agrario, Territorial y Urbano",21148.03726295
+2013,16,Medio Ambiente y Recursos Naturales,56488.22882433
+2013,17,Procuraduría General de la República,15221.04401665
+2013,18,Energía,103221.91135146
+2013,19,Aportaciones a Seguridad Social,436727.75576217
+2013,20,Desarrollo Social,85670.90039185001
+2013,21,Turismo,6758.25895347
+2013,22,Instituto Federal Electoral,10929.15383545
+2013,23,Provisiones Salariales y Económicas,123107.83151821
+2013,24,Deuda Pública,266755.33931021
+2013,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",34445.72180729
+2013,27,Función Pública,1529.73977801
+2013,28,Participaciones a Entidades Federativas y Municipios,532455.480577
+2013,30,Adeudos de Ejercicios Fiscales Anteriores,15815.3074287
+2013,31,Tribunales Agrarios,915.0949551599999
+2013,32,Tribunal Federal de Justicia Fiscal y Administrativa,2149.84457064
+2013,33,Aportaciones Federales para Entidades Federativas y Municipios,527157.89992213
+2013,34,Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca,13705.04874975
+2013,35,Comisión Nacional de los Derechos Humanos,1359.01337637
+2013,36,Seguridad Pública,0
+2013,37,Consejería Jurídica del Ejecutivo Federal,123.61133117
+2013,38,Consejo Nacional de Ciencia y Tecnología,24232.02608098
+2013,40,Información Nacional Estadística y Geográfica,6171.703924
+2013,41,Comisión Federal de Competencia Económica,79.87453254
+2013,42,Instituto Nacional para la Evaluación de la Educación,75.96398432000001
+2013,43,Instituto Federal de Telecomunicaciones,202.3825794
+2013,50,Instituto Mexicano del Seguro Social,437224.67910872004
+2013,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,189401.063114
+2013,52,Energía,520189.279865
+2013,53,Energía,336005.223284
+2014,1,Poder Legislativo,13277.658215
+2014,2,Oficina de la Presidencia de la República,3525.57748303
+2014,3,Poder Judicial,48874.83223313
+2014,4,Gobernación,77284.93664287
+2014,5,Relaciones Exteriores,9306.47597787
+2014,6,Hacienda y Crédito Público,50280.58330469
+2014,7,Defensa Nacional,66778.96096412999
+2014,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",83726.97282558
+2014,9,Comunicaciones y Transportes,104714.46151241999
+2014,10,Economía,21096.423207719996
+2014,11,Educación Pública,319172.25917382
+2014,12,Salud,120827.79624198
+2014,13,Marina,27052.42163203
+2014,14,Trabajo y Previsión Social,5068.13559068
+2014,15,"Desarrollo Agrario, Territorial y Urbano",25831.528253080003
+2014,16,Medio Ambiente y Recursos Naturales,63351.1401162
+2014,17,Procuraduría General de la República,15570.944416819999
+2014,18,Energía,61334.15956599
+2014,19,Aportaciones a Seguridad Social,480405.23030193
+2014,20,Desarrollo Social,106134.8784386
+2014,21,Turismo,8863.29392603
+2014,22,Instituto Nacional Electoral,12003.203674
+2014,23,Provisiones Salariales y Económicas,146796.22897623002
+2014,24,Deuda Pública,290791.42667064
+2014,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",32588.15350311
+2014,27,Función Pública,1682.9959345799998
+2014,28,Participaciones a Entidades Federativas y Municipios,584904.348705
+2014,30,Adeudos de Ejercicios Fiscales Anteriores,23876.23796609
+2014,31,Tribunales Agrarios,978.7451826
+2014,32,Tribunal Federal de Justicia Fiscal y Administrativa,2268.689402
+2014,33,Aportaciones Federales para Entidades Federativas y Municipios,562405.63611828
+2014,34,Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca,11730.5504266
+2014,35,Comisión Nacional de los Derechos Humanos,1335.803455
+2014,37,Consejería Jurídica del Ejecutivo Federal,133.024105
+2014,38,Consejo Nacional de Ciencia y Tecnología,30344.40235277
+2014,40,Información Nacional Estadística y Geográfica,7921.710423
+2014,41,Comisión Federal de Competencia Económica,290.43679732
+2014,42,Instituto Nacional para la Evaluación de la Educación,588.110881
+2014,43,Instituto Federal de Telecomunicaciones,1171.08135929
+2014,44,Instituto Federal de Acceso a la Información y Protección de Datos,484.275389
+2014,50,Instituto Mexicano del Seguro Social,480377.134206
+2014,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,202529.737461
+2014,52,Energía,575432.003537
+2014,53,Energía,327764.24288
+2015,1,Poder Legislativo,14294.80853285
+2015,2,Oficina de la Presidencia de la República,3560.55650546
+2015,3,Poder Judicial,49390.765637510005
+2015,4,Gobernación,81280.14261663001
+2015,5,Relaciones Exteriores,10866.812370829999
+2015,6,Hacienda y Crédito Público,54415.22332383999
+2015,7,Defensa Nacional,73535.69592617
+2015,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",83637.61835419
+2015,9,Comunicaciones y Transportes,119904.08154102
+2015,10,Economía,17698.031995819998
+2015,11,Educación Pública,326197.77884769003
+2015,12,Salud,121772.35432215
+2015,13,Marina,30534.46014897
+2015,14,Trabajo y Previsión Social,4981.29647793
+2015,15,"Desarrollo Agrario, Territorial y Urbano",26979.28446065
+2015,16,Medio Ambiente y Recursos Naturales,57452.42653497
+2015,17,Procuraduría General de la República,16215.76667443
+2015,18,Energía,111359.25726309
+2015,19,Aportaciones a Seguridad Social,527903.55919435
+2015,20,Desarrollo Social,112439.96912289999
+2015,21,Turismo,11541.49734033
+2015,22,Instituto Nacional Electoral,18945.18782797
+2015,23,Provisiones Salariales y Económicas,204773.23564102
+2015,24,Deuda Pública,318229.41040079
+2015,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",35453.83589807
+2015,27,Función Pública,1952.5896313399999
+2015,28,Participaciones a Entidades Federativas y Municipios,629130.290076
+2015,30,Adeudos de Ejercicios Fiscales Anteriores,25848.02529804
+2015,31,Tribunales Agrarios,995.9563240399999
+2015,32,Tribunal Federal de Justicia Fiscal y Administrativa,2542.50939354
+2015,33,Aportaciones Federales para Entidades Federativas y Municipios,607551.45251866
+2015,34,Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca,10949.26497595
+2015,35,Comisión Nacional de los Derechos Humanos,1382.92227501
+2015,37,Consejería Jurídica del Ejecutivo Federal,141.30515866
+2015,38,Consejo Nacional de Ciencia y Tecnología,31659.579928490002
+2015,40,Información Nacional Estadística y Geográfica,8376.43630542
+2015,41,Comisión Federal de Competencia Económica,466.72489975
+2015,42,Instituto Nacional para la Evaluación de la Educación,921.27142594
+2015,43,Instituto Federal de Telecomunicaciones,1891.46255585
+2015,44,"Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales",850.29596861
+2015,45,Comisión Reguladora de Energía,665.3667090499999
+2015,46,Comisión Nacional de Hidrocarburos,1733.5355506600001
+2015,50,Instituto Mexicano del Seguro Social,521569.800562
+2015,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,225808.181526
+2015,52,Energía,575957.494296
+2015,53,Energía,315260.429223
+2016,1,Poder Legislativo,14393.62632514
+2016,2,Oficina de la Presidencia de la República,3550.45865155
+2016,3,Poder Judicial,57981.69435632
+2016,4,Gobernación,83232.46811823
+2016,5,Relaciones Exteriores,13497.82288745
+2016,6,Hacienda y Crédito Público,48362.66965836
+2016,7,Defensa Nacional,74360.59189021001
+2016,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",79590.76685385
+2016,9,Comunicaciones y Transportes,133362.2701146
+2016,10,Economía,14655.74961407
+2016,11,Educación Pública,322940.7741259
+2016,12,Salud,124340.96100011999
+2016,13,Marina,32120.47120352
+2016,14,Trabajo y Previsión Social,4884.433375449999
+2016,15,"Desarrollo Agrario, Territorial y Urbano",26091.92922449
+2016,16,Medio Ambiente y Recursos Naturales,54912.37710916001
+2016,17,Procuraduría General de la República,16607.89922736
+2016,18,Energía,328995.93629274
+2016,19,Aportaciones a Seguridad Social,580830.76574237
+2016,20,Desarrollo Social,106211.88738364
+2016,21,Turismo,9121.32416533
+2016,22,Instituto Nacional Electoral,15593.07596894
+2016,23,Provisiones Salariales y Económicas,247037.30300968
+2016,24,Deuda Pública,361388.55401716
+2016,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",37012.20201944
+2016,27,Función Pública,2344.29513571
+2016,28,Participaciones a Entidades Federativas y Municipios,693777.57856
+2016,30,Adeudos de Ejercicios Fiscales Anteriores,20814.704997380002
+2016,31,Tribunales Agrarios,961.6217556
+2016,32,Tribunal Federal de Justicia Administrativa,2461.37363054
+2016,33,Aportaciones Federales para Entidades Federativas y Municipios,631340.30141242
+2016,34,Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca,20555.34209884
+2016,35,Comisión Nacional de los Derechos Humanos,1517.66847271
+2016,37,Consejería Jurídica del Ejecutivo Federal,145.06470806000002
+2016,38,Consejo Nacional de Ciencia y Tecnología,31626.55590472
+2016,40,Información Nacional Estadística y Geográfica,7546.855268859999
+2016,41,Comisión Federal de Competencia Económica,481.71759783
+2016,42,Instituto Nacional para la Evaluación de la Educación,993.9625035199999
+2016,43,Instituto Federal de Telecomunicaciones,2022.7025990999998
+2016,44,"Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales",925.90326578
+2016,45,Comisión Reguladora de Energía,646.8160628200001
+2016,46,Comisión Nacional de Hidrocarburos,863.70617711
+2016,47,Entidades no Sectorizadas,11944.523411139999
+2016,50,Instituto Mexicano del Seguro Social,556372.935129
+2016,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,243860.610167
+2016,52,Petróleos Mexicanos,582666.309859
+2016,53,Comisión Federal de Electricidad,333235.297564
+2017,1,Poder Legislativo,14838.44653524
+2017,2,Oficina de la Presidencia de la República,3654.4269876
+2017,3,Poder Judicial,60203.782567
+2017,4,Gobernación,75452.32451525
+2017,5,Relaciones Exteriores,13064.595912620001
+2017,6,Hacienda y Crédito Público,47648.72185644
+2017,7,Defensa Nacional,74419.29194374001
+2017,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",67295.93438258
+2017,9,Comunicaciones y Transportes,105008.90717042
+2017,10,Economía,9779.32993527
+2017,11,Educación Pública,302310.23961042997
+2017,12,Salud,132186.17437651
+2017,13,Marina,34133.41937164
+2017,14,Trabajo y Previsión Social,3864.31775613
+2017,15,"Desarrollo Agrario, Territorial y Urbano",18816.883572759998
+2017,16,Medio Ambiente y Recursos Naturales,39905.356480769995
+2017,17,Procuraduría General de la República,16027.549931020001
+2017,18,Energía,6081.51619577
+2017,19,Aportaciones a Seguridad Social,634001.5181107
+2017,20,Desarrollo Social,98804.41150450999
+2017,21,Turismo,8068.49986892
+2017,22,Instituto Nacional Electoral,14748.841908530001
+2017,23,Provisiones Salariales y Económicas,387500.32604696
+2017,24,Deuda Pública,406450.26174282003
+2017,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",37339.71085247
+2017,27,Función Pública,1551.6446508499998
+2017,28,Participaciones a Entidades Federativas y Municipios,772417.563246
+2017,30,Adeudos de Ejercicios Fiscales Anteriores,19313.16220553
+2017,31,Tribunales Agrarios,922.20975644
+2017,32,Tribunal Federal de Justicia Administrativa,2616.1290251
+2017,33,Aportaciones Federales para Entidades Federativas y Municipios,661656.3159137199
+2017,34,Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca,35961.92335528
+2017,35,Comisión Nacional de los Derechos Humanos,1655.1154915
+2017,37,Consejería Jurídica del Ejecutivo Federal,135.84516697
+2017,38,Consejo Nacional de Ciencia y Tecnología,27078.61128543
+2017,40,Información Nacional Estadística y Geográfica,6547.339290989999
+2017,41,Comisión Federal de Competencia Económica,512.63791651
+2017,42,Instituto Nacional para la Evaluación de la Educación,1138.26203295
+2017,43,Instituto Federal de Telecomunicaciones,2111.13737557
+2017,44,"Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales",896.93120111
+2017,45,Comisión Reguladora de Energía,816.55875911
+2017,46,Comisión Nacional de Hidrocarburos,908.50292101
+2017,47,Entidades no Sectorizadas,8742.432495770001
+2017,48,Cultura,13571.937153719999
+2017,50,Instituto Mexicano del Seguro Social,612100.420301
+2017,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,262495.881862
+2017,52,Petróleos Mexicanos,483544.842475
+2017,53,Comisión Federal de Electricidad,391541.108564
+2018,1,Poder Legislativo,15185.93747741
+2018,2,Oficina de la Presidencia de la República,3682.05237506
+2018,3,Poder Judicial,64817.05294554
+2018,4,Gobernación,85080.25961821001
+2018,5,Relaciones Exteriores,14303.20856202
+2018,6,Hacienda y Crédito Público,46661.16992343
+2018,7,Defensa Nacional,80936.15668057001
+2018,8,"Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",72056.33790778999
+2018,9,Comunicaciones y Transportes,142244.50550943
+2018,10,Economía,10249.38406145
+2018,11,Educación Pública,315466.55378367
+2018,12,Salud,123534.13348522
+2018,13,Marina,35581.61666981
+2018,14,Trabajo y Previsión Social,4534.179389970001
+2018,15,"Desarrollo Agrario, Territorial y Urbano",21296.103160420003
+2018,16,Medio Ambiente y Recursos Naturales,43582.308482379995
+2018,17,Procuraduría General de la República,16838.1677376
+2018,18,Energía,5695.01268205
+2018,19,Aportaciones a Seguridad Social,710738.9774100999
+2018,20,Desarrollo Social,100704.50678147
+2018,21,Turismo,9775.48971551
+2018,22,Instituto Nacional Electoral,23998.55106228
+2018,23,Provisiones Salariales y Económicas,261466.872004
+2018,24,Deuda Pública,452874.74507296004
+2018,25,"Previsiones y Aportaciones para los Sistemas de Educación Básica, Normal, Tecnológica y de Adultos",37431.81304017
+2018,27,Función Pública,1824.44371391
+2018,28,Participaciones a Entidades Federativas y Municipios,844045.176555
+2018,30,Adeudos de Ejercicios Fiscales Anteriores,61215.995300970004
+2018,31,Tribunales Agrarios,1012.50432771
+2018,32,Tribunal Federal de Justicia Administrativa,2926.30414114
+2018,33,Aportaciones Federales para Entidades Federativas y Municipios,695710.54478921
+2018,34,Erogaciones para los Programas de Apoyo a Ahorradores y Deudores de la Banca,38168.5
+2018,35,Comisión Nacional de los Derechos Humanos,1940.13909831
+2018,37,Consejería Jurídica del Ejecutivo Federal,142.53473821
+2018,38,Consejo Nacional de Ciencia y Tecnología,27426.74075972
+2018,40,Información Nacional Estadística y Geográfica,7853.669680489999
+2018,41,Comisión Federal de Competencia Económica,604.5919743200001
+2018,42,Instituto Nacional para la Evaluación de la Educación,1207.08948216
+2018,43,Instituto Federal de Telecomunicaciones,2164.6424648899997
+2018,44,"Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales",1041.62375075
+2018,45,Comisión Reguladora de Energía,1144.68146953
+2018,46,Comisión Nacional de Hidrocarburos,966.8442234500001
+2018,47,Entidades no Sectorizadas,8441.97093324
+2018,48,Cultura,14267.464137809999
+2018,50,Instituto Mexicano del Seguro Social,682140.426978
+2018,51,Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,289504.006484
+2018,52,Petróleos Mexicanos,498375.62097
+2018,53,Comisión Federal de Electricidad,472101.933607
